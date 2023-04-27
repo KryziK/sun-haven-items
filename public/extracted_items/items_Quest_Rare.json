@@ -1,0 +1,178 @@
+[
+   {
+      "id" : 21022,
+      "name" : "Seal of Sun Haven",
+      "description" : "A crest bearing the sigil of Sun Haven, Lucia enchanted it with a spell to aid mana regeneration. Permanently increases your max mana by 10.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21023,
+      "name" : "Soul Sap",
+      "description" : "Viscous sap drained from a soul sap tree, it feels slightly tingly to the touch.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21024,
+      "name" : "Great City Poster",
+      "description" : "A poster depicting the bustling streets of the Great City, Vaan wrote a message on the back.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21025,
+      "name" : "Stone of Tongues",
+      "description" : "An enchanted stone that can translate any language, or at least the legends claim.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21036,
+      "name" : "Enchanted Soul Sap",
+      "description" : "Iris has enchanted this sap, augmenting its mysterious magical properties.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21101,
+      "name" : "Pen Pal Quill",
+      "description" : "Permanently gain 2 community tokens every morning.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25000,
+      "name" : "Pomegranate of Power",
+      "description" : "A legendary trinket, made by an ancient people. It contains the essence of a blessed pomegranate and passes a small bit of that power onto its holder.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25001,
+      "name" : "Warrior's Pauldron",
+      "description" : "Said to have been smithed by a legendary armorer, wielding this pauldron makes you feel as indomitable as the mountains.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25002,
+      "name" : "Golden Star Gear",
+      "description" : "This strange gear is undoubtedly very old, yet it looks as if it were still newly made. Where did it come from, and how did it end up in a cave?",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25003,
+      "name" : "Ceremonial Dagger",
+      "description" : "A golden dagger with a blood red ruby set on its pommel. Whatever the purpose of this dagger was, it's definitely seen plenty of use.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25004,
+      "name" : "Fighter's Crest",
+      "description" : "A crest said to have been worn by a legendary fighter. Whether the legends are true or not, wearing the crest increases your combat potency.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25005,
+      "name" : "Sapphire Wisp",
+      "description" : "An elemental wisp, hardened into an unnaturally smooth gem of sapphire. Possessing it increases one's passion for battle.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25006,
+      "name" : "Ruby Wisp",
+      "description" : "An elemental wisp, hardened into an unnaturally smooth gem of ruby. Possessing it increases one's fortitude and very life essence.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25007,
+      "name" : "Floor 1 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25008,
+      "name" : "Floor 5 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25009,
+      "name" : "Floor 10 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25010,
+      "name" : "Floor 15 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25011,
+      "name" : "Floor 20 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25012,
+      "name" : "Floor 25 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25013,
+      "name" : "Floor 30 Dungeon Key",
+      "description" : "",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25014,
+      "name" : "Letter From Lucia",
+      "description" : "A handwritten decree of peace and understanding, scribed by Lucia herself. Despite its hasty drafting on the battlefield, the Archmage's penmanship is without equal.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   },
+   {
+      "id" : 25015,
+      "name" : "Claude's Concerto",
+      "description" : "The original copy of Claude's famous concerto. It bears the composer's own signature, written in a blood red ink.",
+      "category" : "Quest",
+      "rarity" : "Rare",
+      "hasIcon" : true
+   }
+]

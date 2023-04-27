@@ -1,0 +1,66 @@
+[
+   {
+      "id" : 20001,
+      "name" : "Squashed Banana",
+      "description" : "Not the worst thing to have thrown at you, at least.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20005,
+      "name" : "Lightning in a Bottle",
+      "description" : "This was much easier to catch than you've been led to believe.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20006,
+      "name" : "Antler",
+      "description" : "If you look closely, you can see this antler is actually covered in very tiny scales.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20007,
+      "name" : "Torn Page",
+      "description" : "The remains of an ancient book, unreadable runes are scrawled across the pages.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20013,
+      "name" : "Haunted Log",
+      "description" : "A log, haunted by the restless soul of a vengeful stump.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20015,
+      "name" : "Ice Cube",
+      "description" : "A terribly cold cube of ice, it doesn't melt even on the hottest day.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20017,
+      "name" : "Soot",
+      "description" : "Smoldering ash, it's still rather hot to the touch.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20019,
+      "name" : "Snow Ball",
+      "description" : "Packed so extremely tight that it feels more like a rock than snow.",
+      "category" : "Monster",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   }
+]

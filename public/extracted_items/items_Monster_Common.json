@@ -1,0 +1,154 @@
+[
+   {
+      "id" : 20000,
+      "name" : "Leafie's Leaf",
+      "description" : "It looks innocent, but its edges are dangerously sharp.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20002,
+      "name" : "Bushie's Branch",
+      "description" : "The remnants of a fallen foe.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : false
+   },
+   {
+      "id" : 20003,
+      "name" : "Bug Shell",
+      "description" : "It's just a shell, but it's harder than iron.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20009,
+      "name" : "Fur Tuft",
+      "description" : "A tuft of dirty fur, it's covered in mineshaft dust.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20011,
+      "name" : "Drill Bit",
+      "description" : "An impressive appendage, perfectly adapted to life underground.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20012,
+      "name" : "Green Pepper Flakes",
+      "description" : "Dried peppers, crushed into flakes. The drying process made these peppers extra spicy!",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20014,
+      "name" : "Hot Sauce",
+      "description" : "A Scorpepper's sting is searingly hot, owed all to heat of their saucey venom. Silver lining? It's the ultimate meal enhancer.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20016,
+      "name" : "Orange Pepper Flakes",
+      "description" : "Dried peppers, crushed into flakes. The drying process made these peppers extra spicy!",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20018,
+      "name" : "Sticky Sap",
+      "description" : "Some people use this ultra-sticky sap as a glue, owing to the fact it sticks almost anything together fairly permanently.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20020,
+      "name" : "Lava Honey",
+      "description" : "Sweet like delicious honey... and hot like molten lava...",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20022,
+      "name" : "Dandelion",
+      "description" : "Grown by the monster Weedil. Despite its appearance this 'flower' is, in fact, a weed.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20024,
+      "name" : "Fly",
+      "description" : "Flies are pretty gross, but it's said that frogs will gift them to those who are worthy. Worthy of what, though?",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20025,
+      "name" : "Sludge",
+      "description" : "A handful of gross sewer muck, it seems some lingering magical force had inadvertently enchanted it into a rampaging monster.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20026,
+      "name" : "Cardboard Box Piece",
+      "description" : "A piece of cardboard. With enough of these, maybe you could create something incredible?",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20027,
+      "name" : "Bent Traffic Cone",
+      "description" : "A discarded traffic cone from the streets above, looks like a crab was using it as a makeshift wizard's hat.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20028,
+      "name" : "Tough Tin Can",
+      "description" : "Monster trash from the streets above, it seems as if the citizens of Withergate aren't ones for recycling.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20029,
+      "name" : "Tough Trash Bag",
+      "description" : "An empty trash bag from the streets above, it's extra tough and not a bad home for a crab.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20030,
+      "name" : "Sand",
+      "description" : "Normal castles are built of stone and wood, but legendary castles are built from sand.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 20031,
+      "name" : "Croc Scale",
+      "description" : "Long ago the untamed swamps of Withergate were home to vicious crocodiles. Though the Demons have since made their city on the land, the crocs have adapted to sewer life fairly well.",
+      "category" : "Monster",
+      "rarity" : "Common",
+      "hasIcon" : true
+   }
+]

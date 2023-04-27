@@ -1,0 +1,42 @@
+[
+   {
+      "id" : 253,
+      "name" : "Cerberus Mount Whistle",
+      "description" : "This whistle will call your ferocious cerberus companion to your side.",
+      "category" : "Use",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1255,
+      "name" : "Sunite Key",
+      "description" : "A sunite key crafted especially for the gates in the mines, this will lead to the mine's deepest and most dangerous levels.",
+      "category" : "Use",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1256,
+      "name" : "Glorite Key",
+      "description" : "Constructed of Glorite, this key can open the ancient locks of King Minos's Glorite mine.",
+      "category" : "Use",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1257,
+      "name" : "King's Lost Mine Key",
+      "description" : "An ancient key that was held by King Aster, though it became lost after his time. What was Dynus doing with it?",
+      "category" : "Use",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1258,
+      "name" : "King Minos's Emblem",
+      "description" : "An emblem stamped with the seal of King Minos, it grants its bearer access to the Midnight Isle.",
+      "category" : "Use",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   }
+]
