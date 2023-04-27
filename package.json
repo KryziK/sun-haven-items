@@ -1,8 +1,8 @@
 {
   "name": "sunhaven-items",
-  "homepage": "https://kryzik.github.io/sun-haven-items.github.io",
+  "homepage": "https://kryzik.github.io/sun-haven-items",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
