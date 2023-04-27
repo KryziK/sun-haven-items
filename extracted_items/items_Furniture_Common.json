@@ -1,0 +1,282 @@
+[
+   {
+      "id" : 9351,
+      "name" : "Furnace (Old)",
+      "description" : "I can smelt ore into bars with this.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 9352,
+      "name" : "Anvil (Old)",
+      "description" : "A heavy anvil, the essential tool for hammering metal bars into useful armor and tools.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 9358,
+      "name" : "Geode Muncher",
+      "description" : "A machine that can crack stones, revealing any hidden treasures inside. ",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10003,
+      "name" : "Wooden Table",
+      "description" : "A basic wooden table, not much more than some planks and nails put together.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10004,
+      "name" : "Candle",
+      "description" : "A simple wax candle, this will light up the darkness.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10007,
+      "name" : "Bunny Side Table",
+      "description" : "The drawer handle is a little carrot, how cute!",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10008,
+      "name" : "Bunny Wardrobe",
+      "description" : "Ever seen a wardrobe with giant bunny ears? Well, now you have!",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10009,
+      "name" : "Shelf",
+      "description" : "A standard wooden shelf, great for displaying knick knacks on your walls.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10100,
+      "name" : "House (Old)",
+      "description" : "Place your house!",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10110,
+      "name" : "Chest",
+      "description" : "A basic storage chest.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16400,
+      "name" : "Berry Forageable",
+      "description" : "",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16401,
+      "name" : "Money Bag Forageable",
+      "description" : "",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16404,
+      "name" : "Mana Tome Forageable",
+      "description" : "",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50000,
+      "name" : "Red Butterfly Couch",
+      "description" : "The back of this couch resembles the wavy wings of a butterfly. Whether that was intentional or not, the couch is stilly really fancy.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50001,
+      "name" : "Magenta Chaise Couch",
+      "description" : "One of the fancier pieces of furniture to come from the Great City's experimental craftsmen.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50002,
+      "name" : "Teal Sectional Couch ",
+      "description" : "A mighty four cushion sectional couch, it can fit into a corner or even work to close off an area room.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50003,
+      "name" : "Brown Leather Couch",
+      "description" : "Don't worry, it's made out of an artificial leather. It looks just like the real deal, and no animals were harmed making it! Neat.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50004,
+      "name" : "Fancy Blue Dining Chair",
+      "description" : "Striking blue wood, from King Minos's royal forest, paired with smooth velvet seat cushions. Oh yeah, this is fancy stuff.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50005,
+      "name" : "Carnival Balloons",
+      "description" : "Balloons commemorating the great Withergate carnival.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50006,
+      "name" : "Withergate Balloons",
+      "description" : "A monstrous assortment of balloons.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50007,
+      "name" : "Monster Mouth Chair",
+      "description" : "Take a load off your tired teeth- er, your tired FEET- with this monster chair.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50008,
+      "name" : "Monster Mouth Table",
+      "description" : "Table monsters aren't such bad guys. They might look scary, but they really just want to be a table.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50009,
+      "name" : "Monster Mouth Couch",
+      "description" : "It looks bit forboding, maybe, but it's still pretty comfortable.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50010,
+      "name" : "Monster Mouth Wardrobe",
+      "description" : "This wardrobe hungers... FOR YOUR CLOTHES!",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50013,
+      "name" : "Gothic Couch",
+      "description" : "You're not sure what leather this couch has been upholstered in, but whatever it is it seems to reflect not even the brightest of lights.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50014,
+      "name" : "Gothic Chaise Couch",
+      "description" : "A couch in the favored style of Withergate's most socially (and financially) affluent Demons. This one is just a reproduction made with materials more suited to a mere peasant... like you!",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50015,
+      "name" : "Gothic Hutch",
+      "description" : "You can keep all sorts of stuff in this... plates, cups, bats, extra fangs... whatever you want, really.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50017,
+      "name" : "Pumpkin Lamp",
+      "description" : "A tiny pumpkin with a lamp light inserted into it. Great for lighting up a spooky midnight walk, or maybe just your bedroom.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50018,
+      "name" : "Pumpkin Couch",
+      "description" : "Sit your rumpkin down on the pumpkin... just watch out of the eyes.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50020,
+      "name" : "Pumpkin Table",
+      "description" : "A ghoulishly carved table bedecked with a flowing pumpkin tablecloth.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50021,
+      "name" : "Pumpkin Wardrobe",
+      "description" : "Keeps your clothes nice and pumpkin-fresh.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50024,
+      "name" : "Purple Wooden Square Desk",
+      "description" : "Made of wood cut from the trees of Withergate forest, it's rather eerie looking desk but just as sturdy and reliable as any other.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50025,
+      "name" : "Purple Wooden Chair",
+      "description" : "A simple ordinary chair, made out of haunted purple wood.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50026,
+      "name" : "Purple Stump",
+      "description" : "A stump of a strange purple tree. It'll make a good stool, if nothing else.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50034,
+      "name" : "Small Mystic's Bookshelf",
+      "description" : "Small shelves packed with just a few of the magical essentials any mystic would find themselves needing.",
+      "category" : "Furniture",
+      "rarity" : "Common",
+      "hasIcon" : true
+   }
+]

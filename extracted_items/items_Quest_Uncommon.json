@@ -1,0 +1,122 @@
+[
+   {
+      "id" : 21037,
+      "name" : "Bag of Kitten Nip",
+      "description" : "A mixture of dried herbs, it smells quite strange but apparently kittens love the stuff. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21038,
+      "name" : "Medical Glove",
+      "description" : "A glove made out of some kind of smooth, squeaky material. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21039,
+      "name" : "Lost Letter",
+      "description" : "This lost letter should be returned to the mail carrier.",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21040,
+      "name" : "Reading Glasses",
+      "description" : "A slightly dusty pair of reading glasses. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21041,
+      "name" : "Sun Haven Library Book",
+      "description" : "The first page is stamped SUN HAVEN PUBLIC LIBRARY.",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21042,
+      "name" : "Eastern Bangle",
+      "description" : "The colors represent a Region in the east, and a piece of molten metal looks stuck to the normally smooth edge of the bangle. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21043,
+      "name" : "Lost Toy",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21044,
+      "name" : "Grime Covered Magic Charm",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21045,
+      "name" : "Waterlogged Helmet",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21046,
+      "name" : "Cask of Elven Wine",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21047,
+      "name" : "Discolored Fishing Lure",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21048,
+      "name" : "Dragon Chow",
+      "description" : "Kitty's special baby dragon chow. It doesn't look very appetizing, but then again, you're not a baby dragon.",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21049,
+      "name" : "Dragon Trap",
+      "description" : "It's a box. It's literally just a box. But maybe it will do the trick?",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21050,
+      "name" : "Solon Order Form",
+      "description" : "An order form for dozens of pieces of equipment. Solon must be able to work fast to complete orders as big as these!",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21051,
+      "name" : "Chunky Grouper",
+      "description" : "A fat, oily grouper. Most anglers throw them back, as they make a poor meal. Unless you're a baby dragon, that is.",
+      "category" : "Quest",
+      "rarity" : "Uncommon",
+      "hasIcon" : true
+   }
+]

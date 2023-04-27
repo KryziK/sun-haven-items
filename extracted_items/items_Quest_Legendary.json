@@ -1,0 +1,18 @@
+[
+   {
+      "id" : 21122,
+      "name" : "Gorwin's Gift",
+      "description" : "A masterfully cut gem, shaped into the emblem of Sun Haven. A wonderful gift from Gorwin and an offering of peace.",
+      "category" : "Quest",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   },
+   {
+      "id" : 21123,
+      "name" : "Ancient Nel'Varian Text",
+      "description" : "Ancient Nel'Varian text, bound in a protective leather cover. Surely Amanda won't notice it's missing...",
+      "category" : "Quest",
+      "rarity" : "Legendary",
+      "hasIcon" : true
+   }
+]

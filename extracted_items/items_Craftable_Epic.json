@@ -1,0 +1,1610 @@
+[
+   {
+      "id" : 1003,
+      "name" : "Diamond",
+      "description" : "A person's best friend.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1004,
+      "name" : "Havenite",
+      "description" : "A mysterious and beautiful gem, found only in the earth beneath Sun Haven.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1005,
+      "name" : "Black Diamond",
+      "description" : "A rare black diamond. They're not found very often and are considered a miner's blessing.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1103,
+      "name" : "Mithril Ore",
+      "description" : "I can smelt this into a bar.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1110,
+      "name" : "Fire Crystal",
+      "description" : "The elemental force of fire, hardened into a crystal.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1111,
+      "name" : "Earth Crystal",
+      "description" : "The elemental force of earth, hardened into a crystal.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1112,
+      "name" : "Water Crystal",
+      "description" : "The elemental force of water, hardened into a crystal.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1119,
+      "name" : "Enhanced Adamant Bar",
+      "description" : "An adamant bar, enhanced with Withergate concrete and dark magic.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1125,
+      "name" : "Enchanted Adamant Bar",
+      "description" : "An adamant bar, enchanted with Elven magic.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 1203,
+      "name" : "Mithril Bar",
+      "description" : "A bar of refined mithril, though beautiful to the eyes its strength and durability are almost unmatched.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2009,
+      "name" : "Hardwood Beam",
+      "description" : "A solid beam of Hardwood, usable in crafting. Beam me up!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2110,
+      "name" : "Dragon Scale",
+      "description" : "Though comparatively tiny compared to a scale from a fully grown dragon, it's still harder than mithril.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2113,
+      "name" : "Golden Wool",
+      "description" : "A bundle of pure golden wool, this golden animal product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2114,
+      "name" : "Golden Log",
+      "description" : "Who needs gold leaf when you've got gold log? This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2115,
+      "name" : "Golden Feather",
+      "description" : "Solid gold, yet no heavier than a normal feather. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2116,
+      "name" : "Golden Silk",
+      "description" : "Luxurious silk woven of pure gold. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2117,
+      "name" : "Sandstone Ore",
+      "description" : "A dusty chunk of sandstone, you wouldn't want to drop this on your toes.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2118,
+      "name" : "Sandstone Fish",
+      "description" : "Though an average size fish, its solid sandstone scales make it quite heavy.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2300,
+      "name" : "Classic Mailbox",
+      "description" : "A stadard issue mailbox from the Four Region Postal Service (FRPS).",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2301,
+      "name" : "Smithed Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2302,
+      "name" : "Moon Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2303,
+      "name" : "Birdhouse Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2304,
+      "name" : "Orange Top Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2305,
+      "name" : "Flower Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2306,
+      "name" : "Pink Bunny Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 2307,
+      "name" : "Demon Mailbox",
+      "description" : "A customized mailbox for your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3053,
+      "name" : "Golden Pomegranate",
+      "description" : "Adventurers tell tales of shiny golden pomegranates, visible only to seasoned explorers.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3054,
+      "name" : "Golden Apple",
+      "description" : "A shiny golden apple. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3055,
+      "name" : "Golden Orange",
+      "description" : "A shiny golden orange. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3056,
+      "name" : "Golden Blueberry",
+      "description" : "Shiny golden blueberries. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3057,
+      "name" : "Golden Strawberry",
+      "description" : "Shiny golden strawberries. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3058,
+      "name" : "Golden Peach",
+      "description" : "A shiny golden peach. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3059,
+      "name" : "Golden Raspberry",
+      "description" : "Shiny golden raspberries. This golden product will sell for a high price.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3085,
+      "name" : "Advanced Attack Potion",
+      "description" : "Imbued with the incredible strength of the dragons themselves, this potion boosts the strength of physical attacks for a short time.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3086,
+      "name" : "Advanced Defense Potion",
+      "description" : "Imbued with the indomitable spirit of the dragons themselves, this potion boosts defense for a short time.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3087,
+      "name" : "Advanced Spell Damage Potion",
+      "description" : "Imbued with the arcanic might of the dragons themselves, this potion boosts spell casting potency for a short time.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3638,
+      "name" : "Bat Window",
+      "description" : "Found yourself stuck choosing between getting a window or getting bats? Why not get BOTH? You deserve it.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3766,
+      "name" : "Incredible Spell Damage Potion",
+      "description" : "A powerful potion brewed from the candy gems found in the monsterfolk lands.\n\n\"You want my favor... yet you offer me mere candy? Monsterfolk... are so foolish.\" - Dynus",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3767,
+      "name" : "Incredible Attack Potion",
+      "description" : "A powerful potion brewed from the candy gems found in the monsterfolk lands.\n\n\"Such power this 'candy' possesses... perhaps the monsterfolk have something to offer me after all.\" - Dynus",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3768,
+      "name" : "Incredible Defense Potion",
+      "description" : "A powerful potion brewed from the candy gems found in the monsterfolk lands.\n\n\"The monsterfolk shall have a home in Withergate... and I shall have their tribute.\" - Dynus",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3769,
+      "name" : "Withergate Mining Potion",
+      "description" : "Made of melted candy and lots of sugar, it's the perfect energy boost for breaking stuff faster as you work in the Withergate mines.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3820,
+      "name" : "Butter",
+      "description" : "Half the ingredients of buttered toast.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3837,
+      "name" : "Hearty Armor Pie",
+      "description" : "Soldiers of the Great Army have one day they look forward to over all others: pie day at the mess hall.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3838,
+      "name" : "Lemon Meringue",
+      "description" : "It's no fun to mix by hand, but this fluffy cream is (mostly) worth the effort.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3848,
+      "name" : "Chocolate Cake",
+      "description" : "You should always have cake on your birthday! In fact, maybe you should have a cake every day? You know, just to stay on the safe side.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3849,
+      "name" : "Carrot Cake",
+      "description" : "You should always have cake on your birthday! In fact, maybe you should have a cake every day? You know, just to stay on the safe side.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3854,
+      "name" : "Withercake",
+      "description" : "A delicacy enjoyed by the Demon race. Made with ingredients of questionable edibility, it is most definitely an acquired taste.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3864,
+      "name" : "Cheese Souffle",
+      "description" : "In the old days, souffles were prone to deflating if disturbed. With a little mana, however, you can have the perfect souffle all the time!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3866,
+      "name" : "Caramel Creme Brulee",
+      "description" : "A baked custard dessert, torched with just a touch of fire magic. 'Creme Brulee' is a fancy way of saying it's slightly burnt!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3868,
+      "name" : "Apple Crisp Ice Cream",
+      "description" : "Just like hot apple crisp straight from the oven, only it's ice cold and in a cone.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3869,
+      "name" : "Blueberry Ice Cream",
+      "description" : "Ice cream flavored with fresh blueberries. Perfect for a hot summer day - or any other time!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3870,
+      "name" : "Strawberry Ice Cream",
+      "description" : "Ice cream flavored with fresh strawberry. Perfect for a hot summer day - or any other time!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3871,
+      "name" : "Berry Ice Cream",
+      "description" : "Ice cream flavored with fresh berries. Perfect for a hot summer day - or any other time!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3872,
+      "name" : "Raspberry Sorbet",
+      "description" : "Sor-bet? Sor-bit? Well, however you say it, it's delicious and refreshing!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3873,
+      "name" : "Seaweed Ice Cream",
+      "description" : "An ice cream flavor that proves just because you CAN, it doesn't mean you SHOULD.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3874,
+      "name" : "Sandy Ice Cream",
+      "description" : "It looks just like an ice cream you dropped on the beach! It also tastes like one, too.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3875,
+      "name" : "Chocolate Ice Cream",
+      "description" : "The definitive, classic ice cream flavor that is second to none (except for vanilla).",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3877,
+      "name" : "The Prehistoric Special",
+      "description" : "A tooth-breaking dessert straight from the stone age.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3878,
+      "name" : "Cinnamon Ice Cream",
+      "description" : "The spicy cinnamon mixed with the sweet ice cream produces a fairly complex flavor profile. Yummy!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3879,
+      "name" : "Neapolitan Ice Cream",
+      "description" : "Something is definitely fishy about this multi-colored ice cream.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3899,
+      "name" : "Glass of Pure Water",
+      "description" : "When cleansed of impurities, simple water has a surpsingly potent restorative effect.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3911,
+      "name" : "Candy Cane Ale",
+      "description" : "Sickly sweet peppermint ale enjoyed around the holidays (by anyone who can stomach it, at least).",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3916,
+      "name" : "Cinnamon Spice Latte",
+      "description" : "A new style of drink from the Great City, it didn't take long to spread across the four regions.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 3917,
+      "name" : "Magically Delicious Drink",
+      "description" : "How is this drink so delicious? Magic. Literally, it's magic. A mage cast a magic spell on it. That's how.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 4543,
+      "name" : "Simple Magic Fertilizer",
+      "description" : "Fertilizer rich with the magic of water, increasing your crop's chance to stay watered over night.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 6002,
+      "name" : "Hear's Help Amulet",
+      "description" : "A strange amulet the likes of which you've never seen before. It senses its wearer's life force and emits a healing effect when it detects dangerously low levels.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 6004,
+      "name" : "Hungry Adventurer's Amulet",
+      "description" : "A ceremonial fork worn on a linen chain, no better accessory is there for declaring one's affinity for food.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 6005,
+      "name" : "Amulet of Time",
+      "description" : "A pocketwatch on a silver chain, enchanted with incredibly strong chronomancy. Its wearer can slip through time, controlling the outcome of battles.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 6007,
+      "name" : "Diamond Amulet",
+      "description" : "A piece of carved turquoise, hymns and mantras have been placed on it to impart protection and endurance.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 6008,
+      "name" : "Rusted Amulet",
+      "description" : "Rusted from untold ages spent under water, at least it isn't the WORST thing you could find in a birdbath...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 6009,
+      "name" : "Candy Necklace",
+      "description" : "A necklace of candy gems, woven by an artistic Monsterfolk. Is it meant to frighten enemies, or just look stylish?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10103,
+      "name" : "Barn",
+      "description" : "Your farm animals will stay nice and cozy in this sturdy wooden barn.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10221,
+      "name" : "Cloud Bed",
+      "description" : "It's like sleeping on a cloud. No, literally. This bed is like sleeping on a cloud.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10263,
+      "name" : "Weapons Rack",
+      "description" : "A true warrior should always have a weapon within arm's length.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10309,
+      "name" : "Painter's Design Easel",
+      "description" : "Bring out your inner painter with this artsy easel.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10325,
+      "name" : "Red Quilted Couch",
+      "description" : "It must have taken a long time to quilt an entire couch.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10365,
+      "name" : "Camp Fire",
+      "description" : "Who doesn't love to sit around a good fire?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10492,
+      "name" : "Dynus Victory Trophy",
+      "description" : "A glorious golden cup, commemorating your victory against the Moon Dragon.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10493,
+      "name" : "Dynus Plushie",
+      "description" : "A plushie of legendary size, perfectly capturing the Moon Dragon's majesty and might.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10494,
+      "name" : "Wishing Well",
+      "description" : "Imbued with a mystical power not quite of this world, this well is rumored to be one of Dynus's most prized treasures.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10501,
+      "name" : "Large Fishing Net",
+      "description" : "Automatically catches fish in the river, ponds and beach of your farm. This net covers a lot of water, which means it's going to catch a lot of fish.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10688,
+      "name" : "Wizard Crafting Table",
+      "description" : "A mage's study desk, capable of conjuring mystical recipes. Brews and transmutates cheaper than the alchemy tables, among other things.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10693,
+      "name" : "Withergate Totem",
+      "description" : "An enchanted totem imbued with Withergate mana, it enriches the soil and allows Withergate crops to grow in Sun Haven.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10697,
+      "name" : "Nel'Vari Totem",
+      "description" : "An enchanted totem imbued with Nel'Varian mana, it enriches the soil and allows Nel'Vari crops to grow in Sun Haven.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10704,
+      "name" : "Advanced Furniture Table",
+      "description" : "A specialized carpentry bench, you can make furniture and decorations with this. This table contains advanced recipes for experienced crafters.\nMore expensive than buying furniture in a store, but the convenience is nice.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10707,
+      "name" : "Ice Cream Cart",
+      "description" : "Kept freezing cold thanks to a specialized form of water magic, you can freeze ingredients into icy treats with this.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 10739,
+      "name" : "Sun Haven Totem",
+      "description" : "An enchanted totem imbued with Sun Haven mana, it enriches the soil and allows Sun Haven crops to grow in Withergate or Nel'Vari.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11005,
+      "name" : "Snappy Plant",
+      "description" : "Snips and bites at seemingly anything that comes close to it, a favored houseplant for many in Withergate.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11008,
+      "name" : "Pepper",
+      "description" : "Some people argue that the spice is an acquired taste, but this fiery pepper is great for adding an edge to any dish.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11027,
+      "name" : "Dragon Fruit",
+      "description" : "Beloved by dragons and anyone else who can tolerate the spice of this fruit's fiery seeds.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11037,
+      "name" : "Hops",
+      "description" : "Tiny little flower buds that are crucial to the brewing process.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11049,
+      "name" : "Ghost Pepper",
+      "description" : "If you're brave enough to try one of these ultra hot peppers just remember to drink milk and not water!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11051,
+      "name" : "Stormelon",
+      "description" : "A species of melon created by Elemental enchanters that contains the elemental force of storm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11054,
+      "name" : "Chocoberry",
+      "description" : "A standard semi-sweet chocolate on their own, but using them in recipes brings out their true sweetness.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11058,
+      "name" : "Heart Berry",
+      "description" : "A berry whose juice is often served as a drink during romantic meals.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11070,
+      "name" : "Cranberry",
+      "description" : "Cranberries are highly valued for the sweet sauce they're cooked into for holiday feasts.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11072,
+      "name" : "Green Beans",
+      "description" : "They're beans and they are most certainly green.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11073,
+      "name" : "Peas",
+      "description" : "Pass the peas, please.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11075,
+      "name" : "Cotton",
+      "description" : "It may be second to wool, but cotton is never forgotten.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11076,
+      "name" : "Honeysuckle",
+      "description" : "Flowering vines that are found native in the tundras of the Northern Region.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11077,
+      "name" : "Candy Cane",
+      "description" : "The most popular winter candy.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11078,
+      "name" : "Snow Pea",
+      "description" : "There's no peas like snow peas.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11083,
+      "name" : "Sun Orb",
+      "description" : "A burning orb of energy, its warmth alone is revitalizing.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11104,
+      "name" : "Lily",
+      "description" : "These beautiful flowers were brought to these lands from a far away continent. They grow very well here despite not being a native species.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11110,
+      "name" : "Lotus",
+      "description" : "The flowers of the lotus plant are known for representing renewal, blooming each day with a refreshed beauty.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11203,
+      "name" : "Fishing Permit Tier 3",
+      "description" : "An official piece of paper permitting you to deploy a high number of fishing nets. Increase fishing net capacity by 6. Only one tier 3 fishing permit can be used per world.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11206,
+      "name" : "Land Permit Tier 3",
+      "description" : "An official piece of paper permitting you to deploy a high number of crops. Increase crop capacity by 25. Only one tier 3 land permit can be used per world.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11212,
+      "name" : "Large Mana Potion",
+      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11213,
+      "name" : "Magic Potion",
+      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11214,
+      "name" : "Large Magic Potion",
+      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11215,
+      "name" : "Spell Damage Potion",
+      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11216,
+      "name" : "Spiked Salmon Sashimi",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11217,
+      "name" : "Ghoul Fish Roll",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11218,
+      "name" : "Dumbo Octopus Takoyaki",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11219,
+      "name" : "Jack'o'fin Sashimi",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11220,
+      "name" : "Dead Eye Shrimp Cocktail",
+      "description" : "In Demonic these cocktails are known as hors d'oeuvres, basically fancy party food for fancy Demon parties.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11221,
+      "name" : "Electric Eel Sushi",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11223,
+      "name" : "Brain Jelly Salad",
+      "description" : "It wiggles, it jiggles, it... tastes about as good as you'd imagine.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11224,
+      "name" : "Kraken Stew",
+      "description" : "A monstrous stew, perfect for anyone with a monstrous appetite!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11225,
+      "name" : "Redfinned Pincher Sushi Roll",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11226,
+      "name" : "Ghosthead Tuna Sashimi",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11227,
+      "name" : "Living Jelly Salad",
+      "description" : "A popular dish at Monsterfolk picnics or family gatherings, normally avoided by the kids.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11228,
+      "name" : "Albino Squid Rings",
+      "description" : "Even for squid these things are a little on the gooey side, but they're surprisingly tasty.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11229,
+      "name" : "Devilishly Good Stew",
+      "description" : "A stew so tasty that even an angel would be tempted.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11230,
+      "name" : "Duorado Double Roll",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11231,
+      "name" : "Water Bear Soup",
+      "description" : "Waiter, what's the water bear doing in my soup?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11232,
+      "name" : "Viperfish Sashimi",
+      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11261,
+      "name" : "Snappy Juice",
+      "description" : "Juice with a real snap! No, really.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11274,
+      "name" : "Bubble Tea",
+      "description" : "Naturally bubbly, it tickles your lip when you try to drink it.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11300,
+      "name" : "Golden Tree Seeds Recipe",
+      "description" : "Unlocks the ability to craft Golden Tree Seeds for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11301,
+      "name" : "Red Rose Bouquet Recipe",
+      "description" : "Unlock the ability to craft Red Rose Bouquets for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11302,
+      "name" : "Blue Rose Bouquet Recipe",
+      "description" : "Unlock the ability to craft Blue Rose Bouquets for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11303,
+      "name" : "Legendary Fish Bait Recipe",
+      "description" : "Unlock the ability to craft Legendary Fish Bait for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11304,
+      "name" : "Simple Magic Fertilizer Recipe",
+      "description" : "Unlock the ability to craft Simple Magic Fertilizer for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11305,
+      "name" : "Advanced Magic Fertilizer Recipe",
+      "description" : "Unlock the ability to craft Advanced Magic Fertilizer for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11306,
+      "name" : "Wizard's Crafting Table Recipe",
+      "description" : "Unlock the ability to craft Wizard's Crafting Tables for all players!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11507,
+      "name" : "Moonplant Cola",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11508,
+      "name" : "Eggplant Cola",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11509,
+      "name" : "Spikey Soda",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11511,
+      "name" : "Pumpkin Soda",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11512,
+      "name" : "Tombmelon Soda",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11513,
+      "name" : "Kraken Cola",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11514,
+      "name" : "Sucker Soda",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 11515,
+      "name" : "Sweet Melon Soda",
+      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12004,
+      "name" : "Demon Seeds",
+      "description" : "These seeds glow with a faint eerie light, growing quick and providing a fast yield.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12005,
+      "name" : "Snappy Seeds",
+      "description" : "Mind your fingers when you harvest this hungry crop! Slow to grow, but sells for a high value.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12007,
+      "name" : "Shimmeroot Seeds",
+      "description" : "Radiates with a faint golden shimmer, this lucrative root always produces legendary quality yields. ",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12008,
+      "name" : "Pepper Seeds",
+      "description" : "Spicy, delicious, and more expensive than a typical crop. They grow so hot that they never stay watered overnight.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12012,
+      "name" : "Cinnaberry Seeds",
+      "description" : "A sweet snack that can be eaten on the go or used as an important ingredient in delicious desserts.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12022,
+      "name" : "Grape Seeds",
+      "description" : "Cultivated by Elves around the world, this species of grape is adaptable to many different climates.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12030,
+      "name" : "Indiglow Seeds",
+      "description" : "A lily flower renowned both for its beauty and the beautiful glow it emits upon blossoming. ",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12032,
+      "name" : "Cat Tail Seeds",
+      "description" : "A seed covered in soft fuzz that feel almost like fur.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12034,
+      "name" : "Darkness Essence Seeds",
+      "description" : "Strange seeds, they'll drop essence of darkness once their flower blooms.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12037,
+      "name" : "Hops Seeds",
+      "description" : "These seeds don't seem to do much hopping.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12049,
+      "name" : "Ghost Pepper Seeds",
+      "description" : "Careful planting these, even the seeds are spicy enough to make you cry!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12051,
+      "name" : "Stormelon Seeds",
+      "description" : "Melon seeds that crackle with a strange magic.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12054,
+      "name" : "Chocoberry Seeds",
+      "description" : "Some people like chewing on these chocolatey seeds, though they're very bitter. Worth much more when grown and used in recipes!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12058,
+      "name" : "Heart Berry Seeds",
+      "description" : "Even the seeds are shaped like little hearts, how adorable.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12059,
+      "name" : "Coffee Bean Seeds",
+      "description" : "You must resist the urge to drink these seeds! Plant them and get even more beans to drink!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12070,
+      "name" : "Cranberry Seeds",
+      "description" : "These seeds normally only grow in bogs, though strangely they grow just fine in Sun Haven.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12073,
+      "name" : "Pea Seeds",
+      "description" : "Plant the peas, please.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12075,
+      "name" : "Cotton Seeds",
+      "description" : "They might seeds, but they feel as soft and fluffy as fresh wool.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12076,
+      "name" : "Honeysuckle Seeds",
+      "description" : "Weird, these seeds don't taste like honey.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12077,
+      "name" : "Candy Cane Seeds",
+      "description" : "Who knew candy canes grew on trees?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12078,
+      "name" : "Snow Pea Seeds",
+      "description" : "These seeds are completely frozen solid!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12083,
+      "name" : "Sun Orb Seeds",
+      "description" : "Glowing with light and warm to the touch, what kind of seeds are these?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12104,
+      "name" : "Lily Seeds",
+      "description" : "These tend to grow the best in tropical wetlands, though they do well enough in a place like Sun Haven.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 12110,
+      "name" : "Lotus Seeds",
+      "description" : "Exotic and even a little mysterious, this variety of lotus flower actually blossoms readily on your farm.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 13112,
+      "name" : "Blueberry Sprinkles",
+      "description" : "Apparently pets come in flavors, who knew?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15013,
+      "name" : "Whitebelly Shark",
+      "description" : "Just when you thought it was safe to go back in the water.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15016,
+      "name" : "Redeye Piranha",
+      "description" : "Not too difficult a fish to catch, the real challenge is getting it off the hook without losing a finger!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15030,
+      "name" : "Toothy Angler",
+      "description" : "The ghastly light hanging on its head is the perfect tool for navigating Withergate's dark, murky waters.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15045,
+      "name" : "Kelp Eel",
+      "description" : "Often reeled up and mistaken for kelp, the Kelp Eel usually gets tossed back into the water.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15057,
+      "name" : "Royal Koi",
+      "description" : "Not actually related to any royalty, though it is a very pretty looking fish.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15058,
+      "name" : "Princely Frog",
+      "description" : "A crown prince of all things hoppy and green, its rivals at frog court shall surely toast to your catch.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15074,
+      "name" : "Goblin Shark",
+      "description" : "You're unsure if this shark's strange nose makes it look kind of cute, or just kind of freaky.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15075,
+      "name" : "Vampire Squid",
+      "description" : "A blood red vampire squid, many noble families of Withergate incorporate this haunting squid into their house crests.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15076,
+      "name" : "Moonfish",
+      "description" : "A species of sunfish, creatively named \"Moonfish\", because they live in Withergate. Get it?",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15077,
+      "name" : "Viperfish",
+      "description" : "Fangs, poison and a really bad attitude. Definitely not the fish to handle if you don't know what you're doing.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15078,
+      "name" : "Eel-Like-Thing",
+      "description" : "It's... some sort of... eel... like-thing... with a face. Huh.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15089,
+      "name" : "Ribbon Eel",
+      "description" : "An impossibly thin eel, its physiology confounds scholars even to this day.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15090,
+      "name" : "Koi Fish",
+      "description" : "A fish brought to this part of the world from a far away continent, they can grow quite large when they have enough space and food.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15091,
+      "name" : "Bomb Fish",
+      "description" : "It's like any other regular, normal fish... except it explodes!!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15101,
+      "name" : "Icicle Carp",
+      "description" : "A lazy carp that moves so slowly it can sometimes be found with icicles hanging from its fins!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15102,
+      "name" : "Blazing Herring",
+      "description" : "This herring is a lightning fast swimmer, keeping its body running warm even in the cold of winter.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15109,
+      "name" : "Tinder Turtle",
+      "description" : "There's nothing tender about a sea turtle who has a molten volcano for a shell.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15111,
+      "name" : "Flame Ray",
+      "description" : "A ray that looks just like a flying fireball as it glides through the waves.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15119,
+      "name" : "Floral Trout",
+      "description" : "The pattern of this trout's scales are uncannily similar to a floral pattern, hence the name.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15122,
+      "name" : "Seahorse",
+      "description" : "Looks like a little small to ride, sadly.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15131,
+      "name" : "Vampire Piranha",
+      "description" : "So named for its dark red belly and thankfully not for any blood sucking tendencies!",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15132,
+      "name" : "Ghostfish",
+      "description" : "A harmless jellyfish that is totally invisible in the water. All the same, however, fishermen consider this spooky jelly to be a sign of bad luck.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 15135,
+      "name" : "Autumn Leaf Sole",
+      "description" : "This fish experiences a physical transformation in the fall season, blending in with falling leaves.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16202,
+      "name" : "Orange Tree Seeds",
+      "description" : "These tiny seeds will sprout into a bountiful orange tree once planted.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16204,
+      "name" : "Strawberry Tree Seeds",
+      "description" : "These tiny seeds will sprout into a bountiful strawberry tree once planted.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16206,
+      "name" : "Raspberry Tree Seeds",
+      "description" : "These tiny seeds will sprout into a bountiful raspberry tree once planted.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 16301,
+      "name" : "Nel'Vari Tree Seeds",
+      "description" : "Tree nuts that faintly shimmer a myriad of different colors, they'll grow into fantastic Elven trees once planted.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50055,
+      "name" : "Red Rose Bouquet",
+      "description" : "A bundle of bright red roses. Though it may seem like they were bundled without much thought, they were actually placed quite meticulously.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 50056,
+      "name" : "Blue Rose Bouquet",
+      "description" : "A bundle of bright blue roses. Though it may seem like they were bundled without much thought, they were actually placed quite meticulously.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 60203,
+      "name" : "Epic Fish",
+      "description" : "Any epic fish",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 60234,
+      "name" : "Mana Drop",
+      "description" : "A droplet of crystalized mana. It pulses and thrums, giving off a gentle glow.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   },
+   {
+      "id" : 62222,
+      "name" : "Butterfly Statue A",
+      "description" : "A bush, expertly trimmed into the shape of a beautiful butterfly.",
+      "category" : "Craftable",
+      "rarity" : "Epic",
+      "hasIcon" : true
+   }
+]
