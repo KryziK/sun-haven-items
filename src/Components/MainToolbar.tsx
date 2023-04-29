@@ -1,10 +1,16 @@
 import { Search } from "@mui/icons-material";
-import { Container, Grid, InputAdornment, TextField, Typography } from "@mui/material";
+import { Container, FormControlLabel, Grid, InputAdornment, Switch, TextField, Typography } from "@mui/material";
 import { useEffect, useState } from "react";
 
 const SearchIcon = () => <InputAdornment position="start"><Search /></InputAdornment>;
 
-const MainToolbar = ({ shown, results, updateQuery }: { shown: number, results: number, updateQuery: React.Dispatch<React.SetStateAction<string>> }) => {
+const MainToolbar = ({ shown, results, updateQuery, compact, setCompact }: {
+  shown: number,
+  results: number,
+  updateQuery: React.Dispatch<React.SetStateAction<string>>,
+  compact: boolean,
+  setCompact: React.Dispatch<React.SetStateAction<boolean>>
+}) => {
   const [searchText, setSearchText] = useState("");
 
   useEffect(() => {
@@ -24,6 +30,9 @@ const MainToolbar = ({ shown, results, updateQuery }: { shown: number, results: 
             value={searchText}
             onChange={e => setSearchText(e.target.value)}
           />
+        </Grid>
+        <Grid item xs>
+          <FormControlLabel control={<Switch checked={compact} onChange={e => setCompact(e.target.checked)} />} label="Compact" />
         </Grid>
         <Grid item xs></Grid>
         <Grid item xs={2} display="flex" alignItems="center" justifyContent="end">
