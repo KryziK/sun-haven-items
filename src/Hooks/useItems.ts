@@ -14,7 +14,7 @@ export type GameItemProp = {
 
 const opts = {
   ignoreLocation: true,
-  keys: [{ name: "id", weight: 3 }, { name: "name", weight: 2 }, { name: "description", weight: 1 }],
+  keys: [{ name: "id", weight: 3 }, { name: "name", weight: 2 }, { name: "tags", weight: 2 }, { name: "description", weight: 1 }],
   threshold: 0.4
 };
 
