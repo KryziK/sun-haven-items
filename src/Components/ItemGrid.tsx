@@ -1,9 +1,9 @@
-import FilterBar from "./FilterBar";
 import { GameItem } from "./GameItem";
 import MainToolbar from "./MainToolbar";
 import useItems from "../Hooks/useItems";
 import { Box, Container, Grid, Paper } from "@mui/material";
 import { useDeferredValue } from "react";
+// import FilterBar from "./FilterBar";
 
 const ItemGrid = () => {
   const { hits, updateQuery } = useItems();
