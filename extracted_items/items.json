@@ -1,35 +1,11 @@
 {
-   "gameVersion": "1.1.0d",
-   "totalItems": 4715,
-   "fileList": [
-      "items_Equip_Common.json",
-      "items_Equip_Uncommon.json",
-      "items_Equip_Rare.json",
-      "items_Equip_Epic.json",
-      "items_Equip_Legendary.json",
-      "items_Use_Epic.json",
-      "items_Use_Legendary.json",
-      "items_Use_Common.json",
-      "items_Craftable_Common.json",
-      "items_Craftable_Uncommon.json",
-      "items_Craftable_Rare.json",
-      "items_Craftable_Epic.json",
-      "items_Craftable_Legendary.json",
-      "items_Use_Uncommon.json",
-      "items_Use_Rare.json",
-      "items_Furniture_Uncommon.json",
-      "items_Furniture_Epic.json",
-      "items_Monster_Epic.json",
-      "items_Monster_Rare.json",
-      "items_Furniture_Rare.json",
-      "items_Furniture_Common.json",
-      "items_Furniture_Legendary.json",
-      "items_Monster_Common.json",
-      "items_Monster_Uncommon.json",
-      "items_Quest_Common.json",
-      "items_Quest_Epic.json",
-      "items_Quest_Rare.json",
-      "items_Quest_Uncommon.json",
-      "items_Quest_Legendary.json"
+   "gameVersion" : "1.1.0d",
+   "totalItems" : 4715,
+   "fileList" : [
+      "items_0.json",
+      "items_1.json",
+      "items_2.json",
+      "items_3.json",
+      "items_4.json"
    ]
 }
