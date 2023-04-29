@@ -5,7 +5,7 @@ const GameItemImage = ({ url, name, rarity }: { url: string | undefined, name: s
   return (
     <Stack direction="column" spacing={1} alignItems="center" width={100} flexShrink={0}>
       {url
-        ? <img loading="lazy" src={url} height={48} width={48} alt={name} />
+        ? <img loading="lazy" src={url} alt={name} style={{ maxWidth: "100%", minWidth: 48, maxHeight: 60 }} />
         : <Box height={48} width={48} sx={{ backgroundColor: "dimgrey", display: "flex", alignItems: "center", justifyContent: "center" }}>
           <Typography variant="h4">?</Typography>
         </Box>
@@ -20,7 +20,7 @@ const GameItemImage = ({ url, name, rarity }: { url: string | undefined, name: s
   );
 };
 
-export const GameItem = ({ id, hasIcon, name, category, rarity, description }: GameItemProp) => {
+export const GameItem = ({ id, hasIcon, name, location, rarity, description, tags }: GameItemProp) => {
   return (
     <Card sx={{ display: "flex", alignItems: "center", p: "10px", height: "107px" }}>
       <GameItemImage
@@ -29,15 +29,16 @@ export const GameItem = ({ id, hasIcon, name, category, rarity, description }: G
         rarity={rarity}
       />
       <Box display="flex" flexDirection="column" pl="10px" flexGrow={0}>
-        <Stack direction="row" spacing={1} alignItems="center">
-          <Typography component="div" variant="subtitle1" noWrap>
-            {name}
-          </Typography>
-          <Chip variant="outlined" size="small" label={category} />
-        </Stack>
-        <Typography component="div" variant="body2">
-          ID: {id}
+        <Typography component="div" variant="subtitle1" noWrap>
+          {name}
         </Typography>
+
+        <Stack direction="row" spacing={1} alignItems="center" pb={1}>
+          <Chip size="small" label={`ID: ${id}`} />
+          {location && <Chip variant="outlined" size="small" label={location} />}
+          {tags.map(t => <Chip key={t} variant="outlined" size="small" label={t} />)}
+        </Stack>
+
         <Typography component="span" variant="caption" color="text.secondary" maxWidth={350} height="3em" textOverflow="ellipsis" overflow="hidden" flexShrink={1}>
           {description}
         </Typography>

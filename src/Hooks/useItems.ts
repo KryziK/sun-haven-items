@@ -4,11 +4,12 @@ import { useQueries } from "@tanstack/react-query";
 
 export type GameItemProp = {
   id: number;
-  hasIcon: boolean;
   name: string;
-  category: string;
-  rarity: string;
   description: string;
+  location: string;
+  rarity: string;
+  hasIcon: boolean;
+  tags: string[]
 };
 
 const opts = {

@@ -1,3 +1,4 @@
+import FilterBar from "./FilterBar";
 import { GameItem } from "./GameItem";
 import MainToolbar from "./MainToolbar";
 import useItems from "../Hooks/useItems";
@@ -11,6 +12,7 @@ const ItemGrid = () => {
   return (
     <>
       <MainToolbar shown={hits.length} results={hits.length} updateQuery={updateQuery} />
+      {/* <FilterBar /> */}
       <Container maxWidth="xl" sx={{ flexGrow: 1 }}>
         <Paper elevation={6} sx={{ paddingY: 2, paddingX: 2, minHeight: 300, boxShadow: "inset 0px 1px 2px 0px rgba(0, 0, 0, 0.5)" }}>
           <Box display="flex" justifyContent="center">
