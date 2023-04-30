@@ -11032,7 +11032,7 @@
    {
       "id" : 12001,
       "name" : "Corn Seeds",
-      "description" : "Slow to grow, but each crop provides double the yield (2 per crop).",
+      "description" : "Slow to grow, but each crop provides double the yield.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
