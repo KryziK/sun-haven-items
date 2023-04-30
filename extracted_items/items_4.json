@@ -157,7 +157,7 @@
    {
       "id" : 42080,
       "name" : "Unicorn Wig Hat",
-      "description" : "",
+      "description" : "You can't be a unicorn without your unicorn horn! It's like 50% of what makes a unicorn a unicorn.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -7940,8 +7940,8 @@
    },
    {
       "id" : 60100,
-      "name" : "Quests",
-      "description" : "",
+      "name" : "Quest Bounty",
+      "description" : "Income earned by completing quests.",
       "location" : null,
       "rarity" : "Common",
       "hasIcon" : true,
@@ -7951,8 +7951,8 @@
    },
    {
       "id" : 60101,
-      "name" : "Misc",
-      "description" : "All the random things you do throughout the day!",
+      "name" : "Side Hustles",
+      "description" : "Income earned passively through skills or obtained as drops.",
       "location" : null,
       "rarity" : "Common",
       "hasIcon" : true,
