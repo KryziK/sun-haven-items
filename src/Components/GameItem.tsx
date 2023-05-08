@@ -3,9 +3,9 @@ import { Box, Card, Chip, Grid, Stack, Typography } from "@mui/material";
 
 const GameItemImage = ({ compact, id, url, name, rarity }: { compact: boolean, id: number, url: string | undefined, name: string, rarity: string }) => {
   return (
-    <Stack direction="column" spacing={1} alignItems="center" width={100} flexShrink={0}>
+    <Stack direction="column" spacing={1} alignItems="center" width={86} flexShrink={0}>
       {url
-        ? <img loading="lazy" src={url} alt={name} style={{ maxWidth: "100%", minWidth: 48, maxHeight: !compact ? 60 : 48 }} />
+        ? <img loading="lazy" src={url} alt={name} style={{ maxWidth: "100%", minWidth: 48, maxHeight: !compact ? 60 : 48, imageRendering: "pixelated" }} />
         : <Box height={48} width={48} sx={{ backgroundColor: "dimgrey", display: "flex", alignItems: "center", justifyContent: "center" }}>
           <Typography variant="h4">?</Typography>
         </Box>

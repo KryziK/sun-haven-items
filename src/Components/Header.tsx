@@ -1,14 +1,15 @@
 import useItemMaster from "../Hooks/useItemMaster";
-import { AppBar, Box, Container, LinearProgress, Stack, Toolbar, Typography } from "@mui/material";
+import { AppBar, Box, Container, LinearProgress, Stack, Theme, Toolbar, Typography, useMediaQuery, useTheme } from "@mui/material";
 
 const Header = () => {
   const { isLoading, gameVersion, itemCount } = useItemMaster();
+  const mediaQuery = useMediaQuery<Theme>(theme => theme.breakpoints.down("sm"));
 
   return (
     <Container maxWidth="xl" sx={{ flexGrow: 1, paddingBottom: 5 }}>
       <AppBar position="static">
         <Toolbar>
-          <Typography component="div" variant="h4" flexGrow={1}>Sun Haven Items</Typography>
+          <Typography component="div" flexGrow={1} variant={mediaQuery ? "h5" : "h4"}>Sun Haven Items</Typography>
 
           <Stack direction="row" spacing={1}>
             <Stack>
