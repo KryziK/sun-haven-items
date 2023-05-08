@@ -4,9 +4,8 @@ import { useEffect, useState } from "react";
 
 const SearchIcon = () => <InputAdornment position="start"><Search /></InputAdornment>;
 
-const MainToolbar = ({ shown, results, updateQuery, compact, setCompact }: {
+const MainToolbar = ({ shown, updateQuery, compact, setCompact }: {
   shown: number,
-  results: number,
   updateQuery: React.Dispatch<React.SetStateAction<string>>,
   compact: boolean,
   setCompact: React.Dispatch<React.SetStateAction<boolean>>
