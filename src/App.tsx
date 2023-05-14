@@ -5,7 +5,7 @@ import ItemGrid from "./Components/ItemGrid";
 import { createTheme, CssBaseline, ThemeProvider } from "@mui/material";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
-const darkTheme = createTheme({ palette: { mode: 'dark' } });
+const darkTheme = createTheme({ palette: { mode: "dark" } });
 const queryClient = new QueryClient();
 
 const App = () => {

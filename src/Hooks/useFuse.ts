@@ -1,9 +1,11 @@
+import useQueryString from "./useQueryString";
 import Fuse from "fuse.js";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { debounce } from "throttle-debounce";
 
 export const useFuse = <T>(list: T[], options: Fuse.IFuseOptions<T>) => {
-    const [query, updateQuery] = useState('');
+    const [urlQuery, setUrlQuery] = useQueryString('search', '');
+    const [query, setQuery] = useState(urlQuery);
 
     const fuse = useMemo(() => new Fuse(list, options), [list, options]);
 
@@ -14,7 +16,11 @@ export const useFuse = <T>(list: T[], options: Fuse.IFuseOptions<T>) => {
         [fuse, list, query]
     );
 
-    const setQuery = useMemo(() => debounce(100, updateQuery), []);
+    const doUpdateQuery = useMemo(() => debounce(100, setQuery), []);
 
-    return { hits, query, updateQuery: setQuery };
+    useEffect(() => {
+        setUrlQuery(query);
+    }, [query, setUrlQuery]);
+
+    return { hits, query, updateQuery: doUpdateQuery };
 };

@@ -8,7 +8,7 @@ const MainToolbar = ({ shown, updateQuery, compact, setCompact }: {
   shown: number,
   updateQuery: React.Dispatch<React.SetStateAction<string>>,
   compact: boolean,
-  setCompact: React.Dispatch<React.SetStateAction<boolean>>
+  setCompact: (compact: boolean) => void;
 }) => {
   const [searchText, setSearchText] = useState("");
   const isSmallScreen = useMediaQuery<Theme>(theme => theme.breakpoints.down("sm"));
@@ -20,7 +20,7 @@ const MainToolbar = ({ shown, updateQuery, compact, setCompact }: {
   return (
     <Container maxWidth="xl" sx={{ flexGrow: 1, paddingY: 2 }}>
       <Grid container spacing={isSmallScreen ? 1 : 2} width="100%">
-        <Grid item xs={6} ml={3}>
+        <Grid item xs={12} md={6}>
           <TextField
             autoFocus
             size="small"
@@ -31,13 +31,15 @@ const MainToolbar = ({ shown, updateQuery, compact, setCompact }: {
             onChange={e => setSearchText(e.target.value)}
           />
         </Grid>
+        {isSmallScreen && <Grid item xs={1} />}
         <Grid item xs>
           <FormControlLabel control={<Switch checked={compact} onChange={e => setCompact(e.target.checked)} />} label="Compact" />
         </Grid>
-        {!isSmallScreen && <Grid item xs></Grid>}
-        <Grid item xs={"auto"} display="flex" alignItems="center" justifyContent="end">
+        {!isSmallScreen && <Grid item xs />}
+        <Grid item xs={1} display="flex" alignItems="center" justifyContent="end">
           <Typography variant={isSmallScreen ? "body1" : "h6"}>{shown}</Typography>
         </Grid>
+        {isSmallScreen && <Grid item xs={1} />}
       </Grid>
     </Container>
   );

@@ -1,5 +1,5 @@
 import { GameItemProp } from "../Hooks/useItems";
-import { Box, Card, Chip, Grid, Stack, Typography } from "@mui/material";
+import { Box, Card, Chip, Grid, Stack, Theme, Typography, useMediaQuery } from "@mui/material";
 
 const GameItemImage = ({ compact, id, url, name, rarity }: { compact: boolean, id: number, url: string | undefined, name: string, rarity: string }) => {
   return (
@@ -21,9 +21,11 @@ const GameItemImage = ({ compact, id, url, name, rarity }: { compact: boolean, i
 };
 
 export const GameItem = ({ compact, id, hasIcon, name, location, rarity, description, tags }: GameItemProp & { compact: boolean }) => {
+  const isSmallScreen = useMediaQuery<Theme>(theme => theme.breakpoints.down("sm"));
+
   if (compact)
     return (
-      <Grid item>
+      <Grid item xs={4} sm="auto">
         <Card sx={{ display: "flex", alignItems: "center", p: "6px", height: "107px" }}>
           <Stack>
             <GameItemImage
@@ -35,12 +37,12 @@ export const GameItem = ({ compact, id, hasIcon, name, location, rarity, descrip
             />
           </Stack>
         </Card>
-      </Grid>
+      </Grid >
     );
 
   return (
-    <Grid item sm={12} md={6} lg={4}>
-      <Card sx={{ display: "flex", alignItems: "center", p: "10px", height: "107px" }}>
+    <Grid item xs={12} md={6} lg={4}>
+      <Card sx={{ display: "flex", alignItems: "center", p: "10px", }}>
         <GameItemImage
           id={id}
           url={hasIcon ? `extracted_items/${id}.png` : undefined}
@@ -48,19 +50,19 @@ export const GameItem = ({ compact, id, hasIcon, name, location, rarity, descrip
           rarity={rarity}
           compact={compact}
         />
-        <Box display="flex" flexDirection="column" pl="10px" flexGrow={0}>
+        <Box display="flex" flexDirection="column" pl={isSmallScreen ? "4px" : "10px"} flexGrow={0}>
           <Typography component="div" variant="subtitle1" noWrap>
             {name}
           </Typography>
 
-          <Stack direction="row" spacing={1} alignItems="center" pb={1}>
-            <Chip size="small" label={`ID: ${id}`} />
-            {location && <Chip variant="outlined" size="small" label={location} />}
-            {tags.map(t => <Chip key={t} variant="outlined" size="small" label={t} />)}
-          </Stack>
+          <Grid container direction="row" spacing={1} alignItems="center" pb={1}>
+            <Grid item> <Chip size="small" {...isSmallScreen && { ...{ sx: { fontSize: ".64rem" } } }} label={`ID: ${id}`} /></Grid>
+            {location && <Grid item> <Chip variant="outlined" size="small" {...isSmallScreen && { ...{ sx: { fontSize: ".64rem" } } }} label={location} /></Grid>}
+            {tags.map(t => <Grid item key={t}><Chip variant="outlined" size="small" {...isSmallScreen && { ...{ sx: { fontSize: ".64rem" } } }} label={t} /></Grid>)}
+          </Grid>
 
           <Typography component="span" variant="caption" color="text.secondary" maxWidth={350} height="3em" textOverflow="ellipsis" overflow="hidden" flexShrink={1}>
-            {description}
+            {description.replace(/<\/?color[^>]*?>/g, "")}
           </Typography>
         </Box>
       </Card>
