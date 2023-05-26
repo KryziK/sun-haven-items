@@ -1611,7 +1611,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1623,7 +1623,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1635,7 +1635,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1647,7 +1647,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1659,7 +1659,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1671,7 +1671,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1683,7 +1683,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1695,7 +1695,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1707,7 +1707,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -1719,7 +1719,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -7405,7 +7405,7 @@
    {
       "id" : 3762,
       "name" : "Small Blue Glorite Crystal",
-      "description" : "Crystalized mana and power, in the form of blue glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\n\"Blue glorite is said to fuel Dynus's inexhaustible mana reserves.\"",
+      "description" : "Crystalized mana and power, in the form of blue glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\nBlue glorite is said to fuel Dynus's inexhaustible mana reserves.",
       "location" : "Withergate",
       "rarity" : "Uncommon",
       "hasIcon" : true,
@@ -7416,7 +7416,7 @@
    {
       "id" : 3763,
       "name" : "Small Purple Glorite Crystal",
-      "description" : "Crystalized mana and power, in the form of purple glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\n\"Blue glorite is said to fuel Dynus's inexhaustible mana reserves.\"",
+      "description" : "Crystalized mana and power, in the form of purple glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\nPurple glorite is said to fuel Dynus's inexhaustible mana reserves.",
       "location" : "Withergate",
       "rarity" : "Uncommon",
       "hasIcon" : true,
@@ -7427,7 +7427,7 @@
    {
       "id" : 3764,
       "name" : "Small Magenta Glorite Crystal",
-      "description" : "Crystalized mana and power, in the form of magenta glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\n\"Blue glorite is said to fuel Dynus's inexhaustible mana reserves.\"",
+      "description" : "Crystalized mana and power, in the form of magenta glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\nMagenta glorite is said to fuel Dynus's inexhaustible mana reserves.",
       "location" : "Withergate",
       "rarity" : "Uncommon",
       "hasIcon" : true,
@@ -7438,7 +7438,7 @@
    {
       "id" : 3765,
       "name" : "Small Red Glorite Crystal",
-      "description" : "Crystalized mana and power, in the form of red glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\n\"Blue glorite is said to fuel Dynus's inexhaustible mana reserves.\"",
+      "description" : "Crystalized mana and power, in the form of red glorite. It can be drained to increase your maximum mana. Elios warned you of the negative effects of consuming glorite's power... but he isn't here right now, is he?\n\nRed glorite is said to fuel Dynus's inexhaustible mana reserves.",
       "location" : "Withergate",
       "rarity" : "Uncommon",
       "hasIcon" : true,

@@ -244,7 +244,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -256,7 +256,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -338,7 +338,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -350,7 +350,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -4632,7 +4632,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -4644,7 +4644,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "HungryMonster"
@@ -4751,7 +4751,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Treasure"
@@ -6484,7 +6484,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6496,7 +6496,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6508,7 +6508,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6532,7 +6532,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6556,7 +6556,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6568,7 +6568,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6580,7 +6580,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6604,7 +6604,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6616,7 +6616,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6628,7 +6628,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
@@ -6640,7 +6640,7 @@
       "description" : "",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
+      "hasIcon" : false,
       "tags" : [
          "Placeable",
          "Rock"
