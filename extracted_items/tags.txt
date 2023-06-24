@@ -63,6 +63,8 @@ Rotatable
 Rug
 Scarecrow
 Seeds
+Shed
+ShedPlaceable
 SkillPotion
 Slime
 Sprinkler

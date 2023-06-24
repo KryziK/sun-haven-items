@@ -1,11 +1,12 @@
 {
-   "gameVersion": "1.1.0f",
-   "totalItems": 4715,
-   "fileList": [
+   "gameVersion" : "1.2",
+   "totalItems" : 5079,
+   "fileList" : [
       "items_0.json",
       "items_1.json",
       "items_2.json",
       "items_3.json",
-      "items_4.json"
+      "items_4.json",
+      "items_5.json"
    ]
 }

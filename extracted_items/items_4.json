@@ -1,5 +1,4255 @@
 [
    {
+      "id" : 22004,
+      "name" : "Petal Skirt (Orange)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22005,
+      "name" : "Petal Skirt (Purple)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22006,
+      "name" : "Petal Skirt (Red)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22007,
+      "name" : "Petal Skirt (White)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22008,
+      "name" : "Petal Skirt (Brown)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22009,
+      "name" : "Skater Pants (Black)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22010,
+      "name" : "Skater Pants (Blue)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22011,
+      "name" : "Skater Pants (Brown)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22012,
+      "name" : "Skater Pants (Gray)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22013,
+      "name" : "Skater Pants (Green)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22014,
+      "name" : "Skater Pants (Orange)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22015,
+      "name" : "Skater Pants (Pink)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22016,
+      "name" : "Skater Pants (Purple)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22017,
+      "name" : "Skater Pants (Red)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22018,
+      "name" : "Skater Pants (White)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22019,
+      "name" : "Skater Pants (Yellow)",
+      "description" : "Made with extra tough fabric to protect your knees when you fall.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22020,
+      "name" : "Tuxedo Pants (Black)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22021,
+      "name" : "Tuxedo Pants (Blue)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22022,
+      "name" : "Tuxedo Pants (Brown)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22023,
+      "name" : "Tuxedo Pants (Gray)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22024,
+      "name" : "Tuxedo Pants (Green)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22025,
+      "name" : "Tuxedo Pants (Orange)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22026,
+      "name" : "Tuxedo Pants (Pink)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22027,
+      "name" : "Tuxedo Pants (Purple)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22028,
+      "name" : "Tuxedo Pants (Yellow)",
+      "description" : "The perfect trousers to go with your tuxedo.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22029,
+      "name" : "Poofy Pants (Black)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22030,
+      "name" : "Poofy Pants (Blue)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22031,
+      "name" : "Poofy Pants (Brown)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22032,
+      "name" : "Poofy Pants (Gray)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22033,
+      "name" : "Poofy Pants (Green)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22034,
+      "name" : "Poofy Pants (Orange)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22035,
+      "name" : "Poofy Pants (Pink)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22036,
+      "name" : "Poofy Pants (Purple)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22037,
+      "name" : "Poofy Pants (Red)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22038,
+      "name" : "Poofy Pants (White)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22039,
+      "name" : "Poofy Pants (Yellow)",
+      "description" : "Out of the way, ye poofy-less pantsed commoners.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22040,
+      "name" : "Patched Pants (Black)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22041,
+      "name" : "Patched Pants (Blue)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22042,
+      "name" : "Patched Pants (Brown)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22043,
+      "name" : "Patched Pants (Gray)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22044,
+      "name" : "Patched Pants (Green)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22045,
+      "name" : "Patched Pants (Orange)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22046,
+      "name" : "Patched Pants (Pink)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22047,
+      "name" : "Patched Pants (Purple)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22048,
+      "name" : "Patched Pants (Red)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22049,
+      "name" : "Patched Pants (White)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22050,
+      "name" : "Patched Pants (Yellow)",
+      "description" : "They've been intentionally patched as a form of fashion statement.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22051,
+      "name" : "Ripped Jeans (Blue)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22052,
+      "name" : "Ripped Jeans (Brown)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22053,
+      "name" : "Ripped Jeans (Gray)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22054,
+      "name" : "Ripped Jeans (Green)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22055,
+      "name" : "Ripped Jeans (Orange)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22056,
+      "name" : "Ripped Jeans (Pink)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22057,
+      "name" : "Ripped Jeans (Purple)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22058,
+      "name" : "Ripped Jeans (Red)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22059,
+      "name" : "Ripped Jeans (White)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22060,
+      "name" : "Ripped Jeans (Yellow)",
+      "description" : "Someone's ripped these jeans... but why does it make them look cooler?!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22061,
+      "name" : "Rapunzel Skirt (Brown)",
+      "description" : "Based on the clothes of a classic storybook character. Long hair sold separately.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22062,
+      "name" : "Rapunzel Skirt (Gray)",
+      "description" : "Based on the clothes of a classic storybook character. Long hair sold separately.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22063,
+      "name" : "Bright Skirt (Black)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22064,
+      "name" : "Bright Skirt (Blue)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22065,
+      "name" : "Bright Skirt (Brown)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22066,
+      "name" : "Bright Skirt (Gray)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22067,
+      "name" : "Bright Skirt (Green)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22068,
+      "name" : "Bright Skirt (Orange)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22069,
+      "name" : "Bright Skirt (Pink)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22070,
+      "name" : "Bright Skirt (Purple)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22071,
+      "name" : "Bright Skirt (Red)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22072,
+      "name" : "Bright Skirt (Yellow)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22073,
+      "name" : "Bright Skirt (White)",
+      "description" : "Sewn from a variety of brightly colored thread, this skirt is certain to turn a few heads.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22074,
+      "name" : "Street Pants (Gray)",
+      "description" : "Take to the streets in style with these sleek trousers.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22075,
+      "name" : "Pastel Skirt (Gray)",
+      "description" : "Sold in shops all over the Great City, it's no wonder you wound up with a pair.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22076,
+      "name" : "Basic Skirt (Gray)",
+      "description" : "People living in the Great City are often found wearing this common skirt.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22077,
+      "name" : "Edgy Pants (Gray)",
+      "description" : "Pants have never been edgier than these sleek leggings.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22078,
+      "name" : "Generic Pants (Gray)",
+      "description" : "Basic slacks, but also very practical. A popular choice in the Great City.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22079,
+      "name" : "Belted Pants (Gray)",
+      "description" : "All too common in the Great City, they're not seen often in a place like Sun Haven.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22080,
+      "name" : "Business Pants (Black)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22081,
+      "name" : "Business Pants (Blue)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22082,
+      "name" : "Business Pants (Brown)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22083,
+      "name" : "Business Pants (Gray)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22084,
+      "name" : "Business Pants (Green)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22085,
+      "name" : "Business Pants (Orange)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22086,
+      "name" : "Business Pants (Pink)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22087,
+      "name" : "Business Pants (Red)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22088,
+      "name" : "Business Pants (White)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22089,
+      "name" : "Business Pants (Yellow)",
+      "description" : "Alright, no more playing around. It's business pants time.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22090,
+      "name" : "Cool Pants (Black)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22091,
+      "name" : "Cool Pants (Blue)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22092,
+      "name" : "Cool Pants (Brown)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22093,
+      "name" : "Cool Pants (Gray)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22094,
+      "name" : "Cool Pants (Green)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22095,
+      "name" : "Cool Pants (Orange)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22096,
+      "name" : "Cool Pants (Pink)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22097,
+      "name" : "Cool Pants (Purple)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22098,
+      "name" : "Cool Pants (Red)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22099,
+      "name" : "Cool Pants (White)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22100,
+      "name" : "Cool Pants (Yellow)",
+      "description" : "The ideal slacks for keeping it real cool.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22101,
+      "name" : "Fancy Pants (Blue)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22102,
+      "name" : "Fancy Pants (Brown)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22103,
+      "name" : "Fancy Pants (Gray)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22104,
+      "name" : "Fancy Pants (Green)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22105,
+      "name" : "Fancy Pants (Orange)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22106,
+      "name" : "Fancy Pants (Pink)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22107,
+      "name" : "Fancy Pants (Purple)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22108,
+      "name" : "Fancy Pants (Red)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22109,
+      "name" : "Fancy Pants (White)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22110,
+      "name" : "Fancy Pants (Yellow)",
+      "description" : "Why yes, my pants ARE fancy. Thanks for noticing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22111,
+      "name" : "Overall Pants",
+      "description" : "Loose-fitting pants made of thickly woven material, pull it on quick before getting down and dirty with your toughest jobs.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 23000,
+      "name" : "Sailor Scout Outfit (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23001,
+      "name" : "Steampunk Outfit (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23002,
+      "name" : "Sporty Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23003,
+      "name" : "Sporty Outfit (White)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23004,
+      "name" : "Sporty Outfit (Black)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23005,
+      "name" : "Artist Outfit (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23006,
+      "name" : "Rapunzel Outfit (Teal)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23007,
+      "name" : "Rapunzel Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23008,
+      "name" : "Rapunzel Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23009,
+      "name" : "Rapunzel Outfit (Yellow)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23010,
+      "name" : "Polkadot Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23011,
+      "name" : "Polkadot Outfit (Green)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23012,
+      "name" : "Hearts Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23013,
+      "name" : "Hearts Outfit (Blue)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23014,
+      "name" : "Fin-atic Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23015,
+      "name" : "Fin-atic Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23016,
+      "name" : "Track Star Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23017,
+      "name" : "Summer Chic  Outfit (Teal)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23018,
+      "name" : "Summer Chic Outfit (White)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23019,
+      "name" : "Chef Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23020,
+      "name" : "Skater Outfit (Gray)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23021,
+      "name" : "Sailor Cadet Outfit (Blue)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23022,
+      "name" : "Formal Tuxedo Outfit (Black)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23023,
+      "name" : "Formal Tuxedo Outfit (Blue)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23024,
+      "name" : "Formal Tuxedo Outfit (Gray)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23025,
+      "name" : "Formal Tuxedo Outfit (Brown)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23026,
+      "name" : "Fancy Outfit (Blue)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23027,
+      "name" : "Fancy Outfit (Green)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23028,
+      "name" : "Fancy Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23029,
+      "name" : "Fancy Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23030,
+      "name" : "Bow Tie Outfit (Blue)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23031,
+      "name" : "Bow Tie Outfit (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23032,
+      "name" : "Bow Tie Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23033,
+      "name" : "Bow Tie Outfit (Purple)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23034,
+      "name" : "Jock Outfit (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23035,
+      "name" : "Jock Outfit (Black)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23036,
+      "name" : "Jock Outfit (Gray)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23037,
+      "name" : "Sheriff Outfit (Brown)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23038,
+      "name" : "Sheriff  Outfit (Black)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23039,
+      "name" : "Sheriff Outfit (White)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23040,
+      "name" : "School Outfit (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23041,
+      "name" : "School Outfit (White)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23042,
+      "name" : "School Outfit (Black)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23043,
+      "name" : "School Outfit (Pink)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23044,
+      "name" : "Chef Outfit (White)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23045,
+      "name" : "Western Outfit (Brown)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 23046,
+      "name" : "Rock Band Outfit (Green)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 24008,
+      "name" : "Spectre Helmet",
+      "description" : "A hood imbued with the essence of a fallen Shadeclaw, the monster's shadowy power still lingers in the cloth and amplifies its wielder's magical prowess.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 24009,
+      "name" : "Bush Helmet",
+      "description" : "A helmet formed from leaves and wood, it increases one's combat capabilities when worn and is the favored equipment of scouts and spies.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 24010,
+      "name" : "Aerodynamic Helmet",
+      "description" : "A helmet of fine griffon feathers, this armor reduces air resistance and allows its wearer to strike with great force and accuracy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 24208,
+      "name" : "Spectre Robe",
+      "description" : "A robe imbued with the essence of a fallen Shadeclaw, the monster's shadowy power still lingers in the cloth and amplifiers its wielder's magical prowess.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 24209,
+      "name" : "Bush Chest",
+      "description" : "A chestpiece formed from leaves and wood, it increases one's combat capabilities when worn and is the favored equipment of scouts and spies.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 24210,
+      "name" : "Aerodynamic Chest Plate",
+      "description" : "A chestpiece of fine griffon feathers, this armor reduces air resistance and allows its wearer to strike with great force and accuracy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 24211,
+      "name" : "Warcaster's Robe",
+      "description" : "Standard issue within the illustrious Warcaster corps of the Great Army. The crystals set within the jet black robes act as a magnifier for magic, increasing spell potency.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 24409,
+      "name" : "Bush Pants",
+      "description" : "Leggings formed from leaves and wood, it increases one's combat capabilities when worn and is the favored equipment of scouts and spies.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 24410,
+      "name" : "Aerodynamic Plate Legs",
+      "description" : "Leggings of fine griffon feathers, this armor reduces air resistance and allows its wearer to strike with great force and accuracy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 24609,
+      "name" : "Bush Gloves",
+      "description" : "Gauntlets formed from leaves and wood, it increases one's combat capabilities when worn and is the favored equipment of scouts and spies.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Gloves"
+      ]
+   },
+   {
+      "id" : 24910,
+      "name" : "Aerodynamic Wings",
+      "description" : "A cloak of fine griffon feathers, this armor reduces air resistance and allows its wearer to strike with great force and accuracy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Back"
+      ]
+   },
+   {
+      "id" : 25000,
+      "name" : "Pomegranate of Power",
+      "description" : "A legendary trinket, made by an ancient people. It contains the essence of a blessed pomegranate and passes a small bit of that power onto its holder.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25001,
+      "name" : "Warrior's Pauldron",
+      "description" : "Said to have been smithed by a legendary armorer, wielding this pauldron makes you feel as indomitable as the mountains.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25002,
+      "name" : "Golden Star Gear",
+      "description" : "This strange gear is undoubtedly very old, yet it looks as if it were still newly made. Where did it come from, and how did it end up in a cave?",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25003,
+      "name" : "Ceremonial Dagger",
+      "description" : "A golden dagger with a blood red ruby set on its pommel. Whatever the purpose of this dagger was, it's definitely seen plenty of use.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25004,
+      "name" : "Fighter's Crest",
+      "description" : "A crest said to have been worn by a legendary fighter. Whether the legends are true or not, wearing the crest increases your combat potency.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25005,
+      "name" : "Sapphire Wisp",
+      "description" : "An elemental wisp, hardened into an unnaturally smooth gem of sapphire. Possessing it increases one's passion for battle.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25006,
+      "name" : "Ruby Wisp",
+      "description" : "An elemental wisp, hardened into an unnaturally smooth gem of ruby. Possessing it increases one's fortitude and very life essence.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25007,
+      "name" : "Floor 1 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25008,
+      "name" : "Floor 5 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25009,
+      "name" : "Floor 10 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25010,
+      "name" : "Floor 15 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25011,
+      "name" : "Floor 20 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25012,
+      "name" : "Floor 25 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25013,
+      "name" : "Floor 30 Dungeon Key",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25014,
+      "name" : "Letter From Lucia",
+      "description" : "A handwritten decree of peace and understanding, scribed by Lucia herself. Despite its hasty drafting on the battlefield, the Archmage's penmanship is without equal.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 25015,
+      "name" : "Claude's Concerto",
+      "description" : "The original copy of Claude's famous concerto. It bears the composer's own signature, written in a blood red ink.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 30003,
+      "name" : "DevHoe",
+      "description" : "who are you calling a hoe",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Farming",
+         "Weapon"
+      ]
+   },
+   {
+      "id" : 30004,
+      "name" : "Dev Watering Can",
+      "description" : "WHY WONT THE WATER STOP IT'S FLOODING THE EARTH OH MY G-",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Farming",
+         "Weapon"
+      ]
+   },
+   {
+      "id" : 30005,
+      "name" : "Dev Axe",
+      "description" : "an axe that RUNS ON GASOLINE",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Exploration",
+         "Weapon"
+      ]
+   },
+   {
+      "id" : 30006,
+      "name" : "Dev Pickaxe",
+      "description" : "makes rocks be not alive anymore",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Mining",
+         "Weapon"
+      ]
+   },
+   {
+      "id" : 30007,
+      "name" : "Dev Scythe",
+      "description" : "THE SCYTHE OF THE GODZ",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Weapon"
+      ]
+   },
+   {
+      "id" : 30008,
+      "name" : "Dev Sword",
+      "description" : "Wield this slicey weapon on your way to victory.\n<color=#6B7DA1>(Left click to swing)</color>",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Weapon"
+      ]
+   },
+   {
+      "id" : 31001,
+      "name" : "Sombasu's Fortune #1",
+      "description" : "A great opportunity for love will present itself to you, but it will rely on you grabbing it...\n...Your lucky numbers are 9, 37, 78...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31002,
+      "name" : "Sombasu's Fortune #2",
+      "description" : "You will befriend many animals to fill your stables, but beware... of the clean-up...\n...Your lucky numbers are 4, 33,17...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31003,
+      "name" : "Sombasu's Fortune #3",
+      "description" : "A sizable fortune is waiting to be delivered to you, but the sender doesn't have a stamp to mail it...\n...Your lucky numbers are 66, 23, 1...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31004,
+      "name" : "Sombasu's Fortune #4",
+      "description" : "Somewhere out there, a Snaccoon is waiting for you to feed it...\n...Your lucky numbers are 83, 21, 67...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31005,
+      "name" : "Sombasu's Fortune #5",
+      "description" : "Come next dawn, you shall feel compelled to water any crops you are growing...\n...Your lucky numbers are 17, 41, 36...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31006,
+      "name" : "Sombasu's Fortune #6",
+      "description" : "You will be blessed with immense fame and adoration from all stretches of the world... on the next sunny day in Withergate...\n...Your lucky numbers are 12, 25, 14...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31007,
+      "name" : "Sombasu's Fortune #7",
+      "description" : "You will suddenly become horrifyingly aware that you have not bathed since arriving in Sun Haven...\n...Your lucky numbers are 8, 3, 13...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31008,
+      "name" : "Sombasu's Fortune #8",
+      "description" : "You will feel compelled to sleep tonight by exactly midnight...\n...Your lucky numbers are 2, 77, 32...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31009,
+      "name" : "Sombasu's Fortune #9",
+      "description" : "I see... farming... somewhere in your future...\n...Your lucky numbers are 14, 37, 4...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31010,
+      "name" : "Sombasu's Fortune #10",
+      "description" : "You will own many outfits... but never change your underwear...\n...Your lucky numbers are 7, 13, 18... ",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31011,
+      "name" : "Sombasu's Fortune #11",
+      "description" : "The spirits tell me... Sun Haven's General Store shall open for business at precisely 8 a.m. tomorrow...\n...Your lucky numbers are 11, 24, 55...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31012,
+      "name" : "Sombasu's Fortune #12",
+      "description" : "The next time you cut down a tree, you shall find logs...\n...Your lucky numbers are 16, 33, 56...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31013,
+      "name" : "Sombasu's Fortune #13",
+      "description" : "I hear two spirits... one tells me the next time you go fishing, you shall catch nothing. The other tells me that the next time you go fishing, you shall indeed catch a fish...\n...The spirits won't come to an agreeance... that's just how it is sometimes...\n...Your lucky numbers are 74, 5, 23...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31014,
+      "name" : "Sombasu's Fortune #14",
+      "description" : "When next you place items in your Shipping Portal, you shall receive a bounty of coins...\n...Your lucky numbers are 25, 74, 38...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31015,
+      "name" : "Sombasu's Fortune #15",
+      "description" : "I see... in the distant future... the one called \"Emmett\"... still... in debt...\n...Your lucky numbers are 63, 37, 19...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31016,
+      "name" : "Sombasu's Fortune #16",
+      "description" : "You will wonder what your lucky numbers mean...\n...Your lucky numbers are 4, 21, 48...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 31017,
+      "name" : "Sombasu's Fortune #17",
+      "description" : "I see you, walking on the beach... you feet get covered in sand. It is coarse and rough, irritating... and gets everywhere...\n...Your lucky numbers are 16, 9, 71...",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 40000,
+      "name" : "Moon Dress",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40001,
+      "name" : "Moon Dress (Black)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40002,
+      "name" : "Moon Dress (Blue)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40003,
+      "name" : "Moon Dress (Brown)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40004,
+      "name" : "Moon Dress (Gray)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40005,
+      "name" : "Moon Dress (Green)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40006,
+      "name" : "Moon Dress (Orange)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40007,
+      "name" : "Moon Dress (Pink)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40008,
+      "name" : "Moon Dress (Purple)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40009,
+      "name" : "Moon Dress (Red)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40010,
+      "name" : "Moon Dress (White)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40011,
+      "name" : "Moon Dress (Yellow)",
+      "description" : "The stars emblazoned across this shirt are tiny gemstones that shine just like the real things!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40020,
+      "name" : "Kimono (Red)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40021,
+      "name" : "Kimono (Black)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40022,
+      "name" : "Kimono (Blue)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40023,
+      "name" : "Kimono (Brown)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40024,
+      "name" : "Kimono (Gray)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40025,
+      "name" : "Kimono (Green)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40026,
+      "name" : "Kimono (Orange)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40027,
+      "name" : "Kimono (Pink)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40028,
+      "name" : "Kimono (Purple)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40029,
+      "name" : "Kimono (White)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40030,
+      "name" : "Kimono (Yellow)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by very distinguished individuals",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40040,
+      "name" : "Fluffy Dress (Blue)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40041,
+      "name" : "Fluffy Dress (Black)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40042,
+      "name" : "Fluffy Dress (Brown)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40043,
+      "name" : "Fluffy Dress (Gray)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40044,
+      "name" : "Fluffy Dress (Green)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40045,
+      "name" : "Fluffy Dress (Orange)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40046,
+      "name" : "Fluffy Dress (Pink)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40047,
+      "name" : "Fluffy Dress (Purple)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40048,
+      "name" : "Fluffy Dress (Red)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40049,
+      "name" : "Fluffy Dress (White)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40050,
+      "name" : "Fluffy Dress (Yellow)",
+      "description" : "Made of fine down feathers, it's fluffy, it's soft and it's definitely comfortable.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40060,
+      "name" : "Pirate Dress (Red)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40061,
+      "name" : "Pirate Dress (Black)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40062,
+      "name" : "Pirate Dress (Blue)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40063,
+      "name" : "Pirate Dress (Brown)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40064,
+      "name" : "Pirate Dress (Gray)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40065,
+      "name" : "Pirate Dress (Green)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40066,
+      "name" : "Pirate Dress (Orange)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40067,
+      "name" : "Pirate Dress (Pink)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40068,
+      "name" : "Pirate Dress (Purple)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40069,
+      "name" : "Pirate Dress (White)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40070,
+      "name" : "Pirate Dress (Yellow)",
+      "description" : "Even pirates can wear dresses. Sometimes.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40080,
+      "name" : "Fantasy Dress (Green)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40100,
+      "name" : "Tank Top (Red)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40101,
+      "name" : "Tank Top (Black)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40102,
+      "name" : "Tank Top (Blue)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40103,
+      "name" : "Tank Top (Brown)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40104,
+      "name" : "Tank Top (Gray)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40105,
+      "name" : "Tank Top (Green)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40106,
+      "name" : "Tank Top (Orange)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40107,
+      "name" : "Tank Top (Pink)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40108,
+      "name" : "Tank Top (Purple)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40109,
+      "name" : "Tank Top (White)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40110,
+      "name" : "Tank Top (Yellow)",
+      "description" : "One t-shirt, hold the arms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40120,
+      "name" : "Tie Dye Shirt (Rainbow)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40121,
+      "name" : "Tie Dye Shirt (Black)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40122,
+      "name" : "Tie Dye Shirt (Blue)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40123,
+      "name" : "Tie Dye Shirt (Brown)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40124,
+      "name" : "Tie Dye Shirt (Gray)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40125,
+      "name" : "Tie Dye Shirt (Green)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40126,
+      "name" : "Tie Dye Shirt (Orange)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40127,
+      "name" : "Tie Dye Shirt (Pink)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40128,
+      "name" : "Tie Dye Shirt (Purple)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40129,
+      "name" : "Tie Dye Shirt (Red)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40130,
+      "name" : "Tie Dye Shirt (White)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40131,
+      "name" : "Tie Dye Shirt (Yellow)",
+      "description" : "Faaar out, maaan.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40140,
+      "name" : "Diner Dress (Red)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40141,
+      "name" : "Diner Dress (Black)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40142,
+      "name" : "Diner Dress (Blue)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40143,
+      "name" : "Diner Dress (Brown)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40144,
+      "name" : "Diner Dress (Gray)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40145,
+      "name" : "Diner Dress (Green)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40146,
+      "name" : "Diner Dress (Orange)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40147,
+      "name" : "Diner Dress (Pink)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40148,
+      "name" : "Diner Dress (Purple)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40149,
+      "name" : "Diner Dress (White)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40150,
+      "name" : "Diner Dress (Yellow)",
+      "description" : "I didn't know diners could wear dresses.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40160,
+      "name" : "Cleopatra Dress",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40180,
+      "name" : "Proper Dress (Black)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40200,
+      "name" : "Hakama (Red)",
+      "description" : "Traditional garb from lands across the Eastern Sea, worn by distinguished swordsmen and school children alike.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40220,
+      "name" : "Spotted Dress (Red)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40221,
+      "name" : "Spotted Dress (Black)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40222,
+      "name" : "Spotted Dress (Blue)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40223,
+      "name" : "Spotted Dress (Brown)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40224,
+      "name" : "Spotted Dress (Gray)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40225,
+      "name" : "Spotted Dress (Green)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40226,
+      "name" : "Spotted Dress (Orange)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40227,
+      "name" : "Spotted Dress (Pink)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40228,
+      "name" : "Spotted Dress (Purple)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40229,
+      "name" : "Spotted Dress (White)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40230,
+      "name" : "Spotted Dress (Yellow)",
+      "description" : "Spot the dress! Oh, there it is.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40240,
+      "name" : "Red Shimmer Dress",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40260,
+      "name" : "Holiday Dress (Red)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40261,
+      "name" : "Holiday Dress (Black)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40262,
+      "name" : "Holiday Dress (Blue)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40263,
+      "name" : "Holiday Dress (Brown)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40264,
+      "name" : "Holiday Dress (Gray)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40265,
+      "name" : "Holiday Dress (Green)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40266,
+      "name" : "Holiday Dress (Orange)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40267,
+      "name" : "Holiday Dress (Pink)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40268,
+      "name" : "Holiday Dress (Purple)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40269,
+      "name" : "Holiday Dress (White)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40270,
+      "name" : "Holiday Dress (Yellow)",
+      "description" : "A festive dress, often worn in times of celebration.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40280,
+      "name" : "Wrapped Dress (Pink)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40281,
+      "name" : "Wrapped Dress (Black)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40282,
+      "name" : "Wrapped Dress (Blue)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40283,
+      "name" : "Wrapped Dress (Brown)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40284,
+      "name" : "Wrapped Dress (Gray)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40285,
+      "name" : "Wrapped Dress (Green)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40286,
+      "name" : "Wrapped Dress (Orange)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40287,
+      "name" : "Wrapped Dress (Purple)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40288,
+      "name" : "Wrapped Dress (Red)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40289,
+      "name" : "Wrapped Dress (White)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40290,
+      "name" : "Wrapped Dress (Yellow)",
+      "description" : "It's a wrap! A wrap dress.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40300,
+      "name" : "Generic Shirt (Red)",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40320,
+      "name" : "Angelic Dress (Yellow)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40321,
+      "name" : "Angelic Dress (White)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40322,
+      "name" : "Angelic Dress (Red)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40323,
+      "name" : "Angelic Dress (Purple)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40324,
+      "name" : "Angelic Dress (Pink)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40325,
+      "name" : "Angelic Dress (Orange)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40326,
+      "name" : "Angelic Dress (Green)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40327,
+      "name" : "Angelic Dress (Gray)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40328,
+      "name" : "Angelic Dress (Brown)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40329,
+      "name" : "Angelic Dress (Black)",
+      "description" : "The cloudy blue sky never looked as good as it does when you're wearing it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40340,
+      "name" : "Sport Jersey (Black)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40341,
+      "name" : "Sport Jersey (Brown)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40342,
+      "name" : "Sport Jersey (Gray)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40343,
+      "name" : "Sport Jersey (Green)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40344,
+      "name" : "Sport Jersey (Orange)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40345,
+      "name" : "Sport Jersey (Pink)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40346,
+      "name" : "Sport Jersey (Purple)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40347,
+      "name" : "Sport Jersey (Red)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40348,
+      "name" : "Sport Jersey (White)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40349,
+      "name" : "Sport Jersey (Yellow)",
+      "description" : "You're not sure what team you're cheering for, but go team!!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40360,
+      "name" : "Striped Shirt 1 (Black)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40361,
+      "name" : "Striped Shirt 1 (Blue)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40362,
+      "name" : "Striped Shirt 1 (Brown)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40363,
+      "name" : "Striped Shirt 1 (Gray)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40364,
+      "name" : "Striped Shirt 1 (Orange)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40365,
+      "name" : "Striped Shirt 1 (Pink)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40366,
+      "name" : "Striped Shirt 1 (Purple)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40367,
+      "name" : "Striped Shirt 1 (Red)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40368,
+      "name" : "Striped Shirt 1 (White)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40380,
+      "name" : "Royal Dress (Black)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40381,
+      "name" : "Royal Dress (Blue)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40382,
+      "name" : "Royal Dress (Brown)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40383,
+      "name" : "Royal Dress (Gray)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40384,
+      "name" : "Royal Dress (Green)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40385,
+      "name" : "Royal Dress (Orange)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40386,
+      "name" : "Royal Dress (Pink)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40387,
+      "name" : "Royal Dress (Purple)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 40388,
+      "name" : "Royal Dress (Red)",
+      "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
       "id" : 40389,
       "name" : "Royal Dress (White)",
       "description" : "A dress reserved for royalty - or at least a farmer with a taste of the royal life.",
@@ -156,9 +4406,9 @@
    },
    {
       "id" : 42080,
-      "name" : "Unicorn Wig Hat",
+      "name" : "Unicorn Wig (Rainbow)",
       "description" : "You can't be a unicorn without your unicorn horn! It's like 50% of what makes a unicorn a unicorn.",
-      "location" : "SunHaven",
+      "location" : "Nel'Vari",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
@@ -3008,6 +7258,18 @@
       "tags" : [
          "Armor",
          "Gloves"
+      ]
+   },
+   {
+      "id" : 43230,
+      "name" : "Dog Hat (Spotted)",
+      "description" : "Bark bark, hurry up and make this hat your property.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
       ]
    },
    {
@@ -7383,866 +11645,6 @@
       "description" : "Wow, those tail feathers couldn't have been easy to sculpt!",
       "location" : "SunHaven",
       "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50430,
-      "name" : "Flamingo Lamp",
-      "description" : "Flamingo aren't native to the Southern Isles, but the people there love them. Hence, silly lamps like this.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50431,
-      "name" : "Wall Mounted Surfboard",
-      "description" : "Gnarly wall decor, bro.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50432,
-      "name" : "Beach Chair",
-      "description" : "Feel the waves at your feet while you soak in the summer rays on this chair of woven tropical leaves.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 50433,
-      "name" : "Beach Cooler",
-      "description" : "Keep the drinks cold on the hottest of sands.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50434,
-      "name" : "Beach Table",
-      "description" : "The bamboo feet of this table are extra light, so it doesn't sink into the sand!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50435,
-      "name" : "Beach Chair Bed",
-      "description" : "Woven in the traditional style of the Southern Isle Humans, every night can feel like a cozy tropical evening.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 50436,
-      "name" : "Beach Hammock",
-      "description" : "Elven in origin, the hammock was quickly adopted by many races across the Four Regions.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50437,
-      "name" : "Beach Wardrobe",
-      "description" : "I hope you don't mind a little sand in your clothes!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 50438,
-      "name" : "Beach Rug",
-      "description" : "The fabric of this rug is loosely woven, so it doesn't trap sand. Genius!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50439,
-      "name" : "Flamingo Rug",
-      "description" : "Flamingos turn pink when they eat pigmented shrimp. This rug turned pink when some guy dyed it.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50440,
-      "name" : "Surfboard Display",
-      "description" : "Freshly waxed and ready to grind a gnarly wave. Or just look cute in your house, maybe.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50441,
-      "name" : "Slime Bed",
-      "description" : "A nice, comfy bed... covered in about three inches of slime.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 50442,
-      "name" : "Drum Set",
-      "description" : "A complete rock band drumkit, ready and waiting to annoy your neighbors on long jam sessions.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50443,
-      "name" : "Amp",
-      "description" : "Eleven? This baby goes up to TWELVE.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50444,
-      "name" : "Rockin' Poster",
-      "description" : "The band scene of the Great City is pushing boundaries and making waves, all the way across the Four Regions.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50445,
-      "name" : "Jammin' Poster",
-      "description" : "Hey, this isn't a poster about jam at all.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50446,
-      "name" : "Blue Electric Guitar",
-      "description" : "A brand new guitar that utilizes the power of electricity to ROCK.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50447,
-      "name" : "Purple Electric Guitar",
-      "description" : "A brand new guitar that utilizes the power of electricity to ROCK.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50448,
-      "name" : "Red Electric Guitar",
-      "description" : "A brand new guitar that utilizes the power of electricity to ROCK.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50449,
-      "name" : "Acoustic Guitar",
-      "description" : "A style of guitar popular in the Western Region, it is the first real instrument many young musicians learn to play.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50450,
-      "name" : "Halloween Fence",
-      "description" : "A metal fence wrought in the style of halloween, ideal for the spookiest of farms.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50451,
-      "name" : "Witch Couch",
-      "description" : "Wide enough to seat a whole coven! Or at least half a coven.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 50452,
-      "name" : "Witch Rug",
-      "description" : "Wipe your paws.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50453,
-      "name" : "Witch End Table",
-      "description" : "Crafted from the twisted branches of a bloodlock tree, enchanted with dark rituals and tastefully stained with a walnut finish.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50454,
-      "name" : "Witch Bed",
-      "description" : "The mattress is probably stuffed with bat wings or spider legs or something creepy like that. Oh wait, nevermind, it's just wool.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 50455,
-      "name" : "Witch Chair",
-      "description" : "Plot your next witchy plot from this dramatic seat.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 50456,
-      "name" : "Witch Table",
-      "description" : "Impress the coven at your next dinner party with this web-tacular dining table.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50457,
-      "name" : "Witch Wardrobe",
-      "description" : "Full of brooms and pointy hats.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 50458,
-      "name" : "Witch Lamp",
-      "description" : "A beacon to light the darkest of forest groves, or your cozy bedroom.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50459,
-      "name" : "Voodoo Doll",
-      "description" : "Gives the term 'playing with dolls' a much more sinister meaning!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50460,
-      "name" : "Stone Mortar and Pestle",
-      "description" : "Great for crushing ingredients up for helpful healing drinks... or maybe the occasional evil potion...",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50461,
-      "name" : "Small Vial",
-      "description" : "It's not the size of the vial, but the motion of the potion.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50462,
-      "name" : "Poisoned Apples",
-      "description" : "These poisonous apples grow native in the dark forests of Withergate. Monsterfolk prefer to add a bit more poison, though - just to make them extra spicy.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50463,
-      "name" : "Empty Jar",
-      "description" : "An empty jar, just waiting to be filled with all sorts of creepy ingredients.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50464,
-      "name" : "Potion Jar",
-      "description" : "It's just a decorative potion, not meant for drinking!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 51182,
-      "name" : "Fiddle-Leaf Fern",
-      "description" : "A common plant that grows all over the place, adventurers swear to the tastiness of this fern when roasted over an open fire.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60000,
-      "name" : "Coins",
-      "description" : "Known for making the world go 'round.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60001,
-      "name" : "Mana Orbs",
-      "description" : "An orb of pure energy, a valuable resource.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60002,
-      "name" : "Tickets",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60003,
-      "name" : "Combat EXP",
-      "description" : "Experience in the Combat skill.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60004,
-      "name" : "Farming EXP",
-      "description" : "Experience in the Farming skill.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60005,
-      "name" : "Exploration EXP",
-      "description" : "Experience in the Exploration skill.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60006,
-      "name" : "Mining EXP",
-      "description" : "Experience in the Mining skill.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60007,
-      "name" : "Bonus Mana",
-      "description" : "A permanent increase to maximum mana, allowing you to cast more spells before running out!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60008,
-      "name" : "Fishing EXP",
-      "description" : "Experience in the Fishing  skill.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60009,
-      "name" : "Bonus Health",
-      "description" : "A permanent increase to maximum health, you'll be sturdier and take more damage before fainting!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60010,
-      "name" : "Bonus Attack Damage",
-      "description" : "A permanent increase to attack damage.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60011,
-      "name" : "Bonus Spell Damage",
-      "description" : "A permanent increase to spell damage.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60012,
-      "name" : "Bonus Movement Speed",
-      "description" : "A permanent increase to movement speed.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60100,
-      "name" : "Quest Bounty",
-      "description" : "Income earned by completing quests.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60101,
-      "name" : "Side Hustles",
-      "description" : "Income earned passively through skills or obtained as drops.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60200,
-      "name" : "Common Fish",
-      "description" : "Any common fish",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60201,
-      "name" : "Uncommon Fish",
-      "description" : "Any uncommon fish",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60202,
-      "name" : "Rare Fish",
-      "description" : "Any rare fish",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60203,
-      "name" : "Epic Fish",
-      "description" : "Any epic fish",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60204,
-      "name" : "Legendary Fish",
-      "description" : "Any legendary fish",
-      "location" : null,
-      "rarity" : "Legendary",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60220,
-      "name" : "Scrap Metal",
-      "description" : "You've never seen metal like this before. It looks like it could be recycled into new recipes.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60221,
-      "name" : "Empty Soda Can",
-      "description" : "The necessary vessel for soda storage.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60229,
-      "name" : "Water Rune",
-      "description" : "A magical sealing rune, containing the element of water.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Forageable"
-      ]
-   },
-   {
-      "id" : 60230,
-      "name" : "Fabled Silk",
-      "description" : "Silk so fine it was fabled to not truly exist... well, here it is!",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60234,
-      "name" : "Mana Drop",
-      "description" : "A droplet of crystalized mana. It pulses and thrums, giving off a gentle glow.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60235,
-      "name" : "Spooky Silk",
-      "description" : "As silky as it is spooky, or perhaps as spooky as it is silky.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60236,
-      "name" : "Fabled Fabric",
-      "description" : "Fabric so perfectly woven that it exists only in the hushed fables passed around Nel'Varian sewing circles.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60237,
-      "name" : "Nel'vari Quilt",
-      "description" : "Scores of Elven grannies have made this very same quilt for generations.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60238,
-      "name" : "Uber Socks",
-      "description" : "Great and flamboozling things can come from a pair of uber socks.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60239,
-      "name" : "Mana Infused Scarf",
-      "description" : "Just because you CAN mana infuse something doesn't mean you SHOULD.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60240,
-      "name" : "Cozy Blanket",
-      "description" : "This blanket naturally heats itself!",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60241,
-      "name" : "Nivara Blanket",
-      "description" : "A blanket bearing the image of Nivara, World Dragon.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60242,
-      "name" : "Spooky Fabric",
-      "description" : "Can fabric really be spooky? The answer is yes.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60243,
-      "name" : "Mended Socks",
-      "description" : "Someone's claw poked a hole in this sock, but it's all better now.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60244,
-      "name" : "Health Woven Scarf",
-      "description" : "A scarf woven with one's own vitality. Metal!",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60245,
-      "name" : "Wooly Blanket",
-      "description" : "A slightly itchy blanket that naturally heats itself!",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60246,
-      "name" : "Dynus Blanket",
-      "description" : "A blanket bearing the image of Dynus, Moon Dragon.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60247,
-      "name" : "Withergate Quilt",
-      "description" : "Keeps a monsterfolk nice and warm on chilly haunted nights.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60248,
-      "name" : "Pixie Dust",
-      "description" : "",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 60250,
-      "name" : "Earth Rune",
-      "description" : "A magical sealing rune, containing the element of earth.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Forageable"
-      ]
-   },
-   {
-      "id" : 62222,
-      "name" : "Butterfly Statue A",
-      "description" : "A bush, expertly trimmed into the shape of a beautiful butterfly.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
          "Decoration"
