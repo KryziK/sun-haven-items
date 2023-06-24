@@ -1,5 +1,1109 @@
 [
    {
+      "id" : 8190,
+      "name" : "Slime Hat (Orange)",
+      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8191,
+      "name" : "Slime Hat (Green)",
+      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8192,
+      "name" : "Slime Hat (Gray)",
+      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8193,
+      "name" : "Slime Hat (Brown)",
+      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8194,
+      "name" : "Slime Hat (Blue)",
+      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8195,
+      "name" : "Slime Hat (Black)",
+      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8197,
+      "name" : "Gold Chef Hat",
+      "description" : "Awarded only to the most accomplished foodsmiths... watch as lesser chefs tremble in the presence of your golden prowess!",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8198,
+      "name" : "Witch Hat (Brown)",
+      "description" : "Cast a spell (of fashion) on everyone around with this classic witch's hat.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8199,
+      "name" : "Witch Hat (Gray)",
+      "description" : "Cast a spell (of fashion) on everyone around with this classic witch's hat.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8200,
+      "name" : "Beanie (Black)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8201,
+      "name" : "Beanie (Blue)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8202,
+      "name" : "Beanie (Brown)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8203,
+      "name" : "Beanie (Gray)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8204,
+      "name" : "Beanie (Green)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8205,
+      "name" : "Beanie (Orange)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8206,
+      "name" : "Beanie (Pink)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8207,
+      "name" : "Beanie (Purple)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8208,
+      "name" : "Beanie (Red)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8209,
+      "name" : "Beanie (White)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8210,
+      "name" : "Beanie (Yellow)",
+      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8211,
+      "name" : "Crown (Black)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal black crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8212,
+      "name" : "Crown (Blue)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal blue crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8213,
+      "name" : "Crown (Brown)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal brown crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8214,
+      "name" : "Crown (Gray)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal gray crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8215,
+      "name" : "Crown (Green)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal green crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8216,
+      "name" : "Crown (Orange)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal orange crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8217,
+      "name" : "Crown (Pink)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal pink crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8218,
+      "name" : "Crown (Purple)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal purple crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8219,
+      "name" : "Crown (Red)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal red crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8220,
+      "name" : "Crown (White)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal white crown.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 8221,
+      "name" : "Crown (Yellow)",
+      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal golden crown.",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 9000,
+      "name" : "Bed",
+      "description" : "A comfy place to lay your head after a long day of work.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 9001,
+      "name" : "Nice Double Bed",
+      "description" : "An extra large bed to share with your beloved, or maybe to have all to yourself!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 9007,
+      "name" : "Bunny Couch",
+      "description" : "The cushions are extra-springy, like they're almost asking to be hopped on.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 9017,
+      "name" : "Bunny Table",
+      "description" : "A wooden table with little white bunnies painted onto it.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 9022,
+      "name" : "Bunny Lamp",
+      "description" : "Lighting doesn't get any cuter than this.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Candle"
+      ]
+   },
+   {
+      "id" : 9101,
+      "name" : "Nice Sofa",
+      "description" : "Because your rump deserves only the nicest things.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 9306,
+      "name" : "Nice Wooden Night Stand",
+      "description" : "This snappy night stand makes even the drabbest of beds look fit for a king.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 9307,
+      "name" : "Wooden Counter",
+      "description" : "But what does it count?",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 9350,
+      "name" : "Crafting Table (Old)",
+      "description" : "A sturdy work bench where you can craft all sorts of exciting things.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9351,
+      "name" : "Furnace (Old)",
+      "description" : "I can smelt ore into bars with this.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9352,
+      "name" : "Anvil (Old)",
+      "description" : "A heavy anvil, the essential tool for hammering metal bars into useful armor and tools.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9353,
+      "name" : "Loom (Old)",
+      "description" : "This spinning loom can turn silk and other materials into lots of different things.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9354,
+      "name" : "Furniture Table",
+      "description" : "A specialized carpentry bench, you can make furniture and decorations with this.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9355,
+      "name" : "Cooking Pot (Old)",
+      "description" : "A trusty cooking pot where you can cook ingredients and crops into yummy meals.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9356,
+      "name" : "Grinder",
+      "description" : "This stone grinder turns wheat and other materials into fine powders.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9357,
+      "name" : "Lynn Anvil",
+      "description" : "Lynn's personal anvil. It's seen a good amount of use.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9358,
+      "name" : "Geode Muncher",
+      "description" : "A machine that can crack stones, revealing any hidden treasures inside. ",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9359,
+      "name" : "Jam Maker",
+      "description" : "Everything you need to produce your own yummy jams, which grant bonus XP to your skills. Different flavors of jam grant bonus XP to different skills.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Crafting"
+      ]
+   },
+   {
+      "id" : 9360,
+      "name" : "Bee Box",
+      "description" : "A home for bees. The bees will travel to nearby flowers to collect pollen and create honey. If there are <b>12 of the same type of flowers</b> within <b>six tiles</b> of the bee box, the bees will create honey. The honey's flavor and effects are altered by the flowers the bees collect from.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "BeeHiveBox"
+      ]
+   },
+   {
+      "id" : 9400,
+      "name" : "Nice Wooden Lamp",
+      "description" : "A smartly carved wooden lamp.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Candle"
+      ]
+   },
+   {
+      "id" : 9600,
+      "name" : "Basic Wallpaper",
+      "description" : "A simple wallpaper to spruce up your home's walls.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9601,
+      "name" : "Flower Wallpaper",
+      "description" : "Surround yourself with the beauty of flowers by plastering your walls with them.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9602,
+      "name" : "Withergate Wallpaper",
+      "description" : "Take the spooky vibe of Withergate home with you, and then put it on your walls.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9603,
+      "name" : "Vintage Wallpaper",
+      "description" : "Based on the cottages of the Eastern Region, this wallpaper will give your home a very cozy feel.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9604,
+      "name" : "Earthy Grid Wallpaper",
+      "description" : "This wallpaper mimics the look of clay tiles on your walls.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9605,
+      "name" : "Pink Rosebud Wallpaper",
+      "description" : "Put this on your walls and you'll never go another day without a healthy dose of pink ever again.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9606,
+      "name" : "Purple Grid Wallpaper",
+      "description" : "Your eyes could get lost following the endless corners and turns of this gridded design.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9607,
+      "name" : "Purple Striped Wallpaper",
+      "description" : "It's not the most complicated wallpaper design, but it's so pleasant to look at.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9608,
+      "name" : "Parchment Wallpaper",
+      "description" : "Wallpaper that looks like aged parchment, how cool!",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9609,
+      "name" : "Retro Striped Wallpaper",
+      "description" : "It's not the most complicated wallpaper design, but it's so pleasant to look at.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9610,
+      "name" : "Blue Diamond Wallpaper",
+      "description" : "The checkered design of this wallpaper is almost hypnotic to stare at.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9611,
+      "name" : "Bunny Wallpaper",
+      "description" : "A wallpaper that is certain to quell anyone's doubt in your obsession with the bunny lifestyle.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9612,
+      "name" : "Purple Vintage Wallpaper",
+      "description" : "Based on the cottages of the Eastern Region, this wallpaper will give your home a very cozy feel.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9613,
+      "name" : "Red Brick Wallpaper",
+      "description" : "This wallpaper will make your house look like it was made of bricks!",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9614,
+      "name" : "Brown Brick Wallpaper",
+      "description" : "This wallpaper will make your house look like it was made of bricks!",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9615,
+      "name" : "Nice Blue Wallpaper",
+      "description" : "High quality wallpaper, imported right from the Great City.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9616,
+      "name" : "Nice Green Wallpaper",
+      "description" : "High quality wallpaper, imported right from the Great City.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9617,
+      "name" : "Nice Ivory Wallpaper",
+      "description" : "High quality wallpaper, imported right from the Great City.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9618,
+      "name" : "Nice Light Blue Wallpaper",
+      "description" : "High quality wallpaper, imported right from the Great City.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9619,
+      "name" : "Blue Striped Wallpaper",
+      "description" : "It's not the most complicated wallpaper design, but it's so pleasant to look at.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9620,
+      "name" : "Withergate Royalty Wallpaper",
+      "description" : "A wallpaper with a pattern of equal parts power and beauty.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9621,
+      "name" : "Purple Gold Arch Wallpaper",
+      "description" : "A deep purple wallpaper crossed with gold arches, what a fun design.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9622,
+      "name" : "Gray Brick Wallpaper",
+      "description" : "This wallpaper will make your house look like it was made of bricks!",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9623,
+      "name" : "Stained Glass Purple Wallpaper",
+      "description" : "Various minerals were mixed into the sand of this glass to produce this striking color.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9624,
+      "name" : "Navy Withergate Wallpaper",
+      "description" : "Take the spooky vibe of Withergate home with you, and then put it on your walls.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9625,
+      "name" : "Art Deco Purple Wallpaper",
+      "description" : "Sleek and industrial, a very classy wallpaper.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9626,
+      "name" : "Withergate Apartment Wallpaper",
+      "description" : "Just like the wallpaper they use in the Withergate apartments, now you can have it in your own home!",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9627,
+      "name" : "Nel'Vari Treehouse Wallpaper",
+      "description" : "Wallpaper that has been diligently hand-painted to resemble tree bark, it looks almost like the real thing.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9628,
+      "name" : "Barn Wallpaper",
+      "description" : "The default look of the barn.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 9629,
+      "name" : "Shed Wallpaper",
+      "description" : "The default look of the shed.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 10002,
+      "name" : "Wooden Wardrobe",
+      "description" : "A handsome wardrobe made of deeply varnished wood.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 10003,
+      "name" : "Wooden Table",
+      "description" : "A basic wooden table, not much more than some planks and nails put together.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10004,
+      "name" : "Candle",
+      "description" : "A simple wax candle, this will light up the darkness.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Candle"
+      ]
+   },
+   {
+      "id" : 10007,
+      "name" : "Bunny Side Table",
+      "description" : "The drawer handle is a little carrot, how cute!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10008,
+      "name" : "Bunny Wardrobe",
+      "description" : "Ever seen a wardrobe with giant bunny ears? Well, now you have!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 10009,
+      "name" : "Shelf",
+      "description" : "A standard wooden shelf, great for displaying knick knacks on your walls.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10013,
+      "name" : "Baby Table",
+      "description" : "Aw, it's like a cute little baby table.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10014,
+      "name" : "Withergate Lamp",
+      "description" : "This will make a great n-eye-ght light.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10061,
+      "name" : "Tier 2 Barn Upgrade",
+      "description" : "Make your barn bigger! A bigger barn allows you to own more farm animals.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Barn"
+      ]
+   },
+   {
+      "id" : 10062,
+      "name" : "Tier 3 Barn Upgrade",
+      "description" : "Make your barn bigger! A bigger barn allows you to own more farm animals.",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Barn"
+      ]
+   },
+   {
+      "id" : 10063,
+      "name" : "Elven Barn Tier 2 Upgrade",
+      "description" : "Use this to make your barn bigger and add 8 more animal capacity!",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Barn"
+      ]
+   },
+   {
+      "id" : 10064,
+      "name" : "Elven Barn Tier 3 Upgrade",
+      "description" : "Use this to make your barn even bigger and add 8 more animal capacity!",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "Barn"
+      ]
+   },
+   {
       "id" : 10100,
       "name" : "House (Old)",
       "description" : "Place your house!",
@@ -4891,8 +5995,8 @@
    },
    {
       "id" : 10533,
-      "name" : "Small Hay Pile",
-      "description" : "",
+      "name" : "Small Ground Hay",
+      "description" : "A little pile of scattered hay, perfect for decorating any farm floor.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -4903,8 +6007,8 @@
    },
    {
       "id" : 10534,
-      "name" : "Large Hay Pile",
-      "description" : "",
+      "name" : "Large Ground Hay",
+      "description" : "A large pile of scattered hay, perfect for decorating any farm floor.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -4927,8 +6031,8 @@
    },
    {
       "id" : 10536,
-      "name" : "Barn Window",
-      "description" : "",
+      "name" : "Rustic Elegant Window",
+      "description" : "A window to the world (from your barn).",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -7781,6 +8885,802 @@
       ]
    },
    {
+      "id" : 10778,
+      "name" : "Basic Shed",
+      "description" : "It's basic in look, but gets the job done just fine.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "ShedPlaceable",
+         "Shed"
+      ]
+   },
+   {
+      "id" : 10779,
+      "name" : "Elven Barn",
+      "description" : "A home for your Elven farm animal friends.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Barn"
+      ]
+   },
+   {
+      "id" : 10780,
+      "name" : "Floral Ladder",
+      "description" : "Either someone repurposed this ladder into a floral arrangement, or they accidentally left it in their garden.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10781,
+      "name" : "Hay Filled Wheel Barrow",
+      "description" : "Piled high with crunchy hay, these are a classic farm decor mainstay.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10782,
+      "name" : "Large Hay Pile",
+      "description" : "A large pile of hay, perfect for decorating any farm.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10783,
+      "name" : "Small Hay Pile",
+      "description" : "A little pile of hay, perfect for decorating any farm.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10784,
+      "name" : "Oranges Filled Wheelbarrow",
+      "description" : "Orange you glad this wheelbarrow is filled with oranges?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10785,
+      "name" : "Standee Filled Hay",
+      "description" : "Jazz up those boring old piles of hay with some cute wooden standees.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10786,
+      "name" : "Spring Aquarium",
+      "description" : "A silly little spring home for all the fish you've collected.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Aquarium"
+      ]
+   },
+   {
+      "id" : 10787,
+      "name" : "Summer Aquarium",
+      "description" : "A silly little summer home for all the fish you've collected.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Aquarium"
+      ]
+   },
+   {
+      "id" : 10788,
+      "name" : "Fall Aquarium",
+      "description" : "A silly little fall home for all the fish you've collected.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Aquarium"
+      ]
+   },
+   {
+      "id" : 10789,
+      "name" : "Winter Aquarium",
+      "description" : "A silly little winter home for all the fish you've collected.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Aquarium"
+      ]
+   },
+   {
+      "id" : 10790,
+      "name" : "Nel'Vari Aquarium",
+      "description" : "A silly little elven home for all the fish you've collected.",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Aquarium"
+      ]
+   },
+   {
+      "id" : 10791,
+      "name" : "Withergate Aquarium",
+      "description" : "A silly little monster home for all the fish you've collected.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Aquarium"
+      ]
+   },
+   {
+      "id" : 10792,
+      "name" : "Crate Of Apples",
+      "description" : "How do you like THESE apples?!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10793,
+      "name" : "Empty Crate",
+      "description" : "Just an empty old shipping crate.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10794,
+      "name" : "Empty Wheelbarrow",
+      "description" : "It may be empty, but it carries something heavier than any physical load: the weight of potential.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10795,
+      "name" : "Flower Planter",
+      "description" : "A planter boxed filled with little bitty baby flowers.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10796,
+      "name" : "Milk Churn",
+      "description" : "Back in the old days, people used these things to make butter. These days, of course, we have more sophisticated methods of buttercraft, like magic tables.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10797,
+      "name" : "Tin Bucket",
+      "description" : "A small bucket that can carry just about anything in it, though it looks to be empty now.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10798,
+      "name" : "Withergate Barn Arch",
+      "description" : "An spooktacular arch that proves subtlety is the enemy of style.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10799,
+      "name" : "Danger Poster",
+      "description" : "Danger: You are on a farm with KILLER style.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10800,
+      "name" : "No Sailing Poster",
+      "description" : "This sign is sure to keep those pesky sailboats away.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10801,
+      "name" : "Iron Feeding Trough",
+      "description" : "A sturdy trough that will hold a feast of animal feed for your barn animal buddies.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10802,
+      "name" : "Red Oil Drum",
+      "description" : "You ever try keeping something in a barrel made out of haunted deadwood? It doesn't work so good. The Demons quickly adapted metal for their barrel-related needs.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10803,
+      "name" : "Green Oil Drum",
+      "description" : "You ever try keeping something in a barrel made out of haunted deadwood? It doesn't work so good. The Demons quickly adapted metal for their barrel-related needs.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10804,
+      "name" : "Blue Oil Drum",
+      "description" : "You ever try keeping something in a barrel made out of haunted deadwood? It doesn't work so good. The Demons quickly adapted metal for their barrel-related needs.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10805,
+      "name" : "Barrel Cluster",
+      "description" : "What could be more fun than one barrel? A CLUSTER of barrels!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10806,
+      "name" : "Worm Infested Apples",
+      "description" : "Oh, disgusting!! Someone infested the worms with a bunch of nasty apples!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10807,
+      "name" : "Thorny Planter",
+      "description" : "A planter box full of delightfully stabby little plants.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10808,
+      "name" : "Bitey Planter",
+      "description" : "A planter box full of ravenous snapper plants... with a taste for farmer!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10809,
+      "name" : "Pumpkin Filled Wheelbarrow",
+      "description" : "Filled with the bounty of a pumpkin patch harvest... wait, is that one cackling?",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10810,
+      "name" : "Old Scythe",
+      "description" : "The blade is too thin to survive even one more sharpening. Now it's just a piece of decor... or junk, depending on your taste in interior decoration.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10811,
+      "name" : "Empty Planter",
+      "description" : "The blade is too thin to survive even one more sharpening. Now it's just a piece of decor... or junk, depending on your taste in interior decoration.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10812,
+      "name" : "T Shaped Pipe",
+      "description" : "Behold, the greatest feat of Demonic engineering: Indoor plumbing!!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10813,
+      "name" : "Thick Green Pipe",
+      "description" : "Bog water, swimming pool water, slime... these pipes are designed to handle it all.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10814,
+      "name" : "Line of Pipes",
+      "description" : "A nice and orderly row of pipes. Just... don't ask where they go.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10815,
+      "name" : "Elven Window",
+      "description" : "Nature is outside your window. Now, it can be ON your window, too.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10816,
+      "name" : "Nel'Vari Barn Arch",
+      "description" : "Old oakwood, bent into an arch and festooned with deep forest vines and lillies.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10817,
+      "name" : "Hanging Spool of Rope",
+      "description" : "A length of rope, kept nice and tidy for whenever it may be needed.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10818,
+      "name" : "Rake",
+      "description" : "What kind of weird farming tool is this? It's like some kind of weird comb on a stick... what did the farmers of old use it for, you wonder.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10819,
+      "name" : "Pirate Anchor",
+      "description" : "Her anchorin' days are over. Now she just makes a fine wall decoration.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10820,
+      "name" : "Pirate Bed",
+      "description" : "The finest bed buried treasure can buy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 10821,
+      "name" : "Pirate Cannon",
+      "description" : "A big ol' honkin' cannon... though it's only a replica and can't actually be fired. Too bad!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 10822,
+      "name" : "Pirate Chair",
+      "description" : "I didn't know chairs could be pirates. Arrrrr.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 10823,
+      "name" : "Pirate Chest",
+      "description" : "Don't get your hopes up - there's no lost treasure inside, it's just a cute decorative chest.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 10824,
+      "name" : "Pirate Hammock",
+      "description" : "An old piece of ship sail, repurposed into a primitive pirate hammock.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 10825,
+      "name" : "Pirate Table",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10826,
+      "name" : "Pirate Treasure Map",
+      "description" : "A tattered treasure map, showing the location of a legendary pirate treasure. Too bad you were always bad at reading maps!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10827,
+      "name" : "Pirate Wardrobe",
+      "description" : "Keep your spare peglegs organized and stored away in this barrel keg of a wardrobe.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 10828,
+      "name" : "Pirate Wood Post",
+      "description" : "Sturdy wooden posts that'll keep a ship tied to shore, so it doesn't float away in the waves!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 10829,
+      "name" : "Seaside Bed",
+      "description" : "She sleeps in seashells by the sea snore.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 10830,
+      "name" : "Seaside Chair",
+      "description" : "Sitting is great, but don't forget to stand up occasionally and stretch your fins.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 10831,
+      "name" : "Seaside Chest",
+      "description" : "Merfolk are great at restoring dingy old pirate treasure chests into cute little numbers like this one.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 10832,
+      "name" : "Seaside End Table",
+      "description" : "The only table you need while you kick back on a tropical seaside shore.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10833,
+      "name" : "Seaside Lamp",
+      "description" : "It's hard to light a lantern under the sea (well, actually, it's sort of impossible). To adapt to life under the waves, the merfolk people use enchanted pearls that glow with light.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10834,
+      "name" : "Seaside Table",
+      "description" : "Many a merfolk diplomatic debate (and tea party) has been had over tables like this.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10835,
+      "name" : "Seaside Wardrobe",
+      "description" : "This fancy wardrobe is watertight up to 4,000 meters!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 10836,
+      "name" : "Blue Seaside Shell Rug",
+      "description" : "The world might be your oyster, but this clam can be your rug.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 10837,
+      "name" : "Blue Seaside Starfish Rug",
+      "description" : "Did you know that starfish can have as many as 15,000 suction cups across their body? Well, not this one, though. Because this one is a rug.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 10838,
+      "name" : "Pink Seaside Shell Rug",
+      "description" : "The world might be your oyster, but this clam can be your rug.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 10839,
+      "name" : "Pink Seaside Starfish Rug",
+      "description" : "Did you know that starfish can have as many as 15,000 suction cups across their body? Well, not this one, though. Because this one is a rug.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 10840,
+      "name" : "Mushroom Bed",
+      "description" : "Lay your head down on the velvety mushroom caps and dream your mushroomy dreams.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 10841,
+      "name" : "Mushroom Bookshelf",
+      "description" : "Filled with books and mushrooms. Mostly mushrooms, though.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 10842,
+      "name" : "Mushroom Carpet",
+      "description" : "A supple linen carpet, depicting adorable little mushrooms along its borders.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 10843,
+      "name" : "Mushroom Coat Rack",
+      "description" : "Someone hand carved little mushrooms to hang your coat on - how adorable!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10844,
+      "name" : "Mushroom Table",
+      "description" : "Put your coffee, your mushrooms - or heck, even your mushroom coffee, on this thing.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10845,
+      "name" : "Mushroom End Table",
+      "description" : "A little mushroom table. Mush room for everything you want to put on it, yes.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 10846,
+      "name" : "Red Mushroom Decoration",
+      "description" : "A clay mushroom created by skilled Elven clay workers - it looks shockingly lifelike!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 10847,
+      "name" : "Light Brown Mushroom Decoration",
+      "description" : "A clay mushroom created by skilled Elven clay workers - it looks shockingly lifelike!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
       "id" : 10850,
       "name" : "Heavystone Node",
       "description" : "",
@@ -8059,6 +9959,30 @@
       "id" : 10874,
       "name" : "Deadwood Gate",
       "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "FenceGate"
+      ]
+   },
+   {
+      "id" : 10875,
+      "name" : "Woven Wood Fence",
+      "description" : "Elven wood that has been intricately woven together in a mesmerizingly beautiful yet sturdy fence.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Fence"
+      ]
+   },
+   {
+      "id" : 10876,
+      "name" : "Woven Wood Gate",
+      "description" : "Mere fence gates, though they're more beautiful than any door you've ever seen.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -9069,6 +10993,72 @@
       ]
    },
    {
+      "id" : 11113,
+      "name" : "Barn Permit",
+      "description" : "Required to craft a barn at the Construction Table. Barns are a great place to keep farm animals!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 11114,
+      "name" : "Tier 2 Barn Permit",
+      "description" : "Required to craft a tier 2 barn upgrade kit at the Construction Table.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 11115,
+      "name" : "Tier 3 Barn Permit",
+      "description" : "Required to craft a tier 3 barn upgrade kit at the Construction Table.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 11116,
+      "name" : "Elven Barn Permit",
+      "description" : "Required to craft an elven barn at the Elven Crafting Table. Barns are a great place to keep farm animals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 11117,
+      "name" : "Tier 2 Elven Barn Permit",
+      "description" : "Required to craft a tier 2 elven barn upgrade kit at the Elven Crafting Table.",
+      "location" : "Nel'Vari",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
+      "id" : 11118,
+      "name" : "Tier 3 Elven Barn Permit",
+      "description" : "Required to craft a tier 3 elven barn upgrade kit at the Elven Crafting Table.",
+      "location" : "Nel'Vari",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture"
+      ]
+   },
+   {
       "id" : 11120,
       "name" : "Demolition Kit",
       "description" : "Don't like where you built your house or barn? Just move it somewhere else!",
@@ -9127,2291 +11117,447 @@
       ]
    },
    {
-      "id" : 11200,
-      "name" : "Small Mana Potion",
-      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11201,
-      "name" : "Fishing Permit Tier 1",
-      "description" : "An official piece of paper permitting you to deploy a low number of fishing nets. Increase fishing net capacity by 2. Only one tier 1 fishing permit can be used per world.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11202,
-      "name" : "Fishing Permit Tier 2",
-      "description" : "An official piece of paper permitting you to deploy a moderate number of fishing nets. Increase fishing net capacity by 4. Only one tier 2 fishing permit can be used per world.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11203,
-      "name" : "Fishing Permit Tier 3",
-      "description" : "An official piece of paper permitting you to deploy a high number of fishing nets. Increase fishing net capacity by 6. Only one tier 3 fishing permit can be used per world.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11204,
-      "name" : "Land Permit Tier 1",
-      "description" : "An official piece of paper permitting you to deploy a high number of crops. Increase crop capacity by 10. Only one tier 1 land permit can be used per world.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11205,
-      "name" : "Land Permit Tier 2",
-      "description" : "An official piece of paper permitting you to deploy a high number of crops. Increase crop capacity by 15. Only one tier 2 land permit can be used per world.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11206,
-      "name" : "Land Permit Tier 3",
-      "description" : "An official piece of paper permitting you to deploy a high number of crops. Increase crop capacity by 25. Only one tier 3 land permit can be used per world.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11211,
-      "name" : "Medium Mana Potion",
-      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11212,
-      "name" : "Large Mana Potion",
-      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11213,
-      "name" : "Magic Potion",
-      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11214,
-      "name" : "Large Magic Potion",
-      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11215,
-      "name" : "Spell Damage Potion",
-      "description" : "A potion of distilled mana essense, it provides a quick boost to your energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11216,
-      "name" : "Spiked Salmon Sashimi",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11217,
-      "name" : "Ghoul Fish Roll",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11218,
-      "name" : "Dumbo Octopus Takoyaki",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11219,
-      "name" : "Jack'o'fin Sashimi",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11220,
-      "name" : "Dead Eye Shrimp Cocktail",
-      "description" : "In Demonic these cocktails are known as hors d'oeuvres, basically fancy party food for fancy Demon parties.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11221,
-      "name" : "Electric Eel Sushi",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11223,
-      "name" : "Brain Jelly Salad",
-      "description" : "It wiggles, it jiggles, it... tastes about as good as you'd imagine.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11224,
-      "name" : "Kraken Stew",
-      "description" : "A monstrous stew, perfect for anyone with a monstrous appetite!",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11225,
-      "name" : "Redfinned Pincher Sushi Roll",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11226,
-      "name" : "Ghosthead Tuna Sashimi",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11227,
-      "name" : "Living Jelly Salad",
-      "description" : "A popular dish at Monsterfolk picnics or family gatherings, normally avoided by the kids.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11228,
-      "name" : "Albino Squid Rings",
-      "description" : "Even for squid these things are a little on the gooey side, but they're surprisingly tasty.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11229,
-      "name" : "Devilishly Good Stew",
-      "description" : "A stew so tasty that even an angel would be tempted.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11230,
-      "name" : "Duorado Double Roll",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11231,
-      "name" : "Water Bear Soup",
-      "description" : "Waiter, what's the water bear doing in my soup?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11232,
-      "name" : "Viperfish Sashimi",
-      "description" : "Seafood prepared in an exotic fashion... where did the Demons of Withergate learn this type of culinary style?",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11233,
-      "name" : "Roasted Black Bass",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11234,
-      "name" : "Roasted Dorado",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11235,
-      "name" : "Roasted Flower Flounder",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11236,
-      "name" : "Roasted Old Boot",
-      "description" : "Roasted to a perfect medium rare.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11237,
-      "name" : "Roasted Rainbow Trout",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11238,
-      "name" : "Roasted Sea Bass",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11239,
-      "name" : "Roasted Tuna",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11240,
-      "name" : "Grilled Blue Tang",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11241,
-      "name" : "Grilled Carp",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11242,
-      "name" : "Grilled Catfish",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11243,
-      "name" : "Grilled Crab",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11244,
-      "name" : "Grilled Frostfin",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11245,
-      "name" : "Grilled Whitebelly Shark",
-      "description" : "Fish, perfectly roasted over the coals of a hot grill.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11246,
-      "name" : "Leaf Wrapped Averagemouth Bass",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11247,
-      "name" : "Leaf Wrapped Bashful Pike",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11248,
-      "name" : "Leaf Wrapped Blue Gill",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11249,
-      "name" : "Leaf Wrapped Cuddlefish",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11250,
-      "name" : "Leaf Wrapped Ribbon Eel",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11251,
-      "name" : "Leaf Wrapped Searback",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11252,
-      "name" : "Leaf Wrapped Silver Carp",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11253,
-      "name" : "Leaf Wrapped Tiger Trout",
-      "description" : "Wrapped in a seasoned leaf and buried in smoking embers, a cooking method favored especially by Naga.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11254,
-      "name" : "Seared Acorn Anchovy",
-      "description" : "Lightly oiled and seared on a hot grill, who needs a pan?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11255,
-      "name" : "Seared Ironhead Sturgeon",
-      "description" : "Lightly oiled and seared on a hot grill, who needs a pan?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11256,
-      "name" : "Seared Lobster",
-      "description" : "Lightly oiled and seared on a hot grill, who needs a pan?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11257,
-      "name" : "Seared Pufferfish",
-      "description" : "Lightly oiled and seared on a hot grill, who needs a pan?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11258,
-      "name" : "Seared Red Snapper",
-      "description" : "Lightly oiled and seared on a hot grill, who needs a pan?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11259,
-      "name" : "Razor Stalk Tea",
-      "description" : "A delicious tea, though you have to take special care to strain all of the razorthorns out first.",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11260,
-      "name" : "Demon Coffee",
-      "description" : "Thick as mud and smelling just as awful, but Demons chug this stuff to start their day.",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11261,
-      "name" : "Snappy Juice",
-      "description" : "Juice with a real snap! No, really.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11262,
-      "name" : "Demon Energy Juice",
-      "description" : "Withergate wasn't built in a day, but this energy concoction certainly sped development right along.",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11263,
-      "name" : "Demonsoul Latte",
-      "description" : "Brewed from the essence of demon orbs, the drink glows with a pale and eerie light.",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11264,
-      "name" : "Elemental Cocktail",
-      "description" : "The powers of earth, water and fire combine to form a cocktail with a delightful complex flavor profile.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11265,
-      "name" : "Indiglow Tea",
-      "description" : "Light and sweet, the perfect pick-me-up drink to restore your inner glow.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11266,
-      "name" : "Catsup",
-      "description" : "What's up, catsup?",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11267,
-      "name" : "Dragon Tea",
-      "description" : "With only the slightest hint of heat, this drink really does perk you up.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11268,
-      "name" : "Mana Water",
-      "description" : "Pure water, imbued with radiating mana energy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11269,
-      "name" : "Fire Juice",
-      "description" : "It's juice, but it tastes more like drinking hot sauce!",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11270,
-      "name" : "Magical Water",
-      "description" : "Pairs perfect with magic beans.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11271,
-      "name" : "Rocky Road Smoothie",
-      "description" : "Chunky and chilly, it's easy to see why this is Nel'Vari's favorite smoothie.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11272,
-      "name" : "Acorn Milk",
-      "description" : "A bitter, nutty 'milk' alternative when you don't have any cows handy in your magical Elven forest.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11273,
-      "name" : "Wind Chime Tea",
-      "description" : "Cool and airy, Nel'Varians love drinking this on hot summer days.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11274,
-      "name" : "Bubble Tea",
-      "description" : "Naturally bubbly, it tickles your lip when you try to drink it.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11275,
-      "name" : "Spicy Catsup",
-      "description" : "Catsup's edgier older cousin.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11276,
-      "name" : "Water Dragon Tea",
-      "description" : "Nel'Varians often drink dragon tea in honor of the natural elements.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11277,
-      "name" : "Fire Dragon Tea",
-      "description" : "Nel'Varians often drink dragon tea in honor of the natural elements.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11278,
-      "name" : "Earth Dragon Tea",
-      "description" : "Nel'Varians often drink dragon tea in honor of the natural elements.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11300,
-      "name" : "Golden Tree Seeds Recipe",
-      "description" : "Unlocks the ability to craft Golden Tree Seeds for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11301,
-      "name" : "Red Rose Bouquet Recipe",
-      "description" : "Unlock the ability to craft Red Rose Bouquets for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11302,
-      "name" : "Blue Rose Bouquet Recipe",
-      "description" : "Unlock the ability to craft Blue Rose Bouquets for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11303,
-      "name" : "Legendary Fish Bait Recipe",
-      "description" : "Unlock the ability to craft Legendary Fish Bait for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11304,
-      "name" : "Simple Magic Fertilizer Recipe",
-      "description" : "Unlock the ability to craft Simple Magic Fertilizer for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11305,
-      "name" : "Advanced Magic Fertilizer Recipe",
-      "description" : "Unlock the ability to craft Advanced Magic Fertilizer for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11306,
-      "name" : "Wizard's Crafting Table Recipe",
-      "description" : "Unlock the ability to craft Wizard's Crafting Tables for all players!",
-      "location" : null,
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Permit"
-      ]
-   },
-   {
-      "id" : 11500,
-      "name" : "Drinking Chocolate",
-      "description" : "Known less formally as hot chocolate, this brew is the essential drink for the chilly winter season.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11501,
-      "name" : "Mulled Cider",
-      "description" : "Cider that has been heated, or mulled, with holiday spices and fruit.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11502,
-      "name" : "Spiced Cider",
-      "description" : "Cider topped with a froth of potent spices.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11503,
-      "name" : "Elios Gingerbread Cookie",
-      "description" : "It looks just like Elios, even though it's a cookie!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11504,
-      "name" : "Holiday Hot Cocoa",
-      "description" : "Cocoa thickened with peppermint, it's hot AND cool.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11505,
-      "name" : "Fruit Cupcake",
-      "description" : "A cute mini version of the holiday fruit cake.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11506,
-      "name" : "Figgy Pudding",
-      "description" : "Get figgy with it.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11507,
-      "name" : "Moonplant Cola",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11508,
-      "name" : "Eggplant Cola",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11509,
-      "name" : "Spikey Soda",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11510,
-      "name" : "Soul Fizz",
-      "description" : "It fizzes with a sickly glow, but it tastes yummy!",
-      "location" : "Withergate",
-      "rarity" : "Legendary",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11511,
-      "name" : "Pumpkin Soda",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11512,
-      "name" : "Tombmelon Soda",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11513,
-      "name" : "Kraken Cola",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11514,
-      "name" : "Sucker Soda",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11515,
-      "name" : "Sweet Melon Soda",
-      "description" : "Built on a swamp, Withergate needed a method to purify and flavor its drinking water. That, my friends, is where soda comes in...",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11516,
-      "name" : "Sandstone Sashimi",
-      "description" : "A bit hard to bite into, honestly.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11517,
-      "name" : "Tuna Sashimi",
-      "description" : "Thinly sliced tuna, served nice and raw!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11518,
-      "name" : "Pufferfish Sashimi",
-      "description" : "Thinly sliced pufferfish... a dangerous but delicious delicacy.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11519,
-      "name" : "Cod Sashimi",
-      "description" : "Thinly sliced cod, served nice and raw!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11520,
-      "name" : "Crab Roll",
-      "description" : "This crab is on a roll!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11521,
-      "name" : "Tekka Maki",
-      "description" : "Red tuna, wrapped tightly in sticky rice.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11522,
-      "name" : "Salmon Roll",
-      "description" : "Thinly sliced salmon, served nice and raw!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11523,
-      "name" : "Swordfish Sashimi",
-      "description" : "Thinly sliced swordfish, served nice and raw!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11524,
-      "name" : "Rainbow Roll",
-      "description" : "Two servings is called a double rainbow.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11525,
-      "name" : "Red Snapper Sashimi",
-      "description" : "Thinly sliced red snapper, served nice and raw!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11526,
-      "name" : "Tiger Roll",
-      "description" : "A generous portion of wasabi makes this tiger extra fierce!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11527,
-      "name" : "Eel Roll",
-      "description" : "Eels are pretty easy to roll.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11528,
-      "name" : "Lobster Sushi",
-      "description" : "Delicate lobster meat, lightly sauced and ready to meet your tummy.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11529,
-      "name" : "Gingerbread Man",
-      "description" : "This one didn't run away home.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11530,
-      "name" : "Milk and Cookies",
-      "description" : "Santa food.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11531,
-      "name" : "Raspberry Doughnuts",
-      "description" : "Raspberries aren't in season during the winter, so these doughnuts are made with sweetened preserves.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11532,
-      "name" : "Gingerbread House",
-      "description" : "Knock knock, anyone home?",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11533,
-      "name" : "Panettone",
-      "description" : "A fluffy and delicate fruit cake, just in time for winter.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11534,
-      "name" : "Eyeball Pizza",
-      "description" : "You never thought pizza could beat you in a staring contest, but here we are.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11535,
-      "name" : "Spider Pie",
-      "description" : "Made by spiders, of spiders, for spiders.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11536,
-      "name" : "Demon Drink",
-      "description" : "A devilish brew, Demonkind often have it on special occassions or holidays.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11537,
-      "name" : "Tooth Juice",
-      "description" : "Better tooth juice than tooth ache.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11538,
-      "name" : "Eyeball Cocktail",
-      "description" : "Did that drink just wink at you?",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11539,
-      "name" : "Moon Cream",
-      "description" : "Whipped from the cream of a Demonic cow under the pale light of a blood moon... with a LOT of sugar. An elegant pastry worthy of royalty.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11540,
-      "name" : "Eel Skewer",
-      "description" : "You wouldn't FEEL very good if you were skewered, either.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11541,
-      "name" : "Monster Burger",
-      "description" : "You'd better eat it... before IT eats YOU!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11542,
-      "name" : "Tentacle Fries",
-      "description" : "Crispy, fried and (thankfully) not squirming.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11543,
-      "name" : "Sugar Teeth",
-      "description" : "You've heard of sweet tooths before, but this is a little ridiculous.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11545,
-      "name" : "Cookie Spider",
-      "description" : "Yummy AND creepy!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11547,
-      "name" : "Bag of Jelly Beans",
-      "description" : "Were they grown on a jelly farm?",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11548,
-      "name" : "Witch's Fingers",
-      "description" : "I hope they're not Catherine's!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11549,
-      "name" : "Mini Jawbreaker",
-      "description" : "Breaks mini jaws.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11550,
-      "name" : "Mango Taffy",
-      "description" : "Taffy is great, you just have to chew it. A lot.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11551,
-      "name" : "Grape Taffy",
-      "description" : "Taffy is great, you just have to chew it. A lot.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11552,
-      "name" : "Raspberry Taffy",
-      "description" : "Taffy is great, you just have to chew it. A lot.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11554,
-      "name" : "Strawberry Candy Drop",
-      "description" : "A little candy, wrapped up in a cute fruit foil.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11555,
-      "name" : "Orange Candy Drop",
-      "description" : "A little candy, wrapped up in a cute fruit foil.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11556,
-      "name" : "Blueberry Candy Drop",
-      "description" : "A little candy, wrapped up in a cute fruit foil.\n\nThis sugary candy is likely to give you a sugar rush!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11557,
-      "name" : "Brisket",
-      "description" : "Caked in seasoning and slowly cooked over hot coals, brisket is every meat-lovers dream cuisine.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11558,
-      "name" : "Root Beer",
-      "description" : "A drink originally brewed by the Elves, it was far too delicious to be kept a secret for very long.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11559,
-      "name" : "Chicken Tenders",
-      "description" : "Food fit for the goodest of boys.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11560,
-      "name" : "Tavern Burger",
-      "description" : "How do tavern keepers make their burgers taste so good? What's their tavern-y secret?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11561,
-      "name" : "Cobb Salad",
-      "description" : "With too many ingredients to count, this 'mere' salad is as hearty a meal as any.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11562,
-      "name" : "Pulled Pork Sandwich",
-      "description" : "Ask not for whom the bell pulls.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11563,
-      "name" : "Pot Roast",
-      "description" : "Roasted until it's practically falling apart, total perfection.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11564,
-      "name" : "Catch of the Day",
-      "description" : "\"You catch it, I'll grill it. Don't care what it is.\" - Ronald",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11565,
-      "name" : "Supper Skillet",
-      "description" : "Potatoes, peppers, mushroom, cheese & eggs in a pan.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11566,
-      "name" : "Chicken Wings",
-      "description" : "Eh, the chicken wasn't using those wings anyways.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11567,
-      "name" : "Cheese Dip",
-      "description" : "The thing about Dip is that you can dip anything in it. The only limit is your imagination (and courage).",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11568,
-      "name" : "Scrambled Eggs",
-      "description" : "Perfect breakfast food before a morning exercise... or after a long night at the tavern.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11569,
-      "name" : "Snow Cone",
-      "description" : "Best enjoyed on hot summer days, but whenever else is fine, too.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11570,
-      "name" : "Strawberry Salad",
-      "description" : "Sweet and refreshing, a perfect way to start the day!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11571,
-      "name" : "Deviled Eggs",
-      "description" : "The only thing evil about these is their delicious taste!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11572,
-      "name" : "Mushroom Toast",
-      "description" : "Is this fine dining... or is it a failed sandwich?",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11573,
-      "name" : "Hummus",
-      "description" : "A delightful snack, perfect for chips, crackers, and most other dippable foods.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11574,
-      "name" : "Spicy Noodles",
-      "description" : "Woah, that's hot! The smell alone is making me cry!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11575,
-      "name" : "Short Ribs",
-      "description" : "Perfectly cooked, the meat is practically falling off the bone.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11576,
-      "name" : "Grilled Pineapple",
-      "description" : "They say you can grill just about anything, but should you?",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11577,
-      "name" : "Squid Tacos",
-      "description" : "These could use a bit more ink.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11578,
-      "name" : "Stuffed Peppers",
-      "description" : "Overflowing with delicious flavors, just one isn't enough!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11579,
-      "name" : "Butternut Mac and Cheese",
-      "description" : "When in doubt, add cheese!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11580,
-      "name" : "Gnocchi",
-      "description" : "These pasta dumplings go well in just about any sauce.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11581,
-      "name" : "Eggplant Ravioli",
-      "description" : "Little pockets of time, love, and eggplant.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11582,
-      "name" : "Chili",
-      "description" : "A hearty meal that will leave you satisfied for hours after.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11583,
-      "name" : "Charcuterie Board",
-      "description" : "A board filled with various snacks, perfect for a party, or just for me.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11584,
-      "name" : "Frostfin Cocktail",
-      "description" : "This drink will make you the talk of any party!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11585,
-      "name" : "Blizzard Berry Stew",
-      "description" : "This stew will cool you down after just one bite. Brrrr!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11586,
-      "name" : "Yam Fettuccine Alfredo",
-      "description" : "This pasta dish isn't actually pasta, the noodles are made with yams!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11587,
-      "name" : "Lemon Jam",
-      "description" : "Lemony tart jam made from freshly pulped lemon. Eating this will give you a boost to your farming skill.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11588,
-      "name" : "Pineapple Jam",
-      "description" : "Sweet citrus jam made from freshly pulped pineapple. Eating this will give you a boost to your exploration skill.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11589,
-      "name" : "Guava Jam",
-      "description" : "A tropical jam made from freshly pulped guava. Eating this will give you a boost to your mining skill.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11590,
-      "name" : "Triangle Jam",
-      "description" : "Even math is delicious if you put enough sugar on it. Eating this will give you a boost to your combat and fishing skills.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11591,
-      "name" : "Kiwi Juice",
-      "description" : "With a gentle citrus undertone, this juice would go great in a fruit punch.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Food"
-      ]
-   },
-   {
-      "id" : 11592,
-      "name" : "Watermelon Juice",
-      "description" : "New: Drinkable Watermelon.",
+      "id" : 11135,
+      "name" : "Basic Patio",
+      "description" : "A standard patio for your house.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Food"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 11593,
-      "name" : "Galaxy Smoothie",
-      "description" : "A smoothie packed with a galaxy of flavors... literally!",
+      "id" : 11136,
+      "name" : "Basic Door",
+      "description" : "A standard door for your house.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Food"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12000,
-      "name" : "Wheat Seeds",
-      "description" : "Valued for its versatility and known for growing in rolling fields all across the land.",
+      "id" : 11137,
+      "name" : "Basic Windows",
+      "description" : "A standard set of windows for your house.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12001,
-      "name" : "Corn Seeds",
-      "description" : "Slow to grow, but each crop provides double the yield.",
+      "id" : 11138,
+      "name" : "Basic Roof",
+      "description" : "A standard roof for your house.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12002,
-      "name" : "Potato Seeds",
-      "description" : "These hearty veggies have a good chance to double their yield upon harvesting.",
+      "id" : 11139,
+      "name" : "Basic Walls",
+      "description" : "A standard set of walls for your house.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12003,
-      "name" : "Tomato Seeds",
-      "description" : "Red and juicy, a common ingredient in delicious meals.",
+      "id" : 11140,
+      "name" : "Red Patio",
+      "description" : "Customizes your house's patio in a red brick tile style.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12004,
-      "name" : "Demon Seeds",
-      "description" : "These seeds glow with a faint eerie light, growing quick and providing a fast yield.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12005,
-      "name" : "Snappy Seeds",
-      "description" : "Mind your fingers when you harvest this hungry crop! Slow to grow, but sells for a high value.",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12006,
-      "name" : "Carrot Seeds",
-      "description" : "Orange and crunchy, a common ingredient in delicious meals.",
+      "id" : 11141,
+      "name" : "Red Door",
+      "description" : "Customizes your house's door in a red brick tile style.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12007,
-      "name" : "Shimmeroot Seeds",
-      "description" : "Radiates with a faint golden shimmer, this lucrative root always produces legendary quality yields. ",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12008,
-      "name" : "Pepper Seeds",
-      "description" : "Spicy, delicious, and more expensive than a typical crop. They grow so hot that they never stay watered overnight.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12009,
-      "name" : "Onion Seeds",
-      "description" : "Savory and fragrant, a classic choice to kick any delicious meal up a notch.",
+      "id" : 11142,
+      "name" : "Red Windows",
+      "description" : "Customizes your house's windows in a red brick tile style.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12010,
-      "name" : "Greenroot Seeds",
-      "description" : "Doesn't sell for very much, but is a popular and delicious cooking spice. ",
+      "id" : 11143,
+      "name" : "Red Roof",
+      "description" : "Customizes your house's roof in a red brick tile style.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12012,
-      "name" : "Cinnaberry Seeds",
-      "description" : "A sweet snack that can be eaten on the go or used as an important ingredient in delicious desserts.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12013,
-      "name" : "Lettuce Seeds",
-      "description" : "Leafy and green, Lettuce absorbs moisture from the air and always stays watered overnight.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12014,
-      "name" : "Rice Seeds",
-      "description" : "Actually a species of grass, rice is an adaptable staple for any basic cooking recipe.",
+      "id" : 11144,
+      "name" : "Red Walls",
+      "description" : "Customizes your house's walls in a red brick tile style.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12015,
-      "name" : "Eggplant Seeds",
-      "description" : "Is it an egg? Is it a plant? It's an eggplant! Or a plantegg? Plant it and find out!",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12016,
-      "name" : "Kraken Kale Seeds",
-      "description" : "If you're not careful, this bizarre stalk will stick right to your fingers!",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12017,
-      "name" : "Moonplant Seeds",
-      "description" : "Crescent-shaped seeds that grow under the light of the moon.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12018,
-      "name" : "Suckerstem Seeds",
-      "description" : "Sticky little seeds that some monsters enjoy munching on as a snack.",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12019,
-      "name" : "Tombmelon Seeds",
-      "description" : "Filled with sweet juice, these plants might look spooky but taste great.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12020,
-      "name" : "Razorstalk Seeds",
-      "description" : "Looking more like thorns than seeds, it's the plant of choice within the Withergate royal gardens.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12021,
-      "name" : "Soul Orb Seeds",
-      "description" : "A pale white seed that softly hums with a strange energy.",
+      "id" : 11145,
+      "name" : "Honeycomb Patio",
+      "description" : "Customizes your house's patio in a bee-autiful honeycomb style.",
       "location" : "SunHaven",
-      "rarity" : "Legendary",
+      "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12022,
-      "name" : "Grape Seeds",
-      "description" : "Cultivated by Elves around the world, this species of grape is adaptable to many different climates.",
+      "id" : 11146,
+      "name" : "Honeycomb Door",
+      "description" : "Customizes your house's door in a bee-autiful honeycomb style.",
       "location" : "SunHaven",
-      "rarity" : "Epic",
+      "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12023,
-      "name" : "Water Fruit Seeds",
-      "description" : "Elementally imbued seeds that sprout into one of three different crops, you'll have to plant them and find out! Elemental Crops take 6 days to grow and each sells for a different base yield of 10, 16, or 20 mana orbs.",
+      "id" : 11147,
+      "name" : "Honeycomb Windows",
+      "description" : "Customizes your house's windows in a bee-autiful honeycomb style.",
       "location" : "SunHaven",
-      "rarity" : "Rare",
+      "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12024,
-      "name" : "Fire Fruit Seeds",
-      "description" : "Elementally imbued seeds that sprout into one of three different crops, you'll have to plant them and find out! Elemental Crops take 6 days to grow and each sells for a different base yield of 10, 16, or 20 mana orbs.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12025,
-      "name" : "Rock Fruit Seeds",
-      "description" : "Elementally imbued seeds that sprout into one of three different crops, you'll have to plant them and find out! Elemental Crops take 6 days to grow and each sells for a different base yield of 10, 16, or 20 mana orbs.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12026,
-      "name" : "Wind Chime Seeds",
-      "description" : "Ethereal pitcher plants that emit a lovely chime as they shake gently in the breeze.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12027,
-      "name" : "Dragon Fruit Seeds",
-      "description" : "Large and covered in soft green thorns, these seeds radiate a warmth you can feel even through the bag.",
-      "location" : "Nel'Vari",
-      "rarity" : "Legendary",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12028,
-      "name" : "Walk Choy Seeds",
-      "description" : "Curious seeds that bounce about on their own accord, planting them is always a bit tricky. ",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12029,
-      "name" : "Shiiwalki Mushroom Seeds",
-      "description" : "Hard spore clusters of some kind of strange mushroom, they wiggle a bit as you hold them. ",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12030,
-      "name" : "Indiglow Seeds",
-      "description" : "A lily flower renowned both for its beauty and the beautiful glow it emits upon blossoming. ",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12031,
-      "name" : "Acorn Seeds",
-      "description" : "Rustic nuts that are enjoyed by Elves and squirrels alike.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12032,
-      "name" : "Cat Tail Seeds",
-      "description" : "A seed covered in soft fuzz that feel almost like fur.",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12033,
-      "name" : "Mana Gem Seeds",
-      "description" : "Tiny gems of crystalized mana, these \"seeds\" can only be grown by Nivara's best students.",
-      "location" : "Nel'Vari",
-      "rarity" : "Legendary",
-      "hasIcon" : true,
-      "tags" : [
-         "Seeds"
-      ]
-   },
-   {
-      "id" : 12034,
-      "name" : "Darkness Essence Seeds",
-      "description" : "Strange seeds, they'll drop essence of darkness once their flower blooms.",
+      "id" : 11148,
+      "name" : "Honeycomb Roof",
+      "description" : "Customizes your house's roof in a bee-autiful honeycomb style.",
       "location" : "SunHaven",
-      "rarity" : "Epic",
+      "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12035,
-      "name" : "Guava Berry Seeds",
-      "description" : "Guava is a popular tropical fruit in the Southern Isles, often turned into spicy jams.",
+      "id" : 11149,
+      "name" : "Honeycomb Walls",
+      "description" : "Customizes your house's walls in a bee-autiful honeycomb style.",
       "location" : "SunHaven",
-      "rarity" : "Rare",
+      "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
       ]
    },
    {
-      "id" : 12036,
-      "name" : "Pumpkin Seeds",
-      "description" : "An important crop for any fall celebration!",
+      "id" : 11150,
+      "name" : "Blue Tiled Door",
+      "description" : "Customizes your house's door in a blue tile style.",
       "location" : "SunHaven",
-      "rarity" : "Rare",
+      "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
-         "Seeds"
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11151,
+      "name" : "Blue Tiled Patio",
+      "description" : "Customizes your house's patio in a blue tile style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11152,
+      "name" : "Blue Tiled Roof",
+      "description" : "Customizes your house's roof in a blue tile style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11153,
+      "name" : "Blue Tiled Walls",
+      "description" : "Customizes your house's walls in a blue tile style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11154,
+      "name" : "Blue Tiled Windows",
+      "description" : "Customizes your house's windows in a blue tile style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11155,
+      "name" : "Cat Door",
+      "description" : "Customizes your house's door in a nya-rific cat style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11156,
+      "name" : "Cat Patio",
+      "description" : "Customizes your house's patio in a nya-rific cat style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11157,
+      "name" : "Cat Roof",
+      "description" : "Customizes your house's roof in a nya-rific cat style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11158,
+      "name" : "Cat Walls",
+      "description" : "Customizes your house's walls in a nya-rific cat style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11159,
+      "name" : "Cat Windows",
+      "description" : "Customizes your house's windows in a nya-rific cat style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11160,
+      "name" : "Cow Print Door",
+      "description" : "Customizes your house's door in a moo-rific cow style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11161,
+      "name" : "Cow Print Patio",
+      "description" : "Customizes your house's patio in a moo-tastic cow style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11162,
+      "name" : "Cow Print Roof",
+      "description" : "Customizes your house's roof in a moo-tastic cow style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11163,
+      "name" : "Cow Print Walls",
+      "description" : "Customizes your house's walls in a moo-tastic cow style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11164,
+      "name" : "Cow Print Windows",
+      "description" : "Customizes your house's windows in a moo-tastic cow style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11165,
+      "name" : "Gingerbread Door",
+      "description" : "Customizes your house's door in a crunchy gingerbread style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11166,
+      "name" : "Gingerbread Patio",
+      "description" : "Customizes your house's patio in a crunchy gingerbread style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11167,
+      "name" : "Gingerbread Roof",
+      "description" : "Customizes your house's roof in a crunchy gingerbread style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11168,
+      "name" : "Gingerbread Walls",
+      "description" : "Customizes your house's walls in a crunchy gingerbread style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11169,
+      "name" : "Gingerbread Windows",
+      "description" : "Customizes your house's windows in a crunchy gingerbread style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11170,
+      "name" : "Green Plank Door",
+      "description" : "Customizes your house's door in a green plank style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11171,
+      "name" : "Green Plank Patio",
+      "description" : "Customizes your house's patio in a green plank style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
       ]
    }
 ]

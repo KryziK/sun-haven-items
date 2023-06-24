@@ -1,5 +1,161 @@
 [
    {
+      "id" : 5314,
+      "name" : "Officer Uniform Shirt",
+      "description" : "You'll give quite the impressive figure in this snappy uniform.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5315,
+      "name" : "Avocado Shirt (White)",
+      "description" : "You were sadly not born as an avocado, but wearing this shirt is the next best thing!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5316,
+      "name" : "Moon Shirt (Purple)",
+      "description" : "Take the beauty of a full moon with you wherever you go. Warning: may cause howling in wolf Amari.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5317,
+      "name" : "Rocketship Shirt (Blue)",
+      "description" : "Blast off!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5318,
+      "name" : "Heart Shirt (Pink)",
+      "description" : "Why wear your heart on your sleeve when you could wear it on your whole shirt?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5319,
+      "name" : "Techy Shirt (Green)",
+      "description" : "The perfect shirt to tie together your genius look.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5320,
+      "name" : "Star Shirt (Blue)",
+      "description" : "Let everyone know who the star is with this out-this-world shirt.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5321,
+      "name" : "Sailor Shirt (Blue)",
+      "description" : "Set sail... for fashion!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5322,
+      "name" : "Letterman Jacket (Blue)",
+      "description" : "Wear this and show off your Sun Haven team spirit!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5323,
+      "name" : "School Shirt (Green)",
+      "description" : "All the style of a school uniform with none of the homework!",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5324,
+      "name" : "Anchor Shirt (Blue)",
+      "description" : "Anchors away to fashion!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5325,
+      "name" : "Skeleton Shirt",
+      "description" : "This will make you look like you lost a few pounds.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 5326,
+      "name" : "Striped Shirt 2 (Red)",
+      "description" : "Ohh, stripy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
       "id" : 5327,
       "name" : "Striped Shirt 1 (Green)",
       "description" : "Ohh, stripy.",
@@ -1107,6 +1263,18 @@
       "id" : 5422,
       "name" : "Curator Legs",
       "description" : "Durable enough for intense treasure hunting, yet posh enough for the finest of gentlemanly gatherings.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 5427,
+      "name" : "Summer Legs",
+      "description" : "Crafted by skilled water Elemental smiths at the bottom of the sea, this armor is imbued with the strength of countless fathoms.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -2448,6 +2616,18 @@
       ]
    },
    {
+      "id" : 5624,
+      "name" : "Summer Gloves",
+      "description" : "Crafted by skilled water Elemental smiths at the bottom of the sea, this armor is imbued with the strength of countless fathoms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Gloves"
+      ]
+   },
+   {
       "id" : 5700,
       "name" : "Black Gloves",
       "description" : "Fancy black gloves.",
@@ -3036,6 +3216,30 @@
       ]
    },
    {
+      "id" : 5832,
+      "name" : "Snaccoon Tail",
+      "description" : "Love to sleep and eat? Hate doing literally ANYTHING else? Then it's time to suit up.",
+      "location" : "Nel'Vari",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Back"
+      ]
+   },
+   {
+      "id" : 5833,
+      "name" : "Summer Cape",
+      "description" : "An enchanted cape, woven of blue threads to resemble the ceaseless movement of the waves.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Back"
+      ]
+   },
+   {
       "id" : 6000,
       "name" : "Ruby Amulet",
       "description" : "A beautifully carved ruby set on a golden chain, it increases vitality when worn.",
@@ -3122,7 +3326,7 @@
    {
       "id" : 6007,
       "name" : "Diamond Amulet",
-      "description" : "A piece of carved turquoise, hymns and mantras have been placed on it to impart protection and endurance.",
+      "description" : "A piece of carved diamond, hymns and mantras have been placed on it to impart protection and endurance.",
       "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
@@ -3756,6 +3960,42 @@
       ]
    },
    {
+      "id" : 6150,
+      "name" : "Wesley Wedding Ring",
+      "description" : "Let this union be one that takes Nel'Vari and Sun Haven forward... not to mention you and I. I love you.",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Ring"
+      ]
+   },
+   {
+      "id" : 6151,
+      "name" : "Kai Wedding Ring",
+      "description" : "Nothing could ever make me forget you, my dear. This ring will prove that. I love you.",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Ring"
+      ]
+   },
+   {
+      "id" : 6152,
+      "name" : "Vivi Wedding Ring",
+      "description" : "You better take our bond seriously, because I'M sure gonna! I love you.",
+      "location" : "SunHaven",
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Ring"
+      ]
+   },
+   {
       "id" : 6200,
       "name" : "Adventure Keepsake",
       "description" : "A token kept by those whose hearts are set on adventure, it fills you with strength.",
@@ -4001,6 +4241,42 @@
       "description" : "A token kept by those who value their time above all else, wielding this proves you're tired of all these homesick Lynns on this intro cutscene train.",
       "location" : "SunHaven",
       "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Keepsake"
+      ]
+   },
+   {
+      "id" : 6221,
+      "name" : "Wesley's Woven Necklace",
+      "description" : "\"Change is difficult, but maybe it's more necessary than I thought. Hmph.\"",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Keepsake"
+      ]
+   },
+   {
+      "id" : 6222,
+      "name" : "Kai's Golden Necklace",
+      "description" : "This amulet is nothing more than a trinket from a life I've thrown away. I'm going to build a new life, in Sun Haven.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Keepsake"
+      ]
+   },
+   {
+      "id" : 6223,
+      "name" : "Vivi's Bone Dagger",
+      "description" : "I'll give this to someone worthy! Could you Imagine if I gave it to some stinkin' farmer or something like that? No way!",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
          "Armor",
@@ -8757,6 +9033,786 @@
       ]
    },
    {
+      "id" : 7382,
+      "name" : "Floral Beach Dress",
+      "description" : "The breezy dresses worn by Southern Islanders became popular across the other regions for their comfortable fit and stylish looks.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7383,
+      "name" : "Seaside Dress",
+      "description" : "A style of dress worn by those living in many a seaside fishing village, all across the coasts of the Four Regions.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7384,
+      "name" : "Anemone Dress",
+      "description" : "Merfolk love wearing anemone dresses. They're stylish AND offer great protection from ocean predators!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7385,
+      "name" : "Octopus Dress",
+      "description" : "A merfolk dress, it flows with such natural beauty that one might even suspect it were alive...",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7386,
+      "name" : "Floral Shirt",
+      "description" : "A shirt best enjoyed while sipping tropical drinks to the tune of steel drums.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7387,
+      "name" : "Skipper Shirt",
+      "description" : "You're lookin' spiffer, skipper.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7388,
+      "name" : "Skipper Dress",
+      "description" : "If you're going to be stuck on a ship for months at a time, you may as well look cute doing it.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7389,
+      "name" : "Diver Top",
+      "description" : "It's not the fanciest suit you've ever worn, but who cares about style when you're walking on the ocean floor?!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7390,
+      "name" : "Snaccoon Shirt",
+      "description" : "Love to sleep and eat? Hate doing literally ANYTHING else? Then it's time to suit up.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7391,
+      "name" : "First Mate Dress",
+      "description" : "Every captain needs a good first mate, and every first mate needs a proper outfit. It's just the rules. The pirate rules.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7392,
+      "name" : "Matey Shirt",
+      "description" : "This isn't a cheap costume! It's an official uniform worn by professional and respectful pirates.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7393,
+      "name" : "Pirate Coat",
+      "description" : "A weathered jacket, exposed to the harshest elements of the seas. Very trendy, very chic.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7394,
+      "name" : "Shanty Top",
+      "description" : "Singing a proper shanty includes a lot of dancing. This poofy and airy shirt is perfect for making moves while belting out your song.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7395,
+      "name" : "Swashbuckler Top",
+      "description" : "Pirates are known for their acts of daring, which is why they need cool shirts like this.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7396,
+      "name" : "Captain Coat",
+      "description" : "Spun of fine silk brought in from far across the Eastward sea.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7397,
+      "name" : "Peasant Sailor Shirt",
+      "description" : "Even pirates fall on hard times. But don't worry, you're just one buried treasure away from being back in the game.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7398,
+      "name" : "Cabin Boy Shirt",
+      "description" : "Neat, sharp, proper and ready to get messy. The cabin boy's creed.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7400,
+      "name" : "Striped Dress",
+      "description" : "A snazzy dress, worn by members of the illustrious Mushroomneers of Nel'Vari, an elite group of mushroom tenders.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7401,
+      "name" : "Mushroom Dress Coat",
+      "description" : "Just because it's made out of a fungus doesn't mean it lacks in style.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7402,
+      "name" : "Froggy Dress",
+      "description" : "A dress you can practically hop right into.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7403,
+      "name" : "Mushroom Sweater",
+      "description" : "A tag on the collar reads 'Made with 100% real mushroom'.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7404,
+      "name" : "Striped Button Up Shirt",
+      "description" : "A snazzy shirt, worn by members of the illustrious Mushroomneers of Nel'Vari, an elite group of mushroom tenders.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7405,
+      "name" : "Mushroom Coat",
+      "description" : "It may be made of mushroom, but it's as comfortable and warm as any 'normal' coat.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7406,
+      "name" : "Mushroom Dress",
+      "description" : "How do you dress a mushroom?",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7407,
+      "name" : "Froggy Overall Top",
+      "description" : "Overall, I'd say these overalls are pretty froggy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7408,
+      "name" : "Long Green Striped Sweater",
+      "description" : "A sweater stitched in the style of the old Nel'Varians.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7409,
+      "name" : "Long Sleeve Crop Striped Sweater",
+      "description" : "A long sleeved sweater stitched in the style of the old Nel'Varians.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7410,
+      "name" : "Mushroom Vest",
+      "description" : "Is it a vest made OUT OF mushrooms, made FOR mushrooms or made BY mushrooms? The answer is: Yes.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7411,
+      "name" : "Mushroom Vest Dress",
+      "description" : "Is it a dress made OUT OF mushrooms, made FOR mushrooms or made BY mushrooms? The answer is: Yes.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7412,
+      "name" : "Sheer Green Crop Sweater",
+      "description" : "A cropped sweater, for all those hot Elven forest days.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7413,
+      "name" : "Sheer Green Sweater",
+      "description" : "Made from a moss-derived fabric known as \"Elven Green\".",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7414,
+      "name" : "Fashionably Oversized Shirt",
+      "description" : "A nice oversized shirt, perfect for enjoying second breakfast in.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 7500,
+      "name" : "Beach Shorts",
+      "description" : "Official legwear of beach bums.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7501,
+      "name" : "Skipper Pants",
+      "description" : "Snappy blue pants that are water and salt resistant - perfect for sailing over salt water seas!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7502,
+      "name" : "Diver Bottoms",
+      "description" : "If you insist on diving into the briny deeps, you'd better have the right pants for the job.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7503,
+      "name" : "Snaccoon Pants",
+      "description" : "Love to sleep and eat? Hate doing literally ANYTHING else? Then it's time to suit up.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7504,
+      "name" : "Matey Pants",
+      "description" : "They're actually quite wind resistant, which really helps when you're swinging onto an enemy vessel.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7505,
+      "name" : "Pirate Pants",
+      "description" : "Don't forget to check the pockets for any spare doubloons.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7506,
+      "name" : "Shanty Boots",
+      "description" : "They look tough, but they're actually quite comfortable. Plenty of toe-room!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7507,
+      "name" : "Swashbuckler Bottoms",
+      "description" : "Jet black pantaloons paired with leather boots. Iconic swashbuckler kit.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7508,
+      "name" : "Captain Shoes",
+      "description" : "Freshly polished and ready to stomp across the deck. Show your crew who's the boss!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7509,
+      "name" : "Peasant Sailor Pants",
+      "description" : "Threadbare pants worn by down-on-their-luck buccaneers.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7510,
+      "name" : "Cabin Boy Shorts",
+      "description" : "Keeps your legs nice and cool while you're scurrying back and forth across a pirate ship all day.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7511,
+      "name" : "Mushroom Baggy Pants",
+      "description" : "Pants made with extra extra large pockets, perfect for carrying lots of mushrooms.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7512,
+      "name" : "Brown Slacks",
+      "description" : "Snazzy slacks, worn by members of the illustrious Mushroomneers of Nel'Vari, an elite group of mushroom tenders.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7513,
+      "name" : "Mushroom Slacks",
+      "description" : "Comfortable and slightly squishy.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7514,
+      "name" : "Light Brown Slacks",
+      "description" : "Often worn by Nel'Varian foragers when out hunting for their favorite food: mushrooms!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7515,
+      "name" : "Froggy Overall Bottoms",
+      "description" : "Froggy bottom jeans.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7516,
+      "name" : "Brown Baggy Pants",
+      "description" : "Though other races may snub it as boring, a nice earthy brown is a classic color for any self-respecting Elf.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 7600,
+      "name" : "Ribbon Hat",
+      "description" : "Keep the sun off your head, and look darn cute doing it.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7601,
+      "name" : "Diver Helmet",
+      "description" : "Like a fishbowl for your head.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7602,
+      "name" : "Snaccoon Hat",
+      "description" : "Love to sleep and eat? Hate doing literally ANYTHING else? Then it's time to suit up.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7603,
+      "name" : "Red Matey Bandana",
+      "description" : "Not only will this bandana make you look just like a swashbuckler, but you'll never have to worry about a bad hairday again!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7604,
+      "name" : "Pirate Captain Hat",
+      "description" : "Everyone knows the pirate with the fanciest hat gets to be the captain.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7605,
+      "name" : "Shanty Hat",
+      "description" : "When you're stuck at sea for months at a time, it's the shanty singers who keep the mood up.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7606,
+      "name" : "Swashbuckler Headband",
+      "description" : "Keep your pesky hair out of your eyes while you swash and buckle and whatever else it is pirates do.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7607,
+      "name" : "Tall Captain Hat",
+      "description" : "The tallest captain is the best captain. It is known.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7608,
+      "name" : "Blue Matey Bandana",
+      "description" : "Not only will this bandana make you look just like a swashbuckler, but you'll never have to worry about a bad hairday again!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7609,
+      "name" : "First Mate Hat",
+      "description" : "First mate is an important position. It requires an important hat.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7610,
+      "name" : "Cabin Boy Hat",
+      "description" : "Cabin boys actually have a rather demanding job, but at least you get to wear this cool looking hat!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7611,
+      "name" : "Mush Hat",
+      "description" : "You won't have mush room for mush else on your head when you sport this fabulous hat.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7612,
+      "name" : "Mushroom Witch Hat",
+      "description" : "Witches are practitioners of the natural arts. The natural arts include mushrooms.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7613,
+      "name" : "Mushette Hat",
+      "description" : "A cute little mushroom hood, for those who want fungi style without the bulky mushroom caps.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
+      ]
+   },
+   {
+      "id" : 7650,
+      "name" : "Diver Gloves",
+      "description" : "Heavy duty mitts, capable handling all the bounties of the ocean - while keeping your fingers dry!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Gloves"
+      ]
+   },
+   {
+      "id" : 7651,
+      "name" : "Snaccoon Gloves",
+      "description" : "Love to sleep and eat? Hate doing literally ANYTHING else? Then it's time to suit up.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Gloves"
+      ]
+   },
+   {
       "id" : 7999,
       "name" : "Elios Tiki Mask",
       "description" : "A tropical take on Sun Haven's resident guardian dragon.",
@@ -10926,1051 +11982,6 @@
       "tags" : [
          "Armor",
          "Hat"
-      ]
-   },
-   {
-      "id" : 8190,
-      "name" : "Slime Hat (Orange)",
-      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8191,
-      "name" : "Slime Hat (Green)",
-      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8192,
-      "name" : "Slime Hat (Gray)",
-      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8193,
-      "name" : "Slime Hat (Brown)",
-      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8194,
-      "name" : "Slime Hat (Blue)",
-      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8195,
-      "name" : "Slime Hat (Black)",
-      "description" : "It's a glob of slime you put on your head. Which makes it technically a hat, right?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8197,
-      "name" : "Gold Chef Hat",
-      "description" : "Awarded only to the most accomplished foodsmiths... watch as lesser chefs tremble in the presence of your golden prowess!",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8198,
-      "name" : "Witch Hat (Brown)",
-      "description" : "Cast a spell (of fashion) on everyone around with this classic witch's hat.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8199,
-      "name" : "Witch Hat (Gray)",
-      "description" : "Cast a spell (of fashion) on everyone around with this classic witch's hat.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8200,
-      "name" : "Beanie (Black)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8201,
-      "name" : "Beanie (Blue)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8202,
-      "name" : "Beanie (Brown)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8203,
-      "name" : "Beanie (Gray)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8204,
-      "name" : "Beanie (Green)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8205,
-      "name" : "Beanie (Orange)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8206,
-      "name" : "Beanie (Pink)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8207,
-      "name" : "Beanie (Purple)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8208,
-      "name" : "Beanie (Red)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8209,
-      "name" : "Beanie (White)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8210,
-      "name" : "Beanie (Yellow)",
-      "description" : "A fluffy knitted hat, use it to keep your head warm or just wear it for looks. It's all up to you!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8211,
-      "name" : "Crown (Black)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal black crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8212,
-      "name" : "Crown (Blue)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal blue crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8213,
-      "name" : "Crown (Brown)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal brown crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8214,
-      "name" : "Crown (Gray)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal gray crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8215,
-      "name" : "Crown (Green)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal green crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8216,
-      "name" : "Crown (Orange)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal orange crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8217,
-      "name" : "Crown (Pink)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal pink crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8218,
-      "name" : "Crown (Purple)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal purple crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8219,
-      "name" : "Crown (Red)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal red crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8220,
-      "name" : "Crown (White)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal white crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 8221,
-      "name" : "Crown (Yellow)",
-      "description" : "Be the king or queen of all you gaze upon (or at least look like it) with this regal golden crown.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Hat"
-      ]
-   },
-   {
-      "id" : 9000,
-      "name" : "Bed",
-      "description" : "A comfy place to lay your head after a long day of work.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 9001,
-      "name" : "Nice Double Bed",
-      "description" : "An extra large bed to share with your beloved, or maybe to have all to yourself!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 9007,
-      "name" : "Bunny Couch",
-      "description" : "The cushions are extra-springy, like they're almost asking to be hopped on.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 9017,
-      "name" : "Bunny Table",
-      "description" : "A wooden table with little white bunnies painted onto it.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 9022,
-      "name" : "Bunny Lamp",
-      "description" : "Lighting doesn't get any cuter than this.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Candle"
-      ]
-   },
-   {
-      "id" : 9101,
-      "name" : "Nice Sofa",
-      "description" : "Because your rump deserves only the nicest things.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 9306,
-      "name" : "Nice Wooden Night Stand",
-      "description" : "This snappy night stand makes even the drabbest of beds look fit for a king.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 9307,
-      "name" : "Wooden Counter",
-      "description" : "But what does it count?",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 9350,
-      "name" : "Crafting Table (Old)",
-      "description" : "A sturdy work bench where you can craft all sorts of exciting things.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9351,
-      "name" : "Furnace (Old)",
-      "description" : "I can smelt ore into bars with this.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9352,
-      "name" : "Anvil (Old)",
-      "description" : "A heavy anvil, the essential tool for hammering metal bars into useful armor and tools.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9353,
-      "name" : "Loom (Old)",
-      "description" : "This spinning loom can turn silk and other materials into lots of different things.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9354,
-      "name" : "Furniture Table",
-      "description" : "A specialized carpentry bench, you can make furniture and decorations with this.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9355,
-      "name" : "Cooking Pot (Old)",
-      "description" : "A trusty cooking pot where you can cook ingredients and crops into yummy meals.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9356,
-      "name" : "Grinder",
-      "description" : "This stone grinder turns wheat and other materials into fine powders.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9357,
-      "name" : "Lynn Anvil",
-      "description" : "Lynn's personal anvil. It's seen a good amount of use.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9358,
-      "name" : "Geode Muncher",
-      "description" : "A machine that can crack stones, revealing any hidden treasures inside. ",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9359,
-      "name" : "Jam Maker",
-      "description" : "Everything you need to produce your own yummy jams, which grant bonus XP to your skills. Different flavors of jam grant bonus XP to different skills.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Crafting"
-      ]
-   },
-   {
-      "id" : 9360,
-      "name" : "Bee Box",
-      "description" : "A home for bees. The bees will travel to nearby flowers to collect pollen and create honey. If there are <b>12 of the same type of flowers</b> within <b>six tiles</b> of the bee box, the bees will create honey. The honey's flavor and effects are altered by the flowers the bees collect from.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "BeeHiveBox"
-      ]
-   },
-   {
-      "id" : 9400,
-      "name" : "Nice Wooden Lamp",
-      "description" : "A smartly carved wooden lamp.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Candle"
-      ]
-   },
-   {
-      "id" : 9600,
-      "name" : "Basic Wallpaper",
-      "description" : "A simple wallpaper to spruce up your home's walls.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9601,
-      "name" : "Flower Wallpaper",
-      "description" : "Surround yourself with the beauty of flowers by plastering your walls with them.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9602,
-      "name" : "Withergate Wallpaper",
-      "description" : "Take the spooky vibe of Withergate home with you, and then put it on your walls.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9603,
-      "name" : "Vintage Wallpaper",
-      "description" : "Based on the cottages of the Eastern Region, this wallpaper will give your home a very cozy feel.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9604,
-      "name" : "Earthy Grid Wallpaper",
-      "description" : "This wallpaper mimics the look of clay tiles on your walls.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9605,
-      "name" : "Pink Rosebud Wallpaper",
-      "description" : "Put this on your walls and you'll never go another day without a healthy dose of pink ever again.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9606,
-      "name" : "Purple Grid Wallpaper",
-      "description" : "Your eyes could get lost following the endless corners and turns of this gridded design.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9607,
-      "name" : "Purple Striped Wallpaper",
-      "description" : "It's not the most complicated wallpaper design, but it's so pleasant to look at.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9608,
-      "name" : "Parchment Wallpaper",
-      "description" : "Wallpaper that looks like aged parchment, how cool!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9609,
-      "name" : "Retro Striped Wallpaper",
-      "description" : "It's not the most complicated wallpaper design, but it's so pleasant to look at.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9610,
-      "name" : "Blue Diamond Wallpaper",
-      "description" : "The checkered design of this wallpaper is almost hypnotic to stare at.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9611,
-      "name" : "Bunny Wallpaper",
-      "description" : "A wallpaper that is certain to quell anyone's doubt in your obsession with the bunny lifestyle.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9612,
-      "name" : "Purple Vintage Wallpaper",
-      "description" : "Based on the cottages of the Eastern Region, this wallpaper will give your home a very cozy feel.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9613,
-      "name" : "Red Brick Wallpaper",
-      "description" : "This wallpaper will make your house look like it was made of bricks!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9614,
-      "name" : "Brown Brick Wallpaper",
-      "description" : "This wallpaper will make your house look like it was made of bricks!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9615,
-      "name" : "Nice Blue Wallpaper",
-      "description" : "High quality wallpaper, imported right from the Great City.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9616,
-      "name" : "Nice Green Wallpaper",
-      "description" : "High quality wallpaper, imported right from the Great City.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9617,
-      "name" : "Nice Ivory Wallpaper",
-      "description" : "High quality wallpaper, imported right from the Great City.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9618,
-      "name" : "Nice Light Blue Wallpaper",
-      "description" : "High quality wallpaper, imported right from the Great City.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9619,
-      "name" : "Blue Striped Wallpaper",
-      "description" : "It's not the most complicated wallpaper design, but it's so pleasant to look at.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9620,
-      "name" : "Withergate Royalty Wallpaper",
-      "description" : "A wallpaper with a pattern of equal parts power and beauty.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9621,
-      "name" : "Purple Gold Arch Wallpaper",
-      "description" : "A deep purple wallpaper crossed with gold arches, what a fun design.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9622,
-      "name" : "Gray Brick Wallpaper",
-      "description" : "This wallpaper will make your house look like it was made of bricks!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9623,
-      "name" : "Stained Glass Purple Wallpaper",
-      "description" : "Various minerals were mixed into the sand of this glass to produce this striking color.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9624,
-      "name" : "Navy Withergate Wallpaper",
-      "description" : "Take the spooky vibe of Withergate home with you, and then put it on your walls.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9625,
-      "name" : "Art Deco Purple Wallpaper",
-      "description" : "Sleek and industrial, a very classy wallpaper.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9626,
-      "name" : "Withergate Apartment Wallpaper",
-      "description" : "Just like the wallpaper they use in the Withergate apartments, now you can have it in your own home!",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9627,
-      "name" : "Nel'Vari Treehouse Wallpaper",
-      "description" : "Wallpaper that has been diligently hand-painted to resemble tree bark, it looks almost like the real thing.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 9628,
-      "name" : "Barn Wallpaper",
-      "description" : "",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture"
-      ]
-   },
-   {
-      "id" : 10002,
-      "name" : "Wooden Wardrobe",
-      "description" : "A handsome wardrobe made of deeply varnished wood.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 10003,
-      "name" : "Wooden Table",
-      "description" : "A basic wooden table, not much more than some planks and nails put together.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 10004,
-      "name" : "Candle",
-      "description" : "A simple wax candle, this will light up the darkness.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Candle"
-      ]
-   },
-   {
-      "id" : 10007,
-      "name" : "Bunny Side Table",
-      "description" : "The drawer handle is a little carrot, how cute!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 10008,
-      "name" : "Bunny Wardrobe",
-      "description" : "Ever seen a wardrobe with giant bunny ears? Well, now you have!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 10009,
-      "name" : "Shelf",
-      "description" : "A standard wooden shelf, great for displaying knick knacks on your walls.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Furniture",
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 10013,
-      "name" : "Baby Table",
-      "description" : "Aw, it's like a cute little baby table.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 10014,
-      "name" : "Withergate Lamp",
-      "description" : "This will make a great n-eye-ght light.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
       ]
    }
 ]

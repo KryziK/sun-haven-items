@@ -66,6 +66,17 @@
       ]
    },
    {
+      "id" : 249,
+      "name" : "Mushroom Froggy Mount Whistle",
+      "description" : "This whistle will call your hippity hoppity mushroom froggy to your side.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Mount"
+      ]
+   },
+   {
       "id" : 250,
       "name" : "Lion Mount Whistle",
       "description" : "This whistle will call your courageous lion companion to your side.",
@@ -454,7 +465,7 @@
       "id" : 285,
       "name" : "Bunnycorn Whistle",
       "description" : "This whistle will call your fantastical bunnycorn to your side.",
-      "location" : null,
+      "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
@@ -465,7 +476,7 @@
       "id" : 286,
       "name" : "Strawberry Frosting Whistle",
       "description" : "This whistle will call your enchantingly sweet cat to your side.",
-      "location" : null,
+      "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
@@ -476,7 +487,7 @@
       "id" : 287,
       "name" : "Iron Drake Whistle",
       "description" : "This whistle will call your metal-bound drake to your side.",
-      "location" : null,
+      "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
@@ -487,7 +498,7 @@
       "id" : 288,
       "name" : "Underworld Goat Whistle",
       "description" : "This whistle will call your fiendish demonic goat to your side.",
-      "location" : null,
+      "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
@@ -587,6 +598,39 @@
       "name" : "Grey Choo Choo Train Mount Whistle",
       "description" : "This whistle will call a chugging choo choo train to your side.",
       "location" : "Withergate",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Mount"
+      ]
+   },
+   {
+      "id" : 298,
+      "name" : "Parrot Mount Whistle",
+      "description" : "This whistle will call your squawkin' pirate parrot mount to your side.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Mount"
+      ]
+   },
+   {
+      "id" : 299,
+      "name" : "Crab Mount Whistle",
+      "description" : "This whistle will call your scuttling hermit crab mount to your side.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Mount"
+      ]
+   },
+   {
+      "id" : 300,
+      "name" : "Manatee Mount Whistle",
+      "description" : "This whistle will call your deepsea diving manatee to your side.",
+      "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
@@ -1565,6 +1609,39 @@
       "id" : 471,
       "name" : "Sweet Slime Potion",
       "description" : "A sweet looking pink potion, it seems a bit slime-like but is oddly no less appetizing.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Costume"
+      ]
+   },
+   {
+      "id" : 472,
+      "name" : "Assistant's Potion",
+      "description" : "A leaf-green potion. It looks a tad viscous, like it might be hard to swallow. Hmph!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Costume"
+      ]
+   },
+   {
+      "id" : 473,
+      "name" : "Saltwater Potion",
+      "description" : "A dark and murky potion, mixed with a ladleful of saltwater. Good luck ever forgetting what THIS potion tastes like!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Costume"
+      ]
+   },
+   {
+      "id" : 474,
+      "name" : "Assassin's Potion",
+      "description" : "A nutty aroma with an ever-so-slight hint of rusty dagger. It probably tastes as odd as it smells.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
@@ -3214,9 +3291,42 @@
       ]
    },
    {
+      "id" : 2230,
+      "name" : "Wesley Record",
+      "description" : "A record of Wesley's song, for you to play whenever you'd like.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Record"
+      ]
+   },
+   {
+      "id" : 2231,
+      "name" : "Kai Record",
+      "description" : "A record of Kai's song, for you to play whenever you'd like.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Record"
+      ]
+   },
+   {
+      "id" : 2232,
+      "name" : "Vivi Record",
+      "description" : "A record of Vivi's song, for you to play whenever you'd like.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Record"
+      ]
+   },
+   {
       "id" : 2300,
       "name" : "Classic Mailbox",
-      "description" : "A stadard issue mailbox from the Four Region Postal Service (FRPS).",
+      "description" : "A stadard issue mailbox from the Four Regions Postal Service (FRPS).",
       "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
@@ -9430,6 +9540,17 @@
       ]
    },
    {
+      "id" : 4576,
+      "name" : "Slime Fertilizer",
+      "description" : "Fertilizer that infuses crops with... slime.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Fertilizer"
+      ]
+   },
+   {
       "id" : 5000,
       "name" : "Copper Helmet",
       "description" : "A mind is a terrible thing to waste, so keep yours protected with this metal helmet.",
@@ -9619,6 +9740,18 @@
       "tags" : [
          "Armor",
          "Gloves"
+      ]
+   },
+   {
+      "id" : 5020,
+      "name" : "Summer Helmet",
+      "description" : "Crafted by skilled water Elemental smiths at the bottom of the sea, this armor is imbued with the strength of countless fathoms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Hat"
       ]
    },
    {
@@ -10966,6 +11099,18 @@
       ]
    },
    {
+      "id" : 5220,
+      "name" : "Summer Chest Plate",
+      "description" : "Crafted by skilled water Elemental smiths at the bottom of the sea, this armor is imbued with the strength of countless fathoms.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Chest"
+      ]
+   },
+   {
       "id" : 5300,
       "name" : "Sun Dress (Brown)",
       "description" : "A common dress worn by many who live in the Great City.",
@@ -11125,162 +11270,6 @@
       "id" : 5313,
       "name" : "Fish Shirt (Blue)",
       "description" : "There's something fishy about this shirt...",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5314,
-      "name" : "Officer Uniform Shirt",
-      "description" : "You'll give quite the impressive figure in this snappy uniform.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5315,
-      "name" : "Avocado Shirt (White)",
-      "description" : "You were sadly not born as an avocado, but wearing this shirt is the next best thing!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5316,
-      "name" : "Moon Shirt (Purple)",
-      "description" : "Take the beauty of a full moon with you wherever you go. Warning: may cause howling in wolf Amari.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5317,
-      "name" : "Rocketship Shirt (Blue)",
-      "description" : "Blast off!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5318,
-      "name" : "Heart Shirt (Pink)",
-      "description" : "Why wear your heart on your sleeve when you could wear it on your whole shirt?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5319,
-      "name" : "Techy Shirt (Green)",
-      "description" : "The perfect shirt to tie together your genius look.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5320,
-      "name" : "Star Shirt (Blue)",
-      "description" : "Let everyone know who the star is with this out-this-world shirt.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5321,
-      "name" : "Sailor Shirt (Blue)",
-      "description" : "Set sail... for fashion!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5322,
-      "name" : "Letterman Jacket (Blue)",
-      "description" : "Wear this and show off your Sun Haven team spirit!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5323,
-      "name" : "School Shirt (Green)",
-      "description" : "All the style of a school uniform with none of the homework!",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5324,
-      "name" : "Anchor Shirt (Blue)",
-      "description" : "Anchors away to fashion!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5325,
-      "name" : "Skeleton Shirt",
-      "description" : "This will make you look like you lost a few pounds.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Armor",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 5326,
-      "name" : "Striped Shirt 2 (Red)",
-      "description" : "Ohh, stripy.",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,

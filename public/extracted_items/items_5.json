@@ -1,0 +1,884 @@
+[
+   {
+      "id" : 50430,
+      "name" : "Flamingo Lamp",
+      "description" : "Flamingo aren't native to the Southern Isles, but the people there love them. Hence, silly lamps like this.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50431,
+      "name" : "Wall Mounted Surfboard",
+      "description" : "Gnarly wall decor, bro.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50432,
+      "name" : "Beach Chair",
+      "description" : "Feel the waves at your feet while you soak in the summer rays on this chair of woven tropical leaves.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 50433,
+      "name" : "Beach Cooler",
+      "description" : "Keep the drinks cold on the hottest of sands.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50434,
+      "name" : "Beach Table",
+      "description" : "The bamboo feet of this table are extra light, so it doesn't sink into the sand!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 50435,
+      "name" : "Beach Chair Bed",
+      "description" : "Woven in the traditional style of the Southern Isle Humans, every night can feel like a cozy tropical evening.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 50436,
+      "name" : "Beach Hammock",
+      "description" : "Elven in origin, the hammock was quickly adopted by many races across the Four Regions.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50437,
+      "name" : "Beach Wardrobe",
+      "description" : "I hope you don't mind a little sand in your clothes!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 50438,
+      "name" : "Beach Rug",
+      "description" : "The fabric of this rug is loosely woven, so it doesn't trap sand. Genius!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 50439,
+      "name" : "Flamingo Rug",
+      "description" : "Flamingos turn pink when they eat pigmented shrimp. This rug turned pink when some guy dyed it.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 50440,
+      "name" : "Surfboard Display",
+      "description" : "Freshly waxed and ready to grind a gnarly wave. Or just look cute in your house, maybe.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50441,
+      "name" : "Slime Bed",
+      "description" : "A nice, comfy bed... covered in about three inches of slime.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 50442,
+      "name" : "Drum Set",
+      "description" : "A complete rock band drumkit, ready and waiting to annoy your neighbors on long jam sessions.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50443,
+      "name" : "Amp",
+      "description" : "Eleven? This baby goes up to TWELVE.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50444,
+      "name" : "Rockin' Poster",
+      "description" : "The band scene of the Great City is pushing boundaries and making waves, all the way across the Four Regions.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50445,
+      "name" : "Jammin' Poster",
+      "description" : "Hey, this isn't a poster about jam at all.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50446,
+      "name" : "Blue Electric Guitar",
+      "description" : "A brand new guitar that utilizes the power of electricity to ROCK.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50447,
+      "name" : "Purple Electric Guitar",
+      "description" : "A brand new guitar that utilizes the power of electricity to ROCK.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50448,
+      "name" : "Red Electric Guitar",
+      "description" : "A brand new guitar that utilizes the power of electricity to ROCK.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50449,
+      "name" : "Acoustic Guitar",
+      "description" : "A style of guitar popular in the Western Region, it is the first real instrument many young musicians learn to play.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50450,
+      "name" : "Halloween Fence",
+      "description" : "A metal fence wrought in the style of halloween, ideal for the spookiest of farms.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50451,
+      "name" : "Witch Couch",
+      "description" : "Wide enough to seat a whole coven! Or at least half a coven.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 50452,
+      "name" : "Witch Rug",
+      "description" : "Wipe your paws.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Rug"
+      ]
+   },
+   {
+      "id" : 50453,
+      "name" : "Witch End Table",
+      "description" : "Crafted from the twisted branches of a bloodlock tree, enchanted with dark rituals and tastefully stained with a walnut finish.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 50454,
+      "name" : "Witch Bed",
+      "description" : "The mattress is probably stuffed with bat wings or spider legs or something creepy like that. Oh wait, nevermind, it's just wool.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Bed"
+      ]
+   },
+   {
+      "id" : 50455,
+      "name" : "Witch Chair",
+      "description" : "Plot your next witchy plot from this dramatic seat.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Rotatable"
+      ]
+   },
+   {
+      "id" : 50456,
+      "name" : "Witch Table",
+      "description" : "Impress the coven at your next dinner party with this web-tacular dining table.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Table"
+      ]
+   },
+   {
+      "id" : 50457,
+      "name" : "Witch Wardrobe",
+      "description" : "Full of brooms and pointy hats.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Chest"
+      ]
+   },
+   {
+      "id" : 50458,
+      "name" : "Witch Lamp",
+      "description" : "A beacon to light the darkest of forest groves, or your cozy bedroom.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50459,
+      "name" : "Voodoo Doll",
+      "description" : "Gives the term 'playing with dolls' a much more sinister meaning!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50460,
+      "name" : "Stone Mortar and Pestle",
+      "description" : "Great for crushing ingredients up for helpful healing drinks... or maybe the occasional evil potion...",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50461,
+      "name" : "Small Vial",
+      "description" : "It's not the size of the vial, but the motion of the potion.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50462,
+      "name" : "Poisoned Apples",
+      "description" : "These poisonous apples grow native in the dark forests of Withergate. Monsterfolk prefer to add a bit more poison, though - just to make them extra spicy.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50463,
+      "name" : "Empty Jar",
+      "description" : "An empty jar, just waiting to be filled with all sorts of creepy ingredients.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 50464,
+      "name" : "Potion Jar",
+      "description" : "It's just a decorative potion, not meant for drinking!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 51182,
+      "name" : "Fiddle-Leaf Fern",
+      "description" : "A common plant that grows all over the place, adventurers swear to the tastiness of this fern when roasted over an open fire.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60000,
+      "name" : "Coins",
+      "description" : "Known for making the world go 'round.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60001,
+      "name" : "Mana Orbs",
+      "description" : "An orb of pure energy, a valuable resource.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60002,
+      "name" : "Tickets",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60003,
+      "name" : "Combat EXP",
+      "description" : "Experience in the Combat skill.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60004,
+      "name" : "Farming EXP",
+      "description" : "Experience in the Farming skill.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60005,
+      "name" : "Exploration EXP",
+      "description" : "Experience in the Exploration skill.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60006,
+      "name" : "Mining EXP",
+      "description" : "Experience in the Mining skill.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60007,
+      "name" : "Bonus Mana",
+      "description" : "A permanent increase to maximum mana, allowing you to cast more spells before running out!",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60008,
+      "name" : "Fishing EXP",
+      "description" : "Experience in the Fishing  skill.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60009,
+      "name" : "Bonus Health",
+      "description" : "A permanent increase to maximum health, you'll be sturdier and take more damage before fainting!",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60010,
+      "name" : "Bonus Attack Damage",
+      "description" : "A permanent increase to attack damage.",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60011,
+      "name" : "Bonus Spell Damage",
+      "description" : "A permanent increase to spell damage.",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60012,
+      "name" : "Bonus Movement Speed",
+      "description" : "A permanent increase to movement speed.",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60100,
+      "name" : "Quest Bounty",
+      "description" : "Income earned by completing quests.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60101,
+      "name" : "Side Hustles",
+      "description" : "Income earned passively through skills or obtained as drops.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60200,
+      "name" : "Common Fish",
+      "description" : "Any common fish",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60201,
+      "name" : "Uncommon Fish",
+      "description" : "Any uncommon fish",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60202,
+      "name" : "Rare Fish",
+      "description" : "Any rare fish",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60203,
+      "name" : "Epic Fish",
+      "description" : "Any epic fish",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60204,
+      "name" : "Legendary Fish",
+      "description" : "Any legendary fish",
+      "location" : null,
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60220,
+      "name" : "Scrap Metal",
+      "description" : "You've never seen metal like this before. It looks like it could be recycled into new recipes.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60221,
+      "name" : "Empty Soda Can",
+      "description" : "The necessary vessel for soda storage.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60229,
+      "name" : "Water Rune",
+      "description" : "A magical sealing rune, containing the element of water.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Forageable"
+      ]
+   },
+   {
+      "id" : 60230,
+      "name" : "Fabled Silk",
+      "description" : "Silk so fine it was fabled to not truly exist... well, here it is!",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60234,
+      "name" : "Mana Drop",
+      "description" : "A droplet of crystalized mana. It pulses and thrums, giving off a gentle glow.",
+      "location" : "Nel'Vari",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60235,
+      "name" : "Spooky Silk",
+      "description" : "As silky as it is spooky, or perhaps as spooky as it is silky.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60236,
+      "name" : "Fabled Fabric",
+      "description" : "Fabric so perfectly woven that it exists only in the hushed fables passed around Nel'Varian sewing circles.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60237,
+      "name" : "Nel'vari Quilt",
+      "description" : "Scores of Elven grannies have made this very same quilt for generations.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60238,
+      "name" : "Uber Socks",
+      "description" : "Great and flamboozling things can come from a pair of uber socks.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60239,
+      "name" : "Mana Infused Scarf",
+      "description" : "Just because you CAN mana infuse something doesn't mean you SHOULD.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60240,
+      "name" : "Cozy Blanket",
+      "description" : "This blanket naturally heats itself!",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60241,
+      "name" : "Nivara Blanket",
+      "description" : "A blanket bearing the image of Nivara, World Dragon.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60242,
+      "name" : "Spooky Fabric",
+      "description" : "Can fabric really be spooky? The answer is yes.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60243,
+      "name" : "Mended Socks",
+      "description" : "Someone's claw poked a hole in this sock, but it's all better now.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60244,
+      "name" : "Health Woven Scarf",
+      "description" : "A scarf woven with one's own vitality. Metal!",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60245,
+      "name" : "Wooly Blanket",
+      "description" : "A slightly itchy blanket that naturally heats itself!",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60246,
+      "name" : "Dynus Blanket",
+      "description" : "A blanket bearing the image of Dynus, Moon Dragon.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60247,
+      "name" : "Withergate Quilt",
+      "description" : "Keeps a monsterfolk nice and warm on chilly haunted nights.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60248,
+      "name" : "Pixie Dust",
+      "description" : "",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60250,
+      "name" : "Earth Rune",
+      "description" : "A magical sealing rune, containing the element of earth.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Placeable",
+         "Forageable"
+      ]
+   },
+   {
+      "id" : 60251,
+      "name" : "Slime Ink",
+      "description" : "Sticky slime that leaves behind a dark stain on whatever it touches.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   },
+   {
+      "id" : 60252,
+      "name" : "Very Small Glorite Crystal",
+      "description" : "A tiny sliver of glorite. It's small, yet it still pulses with energy.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Food"
+      ]
+   },
+   {
+      "id" : 62222,
+      "name" : "Butterfly Statue A",
+      "description" : "A bush, expertly trimmed into the shape of a beautiful butterfly.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Decoration"
+      ]
+   }
+]
