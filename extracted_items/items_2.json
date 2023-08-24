@@ -1145,7 +1145,7 @@
       "name" : "Barn",
       "description" : "Your farm animals will stay nice and cozy in this sturdy wooden barn.",
       "location" : "SunHaven",
-      "rarity" : "Epic",
+      "rarity" : "Rare",
       "hasIcon" : true,
       "tags" : [
          "Placeable",
