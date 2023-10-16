@@ -2067,6 +2067,366 @@
       ]
    },
    {
+      "id" : 11470,
+      "name" : "Steel Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11471,
+      "name" : "Steel Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11472,
+      "name" : "Steel Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11473,
+      "name" : "Steel Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11474,
+      "name" : "Steel Windows",
+      "description" : "Customizes your house's windows in a yellow brick style.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11475,
+      "name" : "Cottage Core Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11476,
+      "name" : "Cottage Core Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11477,
+      "name" : "Cottage Core Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11478,
+      "name" : "Cottage Core Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11479,
+      "name" : "Cottage Core Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11480,
+      "name" : "Charming Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11481,
+      "name" : "Charming Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11482,
+      "name" : "Charming Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11483,
+      "name" : "Charming Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11484,
+      "name" : "Charming Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11485,
+      "name" : "Brown Cobblestone Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11486,
+      "name" : "Brown Cobblestone Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11487,
+      "name" : "Brown Cobblestone Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11488,
+      "name" : "Brown Cobblestone Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11489,
+      "name" : "Brown Cobblestone Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11490,
+      "name" : "Castle Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11491,
+      "name" : "Castle Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11492,
+      "name" : "Castle Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11493,
+      "name" : "Castle Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11494,
+      "name" : "Castle Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11495,
+      "name" : "Stucco Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11496,
+      "name" : "Stucco Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11497,
+      "name" : "Stucco Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11498,
+      "name" : "Stucco Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11499,
+      "name" : "Stucco Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
       "id" : 11500,
       "name" : "Drinking Chocolate",
       "description" : "Known less formally as hot chocolate, this brew is the essential drink for the chilly winter season.",
@@ -3340,6 +3700,1626 @@
       "hasIcon" : true,
       "tags" : [
          "Shed"
+      ]
+   },
+   {
+      "id" : 11700,
+      "name" : "Classic Brick Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11701,
+      "name" : "Classic Brick Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11702,
+      "name" : "Classic Brick Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11703,
+      "name" : "Classic Brick Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11704,
+      "name" : "Classic Brick Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11705,
+      "name" : "Brown Stone Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11706,
+      "name" : "Brown Stone Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11707,
+      "name" : "Brown Stone Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11708,
+      "name" : "Brown Stone Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11709,
+      "name" : "Brown Stone Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11710,
+      "name" : "Cardboard Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11711,
+      "name" : "Cardboard Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11712,
+      "name" : "Cardboard Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11713,
+      "name" : "Cardboard Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11714,
+      "name" : "Cardboard Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11715,
+      "name" : "Oriental Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11716,
+      "name" : "Oriental Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11717,
+      "name" : "Oriental Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11718,
+      "name" : "Oriental Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11719,
+      "name" : "Oriental Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11720,
+      "name" : "Bamboo Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11721,
+      "name" : "Bamboo Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11722,
+      "name" : "Bamboo Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11723,
+      "name" : "Bamboo Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11724,
+      "name" : "Bamboo Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11725,
+      "name" : "Neon Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11726,
+      "name" : "Neon Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11727,
+      "name" : "Neon Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11728,
+      "name" : "Neon Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11729,
+      "name" : "Neon Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11730,
+      "name" : "Log Cabin Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11731,
+      "name" : "Log Cabin Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11732,
+      "name" : "Log Cabin Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11733,
+      "name" : "Log Cabin Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11734,
+      "name" : "Log Cabin Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11735,
+      "name" : "Blue Striped Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11736,
+      "name" : "Blue Striped Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11737,
+      "name" : "Blue Striped Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11738,
+      "name" : "Blue Striped Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11739,
+      "name" : "Blue Striped Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11740,
+      "name" : "Green Striped Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11741,
+      "name" : "Green Striped Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11742,
+      "name" : "Green Striped Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11743,
+      "name" : "Green Striped Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11744,
+      "name" : "Green Striped Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11745,
+      "name" : "Purple Striped Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11746,
+      "name" : "Purple Striped Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11747,
+      "name" : "Purple Striped Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11748,
+      "name" : "Purple Striped Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11749,
+      "name" : "Purple Striped Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11750,
+      "name" : "Red Striped Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11751,
+      "name" : "Red Striped Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11752,
+      "name" : "Red Striped Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11753,
+      "name" : "Red Striped Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11754,
+      "name" : "Red Striped Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11755,
+      "name" : "Yellow Striped Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11756,
+      "name" : "Yellow Striped Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11757,
+      "name" : "Yellow Striped Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11758,
+      "name" : "Yellow Striped Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11759,
+      "name" : "Yellow Striped Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11760,
+      "name" : "Simple Blue Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11761,
+      "name" : "Simple Blue Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11762,
+      "name" : "Simple Blue Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11763,
+      "name" : "Simple Blue Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11764,
+      "name" : "Simple Blue Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11765,
+      "name" : "Simple Green Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11766,
+      "name" : "Simple Green Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11767,
+      "name" : "Simple Green Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11768,
+      "name" : "Simple Green Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11769,
+      "name" : "Simple Green Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11770,
+      "name" : "Simple Purple Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11771,
+      "name" : "Simple Purple Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11772,
+      "name" : "Simple Purple Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11773,
+      "name" : "Simple Purple Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11774,
+      "name" : "Simple Purple Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11775,
+      "name" : "Simple Red Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11776,
+      "name" : "Simple Red Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11777,
+      "name" : "Simple Red Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11778,
+      "name" : "Simple Red Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11779,
+      "name" : "Simple Red Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11780,
+      "name" : "Simple Yellow Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11781,
+      "name" : "Simple Yellow Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11782,
+      "name" : "Simple Yellow Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11783,
+      "name" : "Simple Yellow Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11784,
+      "name" : "Simple Yellow Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11785,
+      "name" : "Blue Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11786,
+      "name" : "Blue Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11787,
+      "name" : "Blue Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11788,
+      "name" : "Blue Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11789,
+      "name" : "Blue Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11790,
+      "name" : "Green Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11791,
+      "name" : "Green Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11792,
+      "name" : "Green Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11793,
+      "name" : "Green Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11794,
+      "name" : "Green Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11795,
+      "name" : "Purple Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11796,
+      "name" : "Purple Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11797,
+      "name" : "Purple Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11798,
+      "name" : "Purple Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11799,
+      "name" : "Purple Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11800,
+      "name" : "Red Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11801,
+      "name" : "Red Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11802,
+      "name" : "Red Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11803,
+      "name" : "Red Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11804,
+      "name" : "Red Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11805,
+      "name" : "Yellow Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11806,
+      "name" : "Yellow Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11807,
+      "name" : "Yellow Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11808,
+      "name" : "Yellow Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11809,
+      "name" : "Yellow Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11810,
+      "name" : "Mini Blue Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11811,
+      "name" : "Mini Blue Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11812,
+      "name" : "Mini Blue Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11813,
+      "name" : "Mini Blue Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11814,
+      "name" : "Mini Blue Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11815,
+      "name" : "Mini Green Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11816,
+      "name" : "Mini Green Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11817,
+      "name" : "Mini Green Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11818,
+      "name" : "Mini Green Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11819,
+      "name" : "Mini Green Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11820,
+      "name" : "Mini Purple Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11821,
+      "name" : "Mini Purple Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11822,
+      "name" : "Mini Purple Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11823,
+      "name" : "Mini Purple Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11824,
+      "name" : "Mini Purple Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11825,
+      "name" : "Mini Red Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11826,
+      "name" : "Mini Red Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11827,
+      "name" : "Mini Red Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11828,
+      "name" : "Mini Red Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11829,
+      "name" : "Mini Red Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11830,
+      "name" : "Mini Yellow Polka Dot Door",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11831,
+      "name" : "Mini Yellow Polka Dot Patio",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11832,
+      "name" : "Mini Yellow Polka Dot Roof",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11833,
+      "name" : "Mini Yellow Polka Dot Walls",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
+      ]
+   },
+   {
+      "id" : 11834,
+      "name" : "Mini Yellow Polka Dot Windows",
+      "description" : "",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Furniture",
+         "House"
       ]
    },
    {
@@ -9233,7 +11213,7 @@
       "id" : 18016,
       "name" : "Candy Corn Pieces",
       "description" : "Used as a currency by monsterfolk, accepted at the shops in the Withergate subway. Do you think they grow it on candy farms?",
-      "location" : "SunHaven",
+      "location" : "Withergate",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
@@ -9374,6 +11354,17 @@
       ]
    },
    {
+      "id" : 18029,
+      "name" : "Snaccoon Costume Chest",
+      "description" : "A chest containing all the loot from the Snaccoon Costume DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
       "id" : 18030,
       "name" : "Sewer Barn Access Key",
       "description" : "It's a Key for an empty construction inside the Withergate sewer system.",
@@ -9407,1929 +11398,80 @@
       ]
    },
    {
-      "id" : 18100,
-      "name" : "Farming Skill Tome",
-      "description" : "A mystical tome imbued with the very essence of farming. Reading its pages will impart increased farming prowess and experience.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18101,
-      "name" : "Exploration Skill Tome",
-      "description" : "A mystical tome imbued with the very essence of exploration. Reading its pages will impart increased exploration prowess and experience.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18102,
-      "name" : "Mining Skill Tome",
-      "description" : "A mystical tome imbued with the very essence of mining. Reading its pages will impart increased mining prowess and experience.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18103,
-      "name" : "Combat Skill Tome",
-      "description" : "A mystical tome imbued with the very essence of combat. Reading its pages will impart increased combat prowess and experience.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18104,
-      "name" : "Fishing Skill Tome",
-      "description" : "A mystical tome imbued with the very essence of fishing. Reading its pages will impart increased fishing prowess and experience.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18105,
-      "name" : "Elixir of Farming",
-      "description" : "An elixir brewed with the essence of cultivation and growth. It expands one's understanding of Farming when consumed.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18106,
-      "name" : "Elixir of Exploration",
-      "description" : "An elixir brewed with the essence of the untamed wilderness. It expands one's understanding of Exploration when consumed.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18107,
-      "name" : "Elixir of Mining",
-      "description" : "An elixir brewed with the essence of the deep earth. It expands one's understanding of Mining when consumed.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18108,
-      "name" : "Elixir of Combat",
-      "description" : "An elixir brewed with the essence of battle and victory. It expands one's understanding of Combat when consumed.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 18109,
-      "name" : "Elixir of Fishing",
-      "description" : "An elixir brewed with the essence of patience and fish bait. It expands one's understanding of Fishing when consumed.",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "SkillPotion"
-      ]
-   },
-   {
-      "id" : 19000,
-      "name" : "Farmer's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19001,
-      "name" : "Orchard Farmer's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19002,
-      "name" : "Rancher's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19003,
-      "name" : "Explorer's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19004,
-      "name" : "Spellcaster's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19005,
-      "name" : "Duelist's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19006,
-      "name" : "Blacksmith's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19007,
-      "name" : "Angler's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19008,
-      "name" : "Royalty's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 19009,
-      "name" : "Baker's Box",
-      "description" : "",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 20000,
-      "name" : "Leafie's Leaf",
-      "description" : "It looks innocent, but its edges are dangerously sharp.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20001,
-      "name" : "Squashed Banana",
-      "description" : "Not the worst thing to have thrown at you, at least.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20002,
-      "name" : "Bushie's Branch",
-      "description" : "The remnants of a fallen foe.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : false,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20003,
-      "name" : "Bug Shell",
-      "description" : "It's just a shell, but it's harder than iron.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20004,
-      "name" : "Prickletot Pear",
-      "description" : "A sour pear covered in pointy thorns, no good for eating.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20005,
-      "name" : "Lightning in a Bottle",
-      "description" : "This was much easier to catch than you've been led to believe.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20006,
-      "name" : "Antler",
-      "description" : "If you look closely, you can see this antler is actually covered in very tiny scales.",
-      "location" : "Nel'Vari",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20007,
-      "name" : "Torn Page",
-      "description" : "The remains of an ancient book, unreadable runes are scrawled across the pages.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20008,
-      "name" : "Spectre Slime",
-      "description" : "Gooey slime left behind from a spectre that has been laid (back) to rest.",
-      "location" : "Withergate",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20009,
-      "name" : "Fur Tuft",
-      "description" : "A tuft of dirty fur, it's covered in mineshaft dust.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20010,
-      "name" : "Dragonfly",
-      "description" : "Doesn't look like any dragon you've ever seen!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20011,
-      "name" : "Drill Bit",
-      "description" : "An impressive appendage, perfectly adapted to life underground.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20012,
-      "name" : "Green Pepper Flakes",
-      "description" : "Dried peppers, crushed into flakes. The drying process made these peppers extra spicy!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20013,
-      "name" : "Haunted Log",
-      "description" : "A log, haunted by the restless soul of a vengeful stump.",
-      "location" : "Withergate",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20014,
-      "name" : "Hot Sauce",
-      "description" : "A Scorpepper's sting is searingly hot, owed all to heat of their saucey venom. Silver lining? It's the ultimate meal enhancer.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20015,
-      "name" : "Ice Cube",
-      "description" : "A terribly cold cube of ice, it doesn't melt even on the hottest day.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20016,
-      "name" : "Orange Pepper Flakes",
-      "description" : "Dried peppers, crushed into flakes. The drying process made these peppers extra spicy!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20017,
-      "name" : "Soot",
-      "description" : "Smoldering ash, it's still rather hot to the touch.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20018,
-      "name" : "Sticky Sap",
-      "description" : "Some people use this ultra-sticky sap as a glue, owing to the fact it sticks almost anything together fairly permanently.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20019,
-      "name" : "Snow Ball",
-      "description" : "Packed so extremely tight that it feels more like a rock than snow.",
-      "location" : "SunHaven",
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20020,
-      "name" : "Lava Honey",
-      "description" : "Sweet like delicious honey... and hot like molten lava...",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20021,
-      "name" : "Pricklepop Pear",
-      "description" : "A sour pear covered in pointy thorns, no good for eating.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20022,
-      "name" : "Dandelion",
-      "description" : "Grown by the monster Weedil. Despite its appearance this 'flower' is, in fact, a weed.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20023,
-      "name" : "Lynn's Pickaxe",
-      "description" : "Lynn's trusty pickaxe. Looks like Solon has taken good care of it.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 20024,
-      "name" : "Fly",
-      "description" : "Flies are pretty gross, but it's said that frogs will gift them to those who are worthy. Worthy of what, though?",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20025,
-      "name" : "Sludge",
-      "description" : "A handful of gross sewer muck, it seems some lingering magical force had inadvertently enchanted it into a rampaging monster.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20026,
-      "name" : "Cardboard Box Piece",
-      "description" : "A piece of cardboard. With enough of these, maybe you could create something incredible?",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20027,
-      "name" : "Bent Traffic Cone",
-      "description" : "A discarded traffic cone from the streets above, looks like a crab was using it as a makeshift wizard's hat.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20028,
-      "name" : "Tough Tin Can",
-      "description" : "Monster trash from the streets above, it seems as if the citizens of Withergate aren't ones for recycling.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20029,
-      "name" : "Tough Trash Bag",
-      "description" : "An empty trash bag from the streets above, it's extra tough and not a bad home for a crab.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20030,
-      "name" : "Sand",
-      "description" : "Normal castles are built of stone and wood, but legendary castles are built from sand.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20031,
-      "name" : "Croc Scale",
-      "description" : "Long ago the untamed swamps of Withergate were home to vicious crocodiles. Though the Demons have since made their city on the land, the crocs have adapted to sewer life fairly well.",
-      "location" : "Withergate",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20032,
-      "name" : "Slime Goop",
-      "description" : "This goop is icky and sticky, gross!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20100,
-      "name" : "Ancient Sun Haven Sword",
-      "description" : "A chipped sword, bearing the colors of Elios. It's quite old, and seems to be ceremonial rather than for combat use.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20101,
-      "name" : "Ancient Nel'Varian Sword",
-      "description" : "A metal blade, clearly Nel'Varian in origin. It's very old, and it looks like it's seen use in combat...\r\n\rIt would look good in a museum!",
-      "location" : "Nel'Vari",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20102,
-      "name" : "Ancient Withergate Sword",
-      "description" : "A wicked Demon blade, left to rust and degrade in the dirt. It seems old, and has clearly seen much use in war.\r\n\rIt would look good in a museum!",
-      "location" : "Withergate",
-      "rarity" : "Epic",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20103,
-      "name" : "Leafie Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20104,
-      "name" : "Elite Leafie Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20105,
-      "name" : "Centipillar Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20106,
-      "name" : "Peppinch - Green Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20107,
-      "name" : "Scorpepper Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20108,
-      "name" : "Elite Scorpepper Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20109,
-      "name" : "Hat Crab Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20110,
-      "name" : "Floaty Crab Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20111,
-      "name" : "Bucket Crab Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20112,
-      "name" : "Umbrella Crab Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20113,
-      "name" : "Chimchuck Trinket",
-      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20150,
-      "name" : "Handmade Bobber",
-      "description" : " A well used fishing bobber, hand crafted in the ancient style of the Southern Isles fishermen.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20151,
-      "name" : "Ancient Magic Staff",
-      "description" : "Lost for unknown ages, this staff still radiates the faintest signature of magic energy.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20152,
-      "name" : "Bronze Dragon Relic",
-      "description" : "It's a bronze dragon, countless years have worn away its features but you'd wager it looks a bit like Elios...\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20153,
-      "name" : "Old Sword Hilt",
-      "description" : "An old sword hilt, the crossguard bears an unknown crest.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20154,
-      "name" : "Nel'Varian Runestone",
-      "description" : "A stone carved with delicate Nel'Varian runes. It repels your touch ever so slightly.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20155,
-      "name" : "Ancient Elven Headdress",
-      "description" : "Despite its age, the headdress has preserved nicely. Maybe it was meant for some sort of old Elven celebration?\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20156,
-      "name" : "Old Mayoral Painting",
-      "description" : "It's a portrait of an old well dressed gentleman. On the breast of his coat is the Sun Haven emblem... was this a past town leader?\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20157,
-      "name" : "Tentacle Monster Emblem",
-      "description" : "This emblem is carved of a strange stone, depicting a bizarre alien beast. The words 'Cw'thlza, xx'frer'tiz O'aj'loza!' are carved into the emblem's backside.\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20158,
-      "name" : "Ancient Angel Quill",
-      "description" : "A writing quill, it appears to be of Angelic origin. It has to be eons old, yet the ink on its tip is still wet.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20159,
-      "name" : "Ancient Naga Crook",
-      "description" : "A serpentine shepherd crook. If you had to hazard a guess, you would say it looks Naga in origin.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20160,
-      "name" : "Ancient Amari Totem",
-      "description" : "An old totem seemingly dedicated to the ferocity of nature. Could it be Amari in origin?\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20200,
-      "name" : "Petrified Log",
-      "description" : "A log of strange, stoney wood. Scholars would love to study this.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20201,
-      "name" : "Phoenix Feather",
-      "description" : "A wispy feather of a mystical pheonix, sometimes known as 'dragon birds'.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20202,
-      "name" : "Fairy Wings",
-      "description" : "Fairies are thought to be related to the Elves. Beings of pure mana, their wings are left behind whenever they disperse into energy.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20203,
-      "name" : "Griffon Egg",
-      "description" : "A fossilized griffon egg. This proves that griffons have lived in this area for a very long time.\nIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20204,
-      "name" : "Mana Sap",
-      "description" : "Tree sap, dense with mana energy. Very much worth studying.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20205,
-      "name" : "Pumice Stone",
-      "description" : "Pumice is left behind by volcanic activity. Where in these lands are there volcanos?!\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20206,
-      "name" : "Mysterious Antler",
-      "description" : "A strange antler. It looks quite old, and it doesn't look like it came from any sort of deer or hornsnake.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20207,
-      "name" : "Dragon Fang",
-      "description" : "The fang of an immature dragon, likely intentionally shed from the mouth to make way for big boy dragon teeth.\r\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20208,
-      "name" : "Monster Candy",
-      "description" : "A piece of Monsterfolk candy, some scholars believe the Monsterfolk race trade candy as a form of currency.\r\n\rIt would look good in a museum!\n",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 20209,
-      "name" : "Unicorn Hair Tuft",
-      "description" : "Roughly 1% of a unicorn. It must have been lost as the magical beast galloped through the woods.\n\rIt would look good in a museum!",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Monster"
-      ]
-   },
-   {
-      "id" : 21000,
-      "name" : "Rex Cap",
-      "description" : "Rex's head has been sorely missing this mining hat, better get it back to him quick.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21001,
-      "name" : "Topi's Notebook",
-      "description" : "Topi said it was a notebook of schoolwork, but it looks like it's mostly a bunch of doodles.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21002,
-      "name" : "Peter's Lure",
-      "description" : "Seems like just an ordinary lure, I wonder what's so lucky about it?",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21003,
-      "name" : "Joke Book",
-      "description" : "A book of corny jokes.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21004,
-      "name" : "Jun's Flower",
-      "description" : "Jun asked me to plant these around Sun Haven.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21005,
-      "name" : "Meat",
-      "description" : "A premium slab of meat. Mmm, meaty.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Food"
-      ]
-   },
-   {
-      "id" : 21006,
-      "name" : "Glorite Crystal",
-      "description" : "A crystal that thrums with energy, it feels much heavier than it looks.",
+      "id" : 18034,
+      "name" : "Golden Record Player Chest",
+      "description" : "A chest containing all the loot from the Golden Record Player DLC Pack!",
       "location" : null,
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21007,
-      "name" : "Toolbox",
-      "description" : "A rusty toolbox packed full of random tools for all sorts of different crafts.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21008,
-      "name" : "Amanda's Book",
-      "description" : "Looks like a novel about a man and a horse, several pages have been dog-eared.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21009,
-      "name" : "Albert's Sword",
-      "description" : "An old copper sword.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21010,
-      "name" : "Medicine",
-      "description" : "Wornhardt needs this for his patient.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21011,
-      "name" : "Arnold's Shirt",
-      "description" : "It's been stitched up so many times that even the stitches have stitches.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21012,
-      "name" : "Allergy Medication",
-      "description" : "A small vial full of tiny pellets, Hopsan Barley assures it will take care of Slobert's allergy symptoms.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21013,
-      "name" : "Back Scratcher",
-      "description" : "Great for scratching all of those hard-to-reach spots.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21014,
-      "name" : "Cushion",
-      "description" : "Stuffed full of bouncy wool, this should keep anyone's bottom comfy on even the hardest ground.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21015,
-      "name" : "Hand Mirror",
-      "description" : "Looks like this mirror has seen a lot of time at the bottom of the briny deep... did Honey find it in a sunken ship?!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21016,
-      "name" : "Horseshoe",
-      "description" : "Horses wear shoes, but how come they don't wear socks?",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21017,
-      "name" : "Lavender Candle",
-      "description" : "It reeks of sickly-sweet lavender, yet you can't resist smelling it.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21018,
-      "name" : "Ribbon",
-      "description" : "A silky soft length of ribbon, Arianella has outdone herself yet again.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21019,
-      "name" : "Tape",
-      "description" : "\"9 out of 10 dorks choose Harry's Spectacle-Mending Tape, perfect for all matters of mending broken eyewear\".",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21020,
-      "name" : "Trusty Compass",
-      "description" : "Each of the cardinal directions has been replaced with the word \"adventure\".",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21021,
-      "name" : "Sack of Treasure",
-      "description" : "A burlap sack splitting at the seams with all sorts of treasure.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21022,
-      "name" : "Seal of Sun Haven",
-      "description" : "A crest bearing the sigil of Sun Haven, Lucia enchanted it with a spell to aid mana regeneration. Permanently increases your max mana by 10.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21023,
-      "name" : "Soul Sap",
-      "description" : "Viscous sap drained from a soul sap tree, it feels slightly tingly to the touch.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21024,
-      "name" : "Great City Poster",
-      "description" : "A poster depicting the bustling streets of the Great City, Vaan wrote a message on the back.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21025,
-      "name" : "Stone of Tongues",
-      "description" : "An enchanted stone that can translate any language, or at least the legends claim.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21026,
-      "name" : "Charcoal",
-      "description" : "A piece of sooty charcoal. When it comes to writing, it'll work better than nothing.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21028,
-      "name" : "Bird's Nest",
-      "description" : "Looks like the birds who made this nest moved out awhile ago.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21029,
-      "name" : "Glass Jar",
-      "description" : "A simple jar of glass, you could put all sorts of things in it.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21030,
-      "name" : "Hoof Polish",
-      "description" : "Brightly colored polish. It's like nail polish only, you know, for hooves.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21031,
-      "name" : "Illusory Tonic",
-      "description" : "A glass cask full of a sparkling, swirling potion. It actually looks really delicious.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21032,
-      "name" : "Moonsight Potion",
-      "description" : "A bottle of thin, watery liquid. It doesn't look very assuming, but apparently it's quite potent.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21033,
-      "name" : "Nutrient Salve",
-      "description" : "A cool salve that Iris uses to keep her plants healthy and glowing.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21034,
-      "name" : "Citrus Rub",
-      "description" : "A powder made out of the dried peels of tangy citrus fruits, tastebuds love it and bugs can't stand it.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21035,
-      "name" : "Pollen",
-      "description" : "Fine granules of pollen, hand-picked by Beeanaca for premium quality.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21036,
-      "name" : "Enchanted Soul Sap",
-      "description" : "Iris has enchanted this sap, augmenting its mysterious magical properties.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21037,
-      "name" : "Bag of Kitten Nip",
-      "description" : "A mixture of dried herbs, it smells quite strange but apparently kittens love the stuff. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21038,
-      "name" : "Medical Glove",
-      "description" : "A glove made out of some kind of smooth, squeaky material. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21039,
-      "name" : "Lost Letter",
-      "description" : "This lost letter should be returned to the mail carrier.",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21040,
-      "name" : "Reading Glasses",
-      "description" : "A slightly dusty pair of reading glasses. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21041,
-      "name" : "Sun Haven Library Book",
-      "description" : "The first page is stamped SUN HAVEN PUBLIC LIBRARY.",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21042,
-      "name" : "Eastern Bangle",
-      "description" : "The colors represent a Region in the east, and a piece of molten metal looks stuck to the normally smooth edge of the bangle. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21043,
-      "name" : "Lost Toy",
-      "description" : "A cute toy, but it's not for you. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21044,
-      "name" : "Grime Covered Magic Charm",
-      "description" : "A cute toy, but it's not for you. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21045,
-      "name" : "Waterlogged Helmet",
-      "description" : "A cute toy, but it's not for you. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21046,
-      "name" : "Cask of Elven Wine",
-      "description" : "A cute toy, but it's not for you. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21047,
-      "name" : "Discolored Fishing Lure",
-      "description" : "A cute toy, but it's not for you. Who could have lost it?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21048,
-      "name" : "Dragon Chow",
-      "description" : "Kitty's special baby dragon chow. It doesn't look very appetizing, but then again, you're not a baby dragon.",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21049,
-      "name" : "Dragon Trap",
-      "description" : "It's a box. It's literally just a box. But maybe it will do the trick?",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21050,
-      "name" : "Solon Order Form",
-      "description" : "An order form for dozens of pieces of equipment. Solon must be able to work fast to complete orders as big as these!",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21051,
-      "name" : "Chunky Grouper",
-      "description" : "A fat, oily grouper. Most anglers throw them back, as they make a poor meal. Unless you're a baby dragon, that is.",
-      "location" : null,
-      "rarity" : "Uncommon",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21101,
-      "name" : "Pen Pal Quill",
-      "description" : "Permanently gain 2 community tokens every morning.",
-      "location" : null,
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21102,
-      "name" : "Lost Cart Wheel",
-      "description" : "The wheel to Clive's wagon. It must have broken off on the rough wilderness terrain.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21103,
-      "name" : "Luke's Stylin' Honey",
-      "description" : "Honey infused with herbs and plants to form a gel that keeps hair looking fresh - plus it tastes great!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21104,
-      "name" : "Broken Branches",
-      "description" : "These branches look oddly similar to Elios's mighty wings.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21105,
-      "name" : "Pile of Snow",
-      "description" : "Not a hard resource to find in winter. What kind of sculpture could you make with this?",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21106,
-      "name" : "Broken Cobblestone",
-      "description" : "Two pieces of cobblestone that, of all things, look exactly like Elios's eyes.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21107,
-      "name" : "Expensive Gift",
-      "description" : "A gift wrapped with shiny, expensive looking paper. Whoever wrapped this wanted to make a statement!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
          "Consumable"
       ]
    },
    {
-      "id" : 21108,
-      "name" : "Floral Gift",
-      "description" : "A gift wrapped in paper with beautiful flower patterns intertwining endlessly. A small charm hangs off the bow.",
+      "id" : 18035,
+      "name" : "Withergate Mask Chest",
+      "description" : "A chest containing all the loot from the Withergate Mask DLC Pack!",
       "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21109,
-      "name" : "Music Note Gift",
-      "description" : "A gift wrapped in paper printed with little music notes all over it. It seems to be from Claude... but it's too cute to come from him, right?",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21110,
-      "name" : "Fancy Gift",
-      "description" : "A sharply wrapped gift in fancy paper, topped with a blood red bow ribbon. You get the impression that the gift giver didn't wrap this themselves... maybe a servant?",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21111,
-      "name" : "Newspaper Gift",
-      "description" : "A gift wrapped in some old newspapers, instead of gift wrap. One of the headlines reads \"SUN HAVEN OUTSIDER SPOTTED IN WITHERGATE\".",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21112,
-      "name" : "Leaf Gift",
-      "description" : "A gift wrapped in a large, soft leaf. You've never seen a leaf quite like this before, someone must have grown it just for this occasion.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21113,
-      "name" : "Painted Gift",
-      "description" : "A gift wrapped in hand-painted paper. Very thoughtful!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21114,
-      "name" : "Kitty Gift",
-      "description" : "A gift wrapped in flashy pink paper, covered in sprinkles and and pawprints. The gift tag reads \"to XX, nya!\". It obviously came from Kitty.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21115,
-      "name" : "Little Girl's Gift",
-      "description" : "A gift wrapped in paper normally meant for a young girl. Whoever wrapped it must have only had this on hand.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21116,
-      "name" : "Firebolt Gift",
-      "description" : "A gift wrapped in red paper with blazing fireballs printed across it. The bow is expertly tied to resemble Sun Haven's sun crest.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21117,
-      "name" : "Homemade Gift",
-      "description" : "White paper that was turned into gift wrap. Despite the wrapper's best efforts, it's still smudged here and there with smithery soot.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21118,
-      "name" : "Burlap Gift",
-      "description" : "Someone forgot to wrap their gift and instead elected to toss it into a burlap sack. \"SHIELD POLISH\" is printed on the side of the sack.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21119,
-      "name" : "Bowed Gift",
-      "description" : "This gift isn't even wrapped, but dramatically topped with a single bow ribbon. You have a feeling that the wrapper wasn't being lazy, but rather was trying to grab your attention.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21120,
-      "name" : "White Gift",
-      "description" : "A gift wrapped in fancy white wrapping paper. Is it just you, or does it kind of smell like the inside of a doctor's office?",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21121,
-      "name" : "Impeccable Gift",
-      "description" : "A gift wrapped in shiny paper, the wrap job is impeccable. Whoever is responsible for this must be especially skilled at planning.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21122,
-      "name" : "Gorwin's Gift",
-      "description" : "A masterfully cut gem, shaped into the emblem of Sun Haven. A wonderful gift from Gorwin and an offering of peace.",
-      "location" : null,
-      "rarity" : "Legendary",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21123,
-      "name" : "Ancient Nel'Varian Text",
-      "description" : "Ancient Nel'Varian text, bound in a protective leather cover. Surely Amanda won't notice it's missing...",
-      "location" : null,
-      "rarity" : "Legendary",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21124,
-      "name" : "Totally Not Fake Nel'Varian Text",
-      "description" : "THIS WILL DEFINITELY TRICK AMANDA",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21125,
-      "name" : "Bernard's Big Bundle",
-      "description" : "A TON of supplies - all gifted to you from the citizens of Sun Haven!",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest"
-      ]
-   },
-   {
-      "id" : 21126,
-      "name" : "Traditional Gift",
-      "description" : "A gift wrapped in simple paper, with colored strings that represent a bunch of obscure, boring Nel'Varian traditions.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21127,
-      "name" : "Driftwood Gift",
-      "description" : "A gift wrapped in scraps of old ship sails and fishing nets. It's covered in sand.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21128,
-      "name" : "Poorly Wrapped Gift",
-      "description" : "A crudely wrapped gift, whoever wrapped this wasn't very good at taking their time... or keeping their temper in check.",
-      "location" : null,
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Quest",
-         "Consumable"
-      ]
-   },
-   {
-      "id" : 21129,
-      "name" : "Sun Dragon Scale",
-      "description" : "Glistens like polished copper in the light of the sun - and it's harder than mithril.",
-      "location" : "SunHaven",
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Quest"
+         "Consumable"
       ]
    },
    {
-      "id" : 21130,
-      "name" : "Moon Dragon Scale",
-      "description" : "This titanic scale does not reflect light, but rather seems to reject it all together.",
-      "location" : "Withergate",
+      "id" : 18036,
+      "name" : "Pet Baby Tiger Chest",
+      "description" : "A chest containing all the loot from the Pet Baby Tiger DLC Pack!",
+      "location" : null,
       "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Quest"
+         "Consumable"
       ]
    },
    {
-      "id" : 22000,
-      "name" : "Vampire Skirt (Brown)",
-      "description" : "Don't worry, the vampire doesn't come with the skirt.",
-      "location" : "Withergate",
-      "rarity" : "Common",
+      "id" : 18037,
+      "name" : "Pet Baby Dragon Chest",
+      "description" : "A chest containing all the loot from the Pet Baby Dragon DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Armor",
-         "Pants"
+         "Consumable"
       ]
    },
    {
-      "id" : 22001,
-      "name" : "Vampire Skirt (Gray)",
-      "description" : "Don't worry, the vampire doesn't come with the skirt.",
-      "location" : "Withergate",
-      "rarity" : "Common",
+      "id" : 18038,
+      "name" : "Sparkling Gear Chest",
+      "description" : "A chest containing all the loot from the Sparkling Gear DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Armor",
-         "Pants"
+         "Consumable"
       ]
    },
    {
-      "id" : 22002,
-      "name" : "Petal Skirt (Gray)",
-      "description" : "Whoa, it's made out of real flower petals!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
+      "id" : 18039,
+      "name" : "Sweet Mounts Chest",
+      "description" : "A chest containing all the loot from the Sweet Mounts DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Armor",
-         "Pants"
+         "Consumable"
       ]
    },
    {
-      "id" : 22003,
-      "name" : "Petal Skirt (Green)",
-      "description" : "Whoa, it's made out of real flower petals!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
+      "id" : 18040,
+      "name" : "Wicked Mounts Chest",
+      "description" : "A chest containing all the loot from the Wicked Mounts DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
       "hasIcon" : true,
       "tags" : [
-         "Armor",
-         "Pants"
+         "Consumable"
       ]
    }
 ]

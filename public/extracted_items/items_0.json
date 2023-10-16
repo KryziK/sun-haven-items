@@ -2532,7 +2532,7 @@
       "id" : 2015,
       "name" : "Dead Stone",
       "description" : "A dark rock from the haunted forests of Withergate. You're not sure why, but something about it feels... wrong.",
-      "location" : "SunHaven",
+      "location" : "Withergate",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
@@ -2543,7 +2543,7 @@
       "id" : 2016,
       "name" : "Dead Heavystone",
       "description" : "An extra hard dark rock from the haunted forests of Withergate. You're not sure why, but something about it feels... wrong.",
-      "location" : "SunHaven",
+      "location" : "Withergate",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
@@ -2598,7 +2598,7 @@
       "id" : 2021,
       "name" : "Elven Stone",
       "description" : "A rock mined from the Nel'Vari mines. Like everything else in Nel'Vari, it feels slightly magical.",
-      "location" : "SunHaven",
+      "location" : "Nel'Vari",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [
@@ -2609,7 +2609,7 @@
       "id" : 2022,
       "name" : "Elven Heavystone",
       "description" : "An extra hard rock mined from the Nel'Vari mines. Like everything else in Nel'Vari, it feels slightly magical.",
-      "location" : "SunHaven",
+      "location" : "Nel'Vari",
       "rarity" : "Common",
       "hasIcon" : true,
       "tags" : [

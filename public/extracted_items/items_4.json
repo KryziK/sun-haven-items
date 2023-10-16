@@ -1,5 +1,1953 @@
 [
    {
+      "id" : 18041,
+      "name" : "Dreamy Pet Chest",
+      "description" : "A chest containing all the loot from the Dreamy Pet DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 18042,
+      "name" : "Spooky Pet Chest",
+      "description" : "A chest containing all the loot from the Spooky Pet DLC Pack!",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 18100,
+      "name" : "Farming Skill Tome",
+      "description" : "A mystical tome imbued with the very essence of farming. Reading its pages will impart increased farming prowess and experience.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18101,
+      "name" : "Exploration Skill Tome",
+      "description" : "A mystical tome imbued with the very essence of exploration. Reading its pages will impart increased exploration prowess and experience.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18102,
+      "name" : "Mining Skill Tome",
+      "description" : "A mystical tome imbued with the very essence of mining. Reading its pages will impart increased mining prowess and experience.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18103,
+      "name" : "Combat Skill Tome",
+      "description" : "A mystical tome imbued with the very essence of combat. Reading its pages will impart increased combat prowess and experience.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18104,
+      "name" : "Fishing Skill Tome",
+      "description" : "A mystical tome imbued with the very essence of fishing. Reading its pages will impart increased fishing prowess and experience.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18105,
+      "name" : "Elixir of Farming",
+      "description" : "An elixir brewed with the essence of cultivation and growth. It expands one's understanding of Farming when consumed.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18106,
+      "name" : "Elixir of Exploration",
+      "description" : "An elixir brewed with the essence of the untamed wilderness. It expands one's understanding of Exploration when consumed.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18107,
+      "name" : "Elixir of Mining",
+      "description" : "An elixir brewed with the essence of the deep earth. It expands one's understanding of Mining when consumed.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18108,
+      "name" : "Elixir of Combat",
+      "description" : "An elixir brewed with the essence of battle and victory. It expands one's understanding of Combat when consumed.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 18109,
+      "name" : "Elixir of Fishing",
+      "description" : "An elixir brewed with the essence of patience and fish bait. It expands one's understanding of Fishing when consumed.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "SkillPotion"
+      ]
+   },
+   {
+      "id" : 19000,
+      "name" : "Farmer's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19001,
+      "name" : "Orchard Farmer's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19002,
+      "name" : "Rancher's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19003,
+      "name" : "Explorer's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19004,
+      "name" : "Spellcaster's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19005,
+      "name" : "Duelist's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19006,
+      "name" : "Blacksmith's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19007,
+      "name" : "Angler's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19008,
+      "name" : "Royalty's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 19009,
+      "name" : "Baker's Box",
+      "description" : "",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 20000,
+      "name" : "Leafie's Leaf",
+      "description" : "It looks innocent, but its edges are dangerously sharp.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20001,
+      "name" : "Squashed Banana",
+      "description" : "Not the worst thing to have thrown at you, at least.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20002,
+      "name" : "Bushie's Branch",
+      "description" : "The remnants of a fallen foe.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : false,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20003,
+      "name" : "Bug Shell",
+      "description" : "It's just a shell, but it's harder than iron.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20004,
+      "name" : "Prickletot Pear",
+      "description" : "A sour pear covered in pointy thorns, no good for eating.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20005,
+      "name" : "Lightning in a Bottle",
+      "description" : "This was much easier to catch than you've been led to believe.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20006,
+      "name" : "Antler",
+      "description" : "If you look closely, you can see this antler is actually covered in very tiny scales.",
+      "location" : "Nel'Vari",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20007,
+      "name" : "Torn Page",
+      "description" : "The remains of an ancient book, unreadable runes are scrawled across the pages.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20008,
+      "name" : "Spectre Slime",
+      "description" : "Gooey slime left behind from a spectre that has been laid (back) to rest.",
+      "location" : "Withergate",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20009,
+      "name" : "Fur Tuft",
+      "description" : "A tuft of dirty fur, it's covered in mineshaft dust.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20010,
+      "name" : "Dragonfly",
+      "description" : "Doesn't look like any dragon you've ever seen!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20011,
+      "name" : "Drill Bit",
+      "description" : "An impressive appendage, perfectly adapted to life underground.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20012,
+      "name" : "Green Pepper Flakes",
+      "description" : "Dried peppers, crushed into flakes. The drying process made these peppers extra spicy!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20013,
+      "name" : "Haunted Log",
+      "description" : "A log, haunted by the restless soul of a vengeful stump.",
+      "location" : "Withergate",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20014,
+      "name" : "Hot Sauce",
+      "description" : "A Scorpepper's sting is searingly hot, owed all to heat of their saucey venom. Silver lining? It's the ultimate meal enhancer.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20015,
+      "name" : "Ice Cube",
+      "description" : "A terribly cold cube of ice, it doesn't melt even on the hottest day.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20016,
+      "name" : "Orange Pepper Flakes",
+      "description" : "Dried peppers, crushed into flakes. The drying process made these peppers extra spicy!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20017,
+      "name" : "Soot",
+      "description" : "Smoldering ash, it's still rather hot to the touch.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20018,
+      "name" : "Sticky Sap",
+      "description" : "Some people use this ultra-sticky sap as a glue, owing to the fact it sticks almost anything together fairly permanently.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20019,
+      "name" : "Snow Ball",
+      "description" : "Packed so extremely tight that it feels more like a rock than snow.",
+      "location" : "SunHaven",
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20020,
+      "name" : "Lava Honey",
+      "description" : "Sweet like delicious honey... and hot like molten lava...",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20021,
+      "name" : "Pricklepop Pear",
+      "description" : "A sour pear covered in pointy thorns, no good for eating.",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20022,
+      "name" : "Dandelion",
+      "description" : "Grown by the monster Weedil. Despite its appearance this 'flower' is, in fact, a weed.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20023,
+      "name" : "Lynn's Pickaxe",
+      "description" : "Lynn's trusty pickaxe. Looks like Solon has taken good care of it.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 20024,
+      "name" : "Fly",
+      "description" : "Flies are pretty gross, but it's said that frogs will gift them to those who are worthy. Worthy of what, though?",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20025,
+      "name" : "Sludge",
+      "description" : "A handful of gross sewer muck, it seems some lingering magical force had inadvertently enchanted it into a rampaging monster.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20026,
+      "name" : "Cardboard Box Piece",
+      "description" : "A piece of cardboard. With enough of these, maybe you could create something incredible?",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20027,
+      "name" : "Bent Traffic Cone",
+      "description" : "A discarded traffic cone from the streets above, looks like a crab was using it as a makeshift wizard's hat.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20028,
+      "name" : "Tough Tin Can",
+      "description" : "Monster trash from the streets above, it seems as if the citizens of Withergate aren't ones for recycling.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20029,
+      "name" : "Tough Trash Bag",
+      "description" : "An empty trash bag from the streets above, it's extra tough and not a bad home for a crab.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20030,
+      "name" : "Sand",
+      "description" : "Normal castles are built of stone and wood, but legendary castles are built from sand.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20031,
+      "name" : "Croc Scale",
+      "description" : "Long ago the untamed swamps of Withergate were home to vicious crocodiles. Though the Demons have since made their city on the land, the crocs have adapted to sewer life fairly well.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20032,
+      "name" : "Slime Goop",
+      "description" : "This goop is icky and sticky, gross!",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20100,
+      "name" : "Ancient Sun Haven Sword",
+      "description" : "A chipped sword, bearing the colors of Elios. It's quite old, and seems to be ceremonial rather than for combat use.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20101,
+      "name" : "Ancient Nel'Varian Sword",
+      "description" : "A metal blade, clearly Nel'Varian in origin. It's very old, and it looks like it's seen use in combat...\r\n\rIt would look good in a museum!",
+      "location" : "Nel'Vari",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20102,
+      "name" : "Ancient Withergate Sword",
+      "description" : "A wicked Demon blade, left to rust and degrade in the dirt. It seems old, and has clearly seen much use in war.\r\n\rIt would look good in a museum!",
+      "location" : "Withergate",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20103,
+      "name" : "Leafie Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20104,
+      "name" : "Elite Leafie Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20105,
+      "name" : "Centipillar Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20106,
+      "name" : "Peppinch - Green Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20107,
+      "name" : "Scorpepper Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20108,
+      "name" : "Elite Scorpepper Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20109,
+      "name" : "Hat Crab Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20110,
+      "name" : "Floaty Crab Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20111,
+      "name" : "Bucket Crab Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20112,
+      "name" : "Umbrella Crab Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20113,
+      "name" : "Chimchuck Trinket",
+      "description" : "A monster trinket, dropped as a trophy to commemorate victory.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20150,
+      "name" : "Handmade Bobber",
+      "description" : " A well used fishing bobber, hand crafted in the ancient style of the Southern Isles fishermen.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20151,
+      "name" : "Ancient Magic Staff",
+      "description" : "Lost for unknown ages, this staff still radiates the faintest signature of magic energy.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20152,
+      "name" : "Bronze Dragon Relic",
+      "description" : "It's a bronze dragon, countless years have worn away its features but you'd wager it looks a bit like Elios...\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20153,
+      "name" : "Old Sword Hilt",
+      "description" : "An old sword hilt, the crossguard bears an unknown crest.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20154,
+      "name" : "Nel'Varian Runestone",
+      "description" : "A stone carved with delicate Nel'Varian runes. It repels your touch ever so slightly.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20155,
+      "name" : "Ancient Elven Headdress",
+      "description" : "Despite its age, the headdress has preserved nicely. Maybe it was meant for some sort of old Elven celebration?\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20156,
+      "name" : "Old Mayoral Painting",
+      "description" : "It's a portrait of an old well dressed gentleman. On the breast of his coat is the Sun Haven emblem... was this a past town leader?\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20157,
+      "name" : "Tentacle Monster Emblem",
+      "description" : "This emblem is carved of a strange stone, depicting a bizarre alien beast. The words 'Cw'thlza, xx'frer'tiz O'aj'loza!' are carved into the emblem's backside.\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20158,
+      "name" : "Ancient Angel Quill",
+      "description" : "A writing quill, it appears to be of Angelic origin. It has to be eons old, yet the ink on its tip is still wet.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20159,
+      "name" : "Ancient Naga Crook",
+      "description" : "A serpentine shepherd crook. If you had to hazard a guess, you would say it looks Naga in origin.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20160,
+      "name" : "Ancient Amari Totem",
+      "description" : "An old totem seemingly dedicated to the ferocity of nature. Could it be Amari in origin?\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20200,
+      "name" : "Petrified Log",
+      "description" : "A log of strange, stoney wood. Scholars would love to study this.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20201,
+      "name" : "Phoenix Feather",
+      "description" : "A wispy feather of a mystical pheonix, sometimes known as 'dragon birds'.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20202,
+      "name" : "Fairy Wings",
+      "description" : "Fairies are thought to be related to the Elves. Beings of pure mana, their wings are left behind whenever they disperse into energy.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20203,
+      "name" : "Griffon Egg",
+      "description" : "A fossilized griffon egg. This proves that griffons have lived in this area for a very long time.\nIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20204,
+      "name" : "Mana Sap",
+      "description" : "Tree sap, dense with mana energy. Very much worth studying.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20205,
+      "name" : "Pumice Stone",
+      "description" : "Pumice is left behind by volcanic activity. Where in these lands are there volcanos?!\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20206,
+      "name" : "Mysterious Antler",
+      "description" : "A strange antler. It looks quite old, and it doesn't look like it came from any sort of deer or hornsnake.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20207,
+      "name" : "Dragon Fang",
+      "description" : "The fang of an immature dragon, likely intentionally shed from the mouth to make way for big boy dragon teeth.\r\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20208,
+      "name" : "Monster Candy",
+      "description" : "A piece of Monsterfolk candy, some scholars believe the Monsterfolk race trade candy as a form of currency.\r\n\rIt would look good in a museum!\n",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 20209,
+      "name" : "Unicorn Hair Tuft",
+      "description" : "Roughly 1% of a unicorn. It must have been lost as the magical beast galloped through the woods.\n\rIt would look good in a museum!",
+      "location" : "SunHaven",
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Monster"
+      ]
+   },
+   {
+      "id" : 21000,
+      "name" : "Rex Cap",
+      "description" : "Rex's head has been sorely missing this mining hat, better get it back to him quick.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21001,
+      "name" : "Topi's Notebook",
+      "description" : "Topi said it was a notebook of schoolwork, but it looks like it's mostly a bunch of doodles.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21002,
+      "name" : "Peter's Lure",
+      "description" : "Seems like just an ordinary lure, I wonder what's so lucky about it?",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21003,
+      "name" : "Joke Book",
+      "description" : "A book of corny jokes.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21004,
+      "name" : "Jun's Flower",
+      "description" : "Jun asked me to plant these around Sun Haven.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21005,
+      "name" : "Meat",
+      "description" : "A premium slab of meat. Mmm, meaty.",
+      "location" : "SunHaven",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Food"
+      ]
+   },
+   {
+      "id" : 21006,
+      "name" : "Glorite Crystal",
+      "description" : "A crystal that thrums with energy, it feels much heavier than it looks.",
+      "location" : null,
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21007,
+      "name" : "Toolbox",
+      "description" : "A rusty toolbox packed full of random tools for all sorts of different crafts.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21008,
+      "name" : "Amanda's Book",
+      "description" : "Looks like a novel about a man and a horse, several pages have been dog-eared.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21009,
+      "name" : "Albert's Sword",
+      "description" : "An old copper sword.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21010,
+      "name" : "Medicine",
+      "description" : "Wornhardt needs this for his patient.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21011,
+      "name" : "Arnold's Shirt",
+      "description" : "It's been stitched up so many times that even the stitches have stitches.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21012,
+      "name" : "Allergy Medication",
+      "description" : "A small vial full of tiny pellets, Hopsan Barley assures it will take care of Slobert's allergy symptoms.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21013,
+      "name" : "Back Scratcher",
+      "description" : "Great for scratching all of those hard-to-reach spots.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21014,
+      "name" : "Cushion",
+      "description" : "Stuffed full of bouncy wool, this should keep anyone's bottom comfy on even the hardest ground.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21015,
+      "name" : "Hand Mirror",
+      "description" : "Looks like this mirror has seen a lot of time at the bottom of the briny deep... did Honey find it in a sunken ship?!",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21016,
+      "name" : "Horseshoe",
+      "description" : "Horses wear shoes, but how come they don't wear socks?",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21017,
+      "name" : "Lavender Candle",
+      "description" : "It reeks of sickly-sweet lavender, yet you can't resist smelling it.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21018,
+      "name" : "Ribbon",
+      "description" : "A silky soft length of ribbon, Arianella has outdone herself yet again.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21019,
+      "name" : "Tape",
+      "description" : "\"9 out of 10 dorks choose Harry's Spectacle-Mending Tape, perfect for all matters of mending broken eyewear\".",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21020,
+      "name" : "Trusty Compass",
+      "description" : "Each of the cardinal directions has been replaced with the word \"adventure\".",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21021,
+      "name" : "Sack of Treasure",
+      "description" : "A burlap sack splitting at the seams with all sorts of treasure.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21022,
+      "name" : "Seal of Sun Haven",
+      "description" : "A crest bearing the sigil of Sun Haven, Lucia enchanted it with a spell to aid mana regeneration. Permanently increases your max mana by 10.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21023,
+      "name" : "Soul Sap",
+      "description" : "Viscous sap drained from a soul sap tree, it feels slightly tingly to the touch.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21024,
+      "name" : "Great City Poster",
+      "description" : "A poster depicting the bustling streets of the Great City, Vaan wrote a message on the back.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21025,
+      "name" : "Stone of Tongues",
+      "description" : "An enchanted stone that can translate any language, or at least the legends claim.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21026,
+      "name" : "Charcoal",
+      "description" : "A piece of sooty charcoal. When it comes to writing, it'll work better than nothing.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21028,
+      "name" : "Bird's Nest",
+      "description" : "Looks like the birds who made this nest moved out awhile ago.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21029,
+      "name" : "Glass Jar",
+      "description" : "A simple jar of glass, you could put all sorts of things in it.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21030,
+      "name" : "Hoof Polish",
+      "description" : "Brightly colored polish. It's like nail polish only, you know, for hooves.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21031,
+      "name" : "Illusory Tonic",
+      "description" : "A glass cask full of a sparkling, swirling potion. It actually looks really delicious.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21032,
+      "name" : "Moonsight Potion",
+      "description" : "A bottle of thin, watery liquid. It doesn't look very assuming, but apparently it's quite potent.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21033,
+      "name" : "Nutrient Salve",
+      "description" : "A cool salve that Iris uses to keep her plants healthy and glowing.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21034,
+      "name" : "Citrus Rub",
+      "description" : "A powder made out of the dried peels of tangy citrus fruits, tastebuds love it and bugs can't stand it.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21035,
+      "name" : "Pollen",
+      "description" : "Fine granules of pollen, hand-picked by Beeanaca for premium quality.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21036,
+      "name" : "Enchanted Soul Sap",
+      "description" : "Iris has enchanted this sap, augmenting its mysterious magical properties.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21037,
+      "name" : "Bag of Kitten Nip",
+      "description" : "A mixture of dried herbs, it smells quite strange but apparently kittens love the stuff. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21038,
+      "name" : "Medical Glove",
+      "description" : "A glove made out of some kind of smooth, squeaky material. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21039,
+      "name" : "Lost Letter",
+      "description" : "This lost letter should be returned to the mail carrier.",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21040,
+      "name" : "Reading Glasses",
+      "description" : "A slightly dusty pair of reading glasses. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21041,
+      "name" : "Sun Haven Library Book",
+      "description" : "The first page is stamped SUN HAVEN PUBLIC LIBRARY.",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21042,
+      "name" : "Eastern Bangle",
+      "description" : "The colors represent a Region in the east, and a piece of molten metal looks stuck to the normally smooth edge of the bangle. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21043,
+      "name" : "Lost Toy",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21044,
+      "name" : "Grime Covered Magic Charm",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21045,
+      "name" : "Waterlogged Helmet",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21046,
+      "name" : "Cask of Elven Wine",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21047,
+      "name" : "Discolored Fishing Lure",
+      "description" : "A cute toy, but it's not for you. Who could have lost it?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21048,
+      "name" : "Dragon Chow",
+      "description" : "Kitty's special baby dragon chow. It doesn't look very appetizing, but then again, you're not a baby dragon.",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21049,
+      "name" : "Dragon Trap",
+      "description" : "It's a box. It's literally just a box. But maybe it will do the trick?",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21050,
+      "name" : "Solon Order Form",
+      "description" : "An order form for dozens of pieces of equipment. Solon must be able to work fast to complete orders as big as these!",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21051,
+      "name" : "Chunky Grouper",
+      "description" : "A fat, oily grouper. Most anglers throw them back, as they make a poor meal. Unless you're a baby dragon, that is.",
+      "location" : null,
+      "rarity" : "Uncommon",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21101,
+      "name" : "Pen Pal Quill",
+      "description" : "Permanently gain 2 community tokens every morning.",
+      "location" : null,
+      "rarity" : "Rare",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21102,
+      "name" : "Lost Cart Wheel",
+      "description" : "The wheel to Clive's wagon. It must have broken off on the rough wilderness terrain.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21103,
+      "name" : "Luke's Stylin' Honey",
+      "description" : "Honey infused with herbs and plants to form a gel that keeps hair looking fresh - plus it tastes great!",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21104,
+      "name" : "Broken Branches",
+      "description" : "These branches look oddly similar to Elios's mighty wings.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21105,
+      "name" : "Pile of Snow",
+      "description" : "Not a hard resource to find in winter. What kind of sculpture could you make with this?",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21106,
+      "name" : "Broken Cobblestone",
+      "description" : "Two pieces of cobblestone that, of all things, look exactly like Elios's eyes.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21107,
+      "name" : "Expensive Gift",
+      "description" : "A gift wrapped with shiny, expensive looking paper. Whoever wrapped this wanted to make a statement!",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21108,
+      "name" : "Floral Gift",
+      "description" : "A gift wrapped in paper with beautiful flower patterns intertwining endlessly. A small charm hangs off the bow.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21109,
+      "name" : "Music Note Gift",
+      "description" : "A gift wrapped in paper printed with little music notes all over it. It seems to be from Claude... but it's too cute to come from him, right?",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21110,
+      "name" : "Fancy Gift",
+      "description" : "A sharply wrapped gift in fancy paper, topped with a blood red bow ribbon. You get the impression that the gift giver didn't wrap this themselves... maybe a servant?",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21111,
+      "name" : "Newspaper Gift",
+      "description" : "A gift wrapped in some old newspapers, instead of gift wrap. One of the headlines reads \"SUN HAVEN OUTSIDER SPOTTED IN WITHERGATE\".",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21112,
+      "name" : "Leaf Gift",
+      "description" : "A gift wrapped in a large, soft leaf. You've never seen a leaf quite like this before, someone must have grown it just for this occasion.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21113,
+      "name" : "Painted Gift",
+      "description" : "A gift wrapped in hand-painted paper. Very thoughtful!",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21114,
+      "name" : "Kitty Gift",
+      "description" : "A gift wrapped in flashy pink paper, covered in sprinkles and and pawprints. The gift tag reads \"to XX, nya!\". It obviously came from Kitty.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21115,
+      "name" : "Little Girl's Gift",
+      "description" : "A gift wrapped in paper normally meant for a young girl. Whoever wrapped it must have only had this on hand.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21116,
+      "name" : "Firebolt Gift",
+      "description" : "A gift wrapped in red paper with blazing fireballs printed across it. The bow is expertly tied to resemble Sun Haven's sun crest.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21117,
+      "name" : "Homemade Gift",
+      "description" : "White paper that was turned into gift wrap. Despite the wrapper's best efforts, it's still smudged here and there with smithery soot.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21118,
+      "name" : "Burlap Gift",
+      "description" : "Someone forgot to wrap their gift and instead elected to toss it into a burlap sack. \"SHIELD POLISH\" is printed on the side of the sack.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21119,
+      "name" : "Bowed Gift",
+      "description" : "This gift isn't even wrapped, but dramatically topped with a single bow ribbon. You have a feeling that the wrapper wasn't being lazy, but rather was trying to grab your attention.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21120,
+      "name" : "White Gift",
+      "description" : "A gift wrapped in fancy white wrapping paper. Is it just you, or does it kind of smell like the inside of a doctor's office?",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21121,
+      "name" : "Impeccable Gift",
+      "description" : "A gift wrapped in shiny paper, the wrap job is impeccable. Whoever is responsible for this must be especially skilled at planning.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21122,
+      "name" : "Gorwin's Gift",
+      "description" : "A masterfully cut gem, shaped into the emblem of Sun Haven. A wonderful gift from Gorwin and an offering of peace.",
+      "location" : null,
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21123,
+      "name" : "Ancient Nel'Varian Text",
+      "description" : "Ancient Nel'Varian text, bound in a protective leather cover. Surely Amanda won't notice it's missing...",
+      "location" : null,
+      "rarity" : "Legendary",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21124,
+      "name" : "Totally Not Fake Nel'Varian Text",
+      "description" : "THIS WILL DEFINITELY TRICK AMANDA",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21125,
+      "name" : "Bernard's Big Bundle",
+      "description" : "A TON of supplies - all gifted to you from the citizens of Sun Haven!",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21126,
+      "name" : "Traditional Gift",
+      "description" : "A gift wrapped in simple paper, with colored strings that represent a bunch of obscure, boring Nel'Varian traditions.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21127,
+      "name" : "Driftwood Gift",
+      "description" : "A gift wrapped in scraps of old ship sails and fishing nets. It's covered in sand.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21128,
+      "name" : "Poorly Wrapped Gift",
+      "description" : "A crudely wrapped gift, whoever wrapped this wasn't very good at taking their time... or keeping their temper in check.",
+      "location" : null,
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest",
+         "Consumable"
+      ]
+   },
+   {
+      "id" : 21129,
+      "name" : "Sun Dragon Scale",
+      "description" : "Glistens like polished copper in the light of the sun - and it's harder than mithril.",
+      "location" : "SunHaven",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 21130,
+      "name" : "Moon Dragon Scale",
+      "description" : "This titanic scale does not reflect light, but rather seems to reject it all together.",
+      "location" : "Withergate",
+      "rarity" : "Epic",
+      "hasIcon" : true,
+      "tags" : [
+         "Quest"
+      ]
+   },
+   {
+      "id" : 22000,
+      "name" : "Vampire Skirt (Brown)",
+      "description" : "Don't worry, the vampire doesn't come with the skirt.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22001,
+      "name" : "Vampire Skirt (Gray)",
+      "description" : "Don't worry, the vampire doesn't come with the skirt.",
+      "location" : "Withergate",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22002,
+      "name" : "Petal Skirt (Gray)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
+      "id" : 22003,
+      "name" : "Petal Skirt (Green)",
+      "description" : "Whoa, it's made out of real flower petals!",
+      "location" : "Nel'Vari",
+      "rarity" : "Common",
+      "hasIcon" : true,
+      "tags" : [
+         "Armor",
+         "Pants"
+      ]
+   },
+   {
       "id" : 22004,
       "name" : "Petal Skirt (Orange)",
       "description" : "Whoa, it's made out of real flower petals!",
@@ -9661,1988 +11609,6 @@
       "id" : 50212,
       "name" : "Shipping Box",
       "description" : "A shipping box, all packed up and ready to travel to its destination.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50213,
-      "name" : "Shy Snake Plant",
-      "description" : "This tropical vine plant is called \"shy\" for its habit of rolling up tightly. It takes a lot of tender love and care to get this vine to unwind.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50214,
-      "name" : "Small Blue Cooler",
-      "description" : "Also known as \"the portable icebox\", this special chest keeps its contents nice and cool.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50215,
-      "name" : "Small Stone Fireplace",
-      "description" : "A miniture fireplace, it looks cute and might be small, but it produces plenty of heat to warm the chilliest of nights.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50216,
-      "name" : "Small Wooden Bookshelf",
-      "description" : "Something small, for storing a short collection of your favorite page turners.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50217,
-      "name" : "Square Coffee Table",
-      "description" : "Just about as simple as a coffee table can get, but it's still an attractive piece of furniture.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50218,
-      "name" : "Stepping Stones",
-      "description" : "Great for stepping, but watch your balance!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50219,
-      "name" : "Stone Lantern",
-      "description" : "A chiseled lantern of stone, these are often used as road markers in the far reaches of the Northern Region.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50220,
-      "name" : "Trash Can",
-      "description" : "An old bin for storing all the rubbish you have no more use for.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50221,
-      "name" : "Umbrella Stand",
-      "description" : "A stand to ensure your umbrellas are kept at the ready in the event of a sudden rain.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50222,
-      "name" : "Wooden Barrel",
-      "description" : "A barrel that was used for shipping goods, now that it's job is over it makes for some nifty decoration.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50223,
-      "name" : "Wooden Cat Tree",
-      "description" : "A toy made especially for your feline friends. They'll delight themselves for hours with this thing.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50224,
-      "name" : "Wooden Music Stand",
-      "description" : "A specialized tool for holding sheet music while you practice your instruments.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50225,
-      "name" : "Woof Welcome Mat",
-      "description" : "Don't forget to wipe your paws!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50226,
-      "name" : "Blue Beach Towel ",
-      "description" : "A vital tool for having a fun day at the beach.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50227,
-      "name" : "Green Striped Beach Towel",
-      "description" : "A vital tool for having a fun day at the beach.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50228,
-      "name" : "Orange Striped Beach Towel",
-      "description" : "A vital tool for having a fun day at the beach.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50229,
-      "name" : "Pink Beach Towel",
-      "description" : "A vital tool for having a fun day at the beach.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50230,
-      "name" : "Purple Beach Towel",
-      "description" : "A vital tool for having a fun day at the beach.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50231,
-      "name" : "Purple Striped Beach Towel",
-      "description" : "A vital tool for having a fun day at the beach.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50232,
-      "name" : "Blue Regal Rug",
-      "description" : "An ornate pattern has been sewn into the fine fibers of this lush regal rug. It truly looks straight out of a royal castle.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50233,
-      "name" : "Bordered Crimson Rug",
-      "description" : "Repeating bands of colors descend into each other, creating a sleek bordered look for this rug.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50234,
-      "name" : "Bunny Bed",
-      "description" : "HOP on into bed? Well, don't mind if I do!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 50235,
-      "name" : "Classic Bookshelf",
-      "description" : "Some might refer to this bookshelf as \"outdated\", but they just don't appreciate the classics.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50236,
-      "name" : "Classic Hutch",
-      "description" : "A standard hutch of Human make, typically this furniture is used to store dinnerware and other odds and ends.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50237,
-      "name" : "Double Lamp Post",
-      "description" : "A post with two glowing lamps, it's two lights for the post of one.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50238,
-      "name" : "Eastern Landscape Painting",
-      "description" : "A painting based loosely on an explorer's recounting of a village they visited, far across the East Sea.",
-      "location" : "SunHaven",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50239,
-      "name" : "Fancy Gold and Green Rug",
-      "description" : "A large rug spun by the master rug makers of the Eastern Deserts, it uses only the finest of fibers and dyes.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50240,
-      "name" : "Large Fluffy Amber Rug",
-      "description" : "A big rug of spun fluffy fiber, it feels soft and tickly against your skin.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50241,
-      "name" : "Large Fluffy Navy Rug",
-      "description" : "A big rug of spun fluffy fiber, it feels soft and tickly against your skin.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50242,
-      "name" : "Large Fluffy Purple Rug",
-      "description" : "A big rug of spun fluffy fiber, it feels soft and tickly against your skin.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50243,
-      "name" : "Large Fluffy Red Rug",
-      "description" : "A big rug of spun fluffy fiber, it feels soft and tickly against your skin.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50244,
-      "name" : "Long Beige Rug",
-      "description" : "A velvety beige rug lined in gold, this would look nice just about anywhere.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50245,
-      "name" : "Long Green Rug",
-      "description" : "A velvety green rug lined in gold, this would look nice just about anywhere.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50246,
-      "name" : "Long Purple Rug",
-      "description" : "A velvety purple rug lined in deep purple trim, this would look nice just about anywhere.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50247,
-      "name" : "Long Red Rug",
-      "description" : "A velvety red rug lined in gold, this would look nice just about anywhere.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50248,
-      "name" : "Pink Ornate Oval Rug",
-      "description" : "Only the highest quality thread was hand selected for this ornate rug.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50249,
-      "name" : "Purple Boho Rug",
-      "description" : "A rug styled after the aesthetic of a frugal bohemian lifestyle.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50250,
-      "name" : "Large Bookshelf",
-      "description" : "An extra large bookshelf with plenty of room for all your arcanic tomes, texts of knowledge and magical adventure novels.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50251,
-      "name" : "Maple Kitchen Cabinet",
-      "description" : "Wall cabinets of fine maple wood, these will offer lots of off-surface storage for your kitchen tools.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50252,
-      "name" : "Rustic Brick Fireplace",
-      "description" : "Handcrafted clay bricks stacked in the same way as the fireplaces of old, keep your home warm and toasty with some oldschool aesthetic.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50253,
-      "name" : "Stone Oven",
-      "description" : "An old stone oven, just like your granny might have used. It's heated by burning logs, but still does a great job baking anything.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50254,
-      "name" : "Watermelon Couch",
-      "description" : "The unusual design in this red couch's cushions is meant to mimic the seeds of a watermelon slice, how fun!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 50255,
-      "name" : "Oak Kitchen Cabinet",
-      "description" : "A cabinet of beautiful stained oak sourced from the Northern Region, this would look good in any kitchen.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50256,
-      "name" : "Metal Standing Mirror",
-      "description" : "A long body mirror set in a heavy iron frame, it's pretty heavy but certainly sturdy.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50257,
-      "name" : "Rainbow Poster",
-      "description" : "It's like your own personal rainbow, ready to add a streak of color to your room.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50258,
-      "name" : "Modest Teal Fridge",
-      "description" : "Just a standard model fridge. Nothing special, but it looks quaint and it gets the job done.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 50259,
-      "name" : "Insignia Emblem Desk",
-      "description" : "A wooden desk with a mystical insignia carved into it. It's said that the symbol holds mystical properties, but at the very least it looks pretty neat.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50260,
-      "name" : "Light Green Lined Wooden Table",
-      "description" : "The green border of this table denotes it as a medical desk, often found in hospitals and doctor's offices.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50261,
-      "name" : "Purple Mat Desk",
-      "description" : "An otherwise unremarkable wooden desk, it comes topped with a soft purple mat that is easy on the elbows when you're doing a spot of writing.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50262,
-      "name" : "Oak Kitchen Sink Counter",
-      "description" : "A countertop of beautiful stained oak sourced from the Northern Region, this would look good in any kitchen.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50263,
-      "name" : "Oak Kitchen Island",
-      "description" : "A kitchen island of beautiful stained oak sourced from the Northern Region, this would look good in any kitchen.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50264,
-      "name" : "Rustic Kitchen Counter",
-      "description" : "A countertop in the style of the old cottage homes found throughout the Eastern Region.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50265,
-      "name" : "Green Wooden Wall Shelf",
-      "description" : "A shelf made to be placed on a wall. It may be simple, but sometimes simplicity makes for the boldest decor.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50266,
-      "name" : "Herbalist Poster",
-      "description" : "A poster advertising an herbalist shop somewhere off in the Eastern Region.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50267,
-      "name" : "Large Balls of Yarn",
-      "description" : "Best kept away from cats... and cat Amari.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50268,
-      "name" : "Leafy Cubby",
-      "description" : "This storage space will make sure you never accidentally LEAF anything laying around.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50269,
-      "name" : "Log Pile",
-      "description" : "A neatly stacked pile of wooden logs patiently waiting to be used for any manner of log-related activities.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50270,
-      "name" : "Long Wall Mirror",
-      "description" : "A body length mirror, it's the right size for inspecting yourself top to bottom.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50271,
-      "name" : "Mahogany Counter",
-      "description" : "Finely sanded wood of exotic Southern Island tropical trees. Show off both your wealth and your taste with this beauty of a countertop.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50272,
-      "name" : "Marigold Leaf Rug",
-      "description" : "The flowing shapes of marigold leaves have been beautifully captured in the threading of this plush rug.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50273,
-      "name" : "Mushroom Lamp Post",
-      "description" : "A magically cultivated mushroom. It is naturally bioluminescent and gives off a nice warm glow.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50274,
-      "name" : "Mushroom Standing Lamp",
-      "description" : "A magically cultivated mushroom. It is naturally bioluminescent and gives off a nice warm glow.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50275,
-      "name" : "Nel'Vari Balloons",
-      "description" : "Festive Nel'Varian balloons, they're filled with enchanted air so they never deflate!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50276,
-      "name" : "Paw Print Doormat",
-      "description" : "Doormats aren't just for people! Show your pawed friends that they're just as welcome as anyone else.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50277,
-      "name" : "Purple Petal Rug",
-      "description" : "If you walk on this rug while wearing armor, does that mean you're putting the metal to the petal?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50278,
-      "name" : "Red Carpet",
-      "description" : "Softer than your typical rug, this intricately sewn carpet can pull any room together.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50279,
-      "name" : "Red Flower Rug",
-      "description" : "If you walk on this rug while wearing armor, does that mean you're putting the metal to the petal?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50280,
-      "name" : "Red Fringe Carpet",
-      "description" : "A short carpet made especially to accent the ends of furniture.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50281,
-      "name" : "Red Petal Rug",
-      "description" : "If you walk on this rug while wearing armor, does that mean you're putting the metal to the petal?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50282,
-      "name" : "Turquoise Doormat",
-      "description" : "A durable mat of woven fiber, this thing can handle the worst your dirty feet can throw at it.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50283,
-      "name" : "Box of Bottles",
-      "description" : "A box full of empty bottles just waiting to find uses. You'd look like quite the potion brewer with a couple of these laying around.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50284,
-      "name" : "Classic Wooden Dresser",
-      "description" : "A dresser of classic Human design, it's a bit rustic but gets the job done beautifully.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50285,
-      "name" : "Woven Purple Rug",
-      "description" : "A hand woven rug of dyed fibers. Though woven by hand, but it's as durable as any machine could produce.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50286,
-      "name" : "Woven Yellow Rug",
-      "description" : "A hand woven rug of dyed fibers. Though woven by hand, but it's as durable as any machine could produce.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50287,
-      "name" : "Yellow Doormat",
-      "description" : "A durable mat of woven fiber, this thing can handle the worst your dirty feet can throw at it.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50288,
-      "name" : "Yellow Flower Rug",
-      "description" : "If you walk on this rug while wearing armor, does that mean you're putting the metal to the petal?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50289,
-      "name" : "Rack of Vials",
-      "description" : "Ogranized vials are happy vials.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50290,
-      "name" : "Rainbow Jars",
-      "description" : "A collection of jars, lined up in a rainbow of colors. Popular for the rainbow reflections they cast whenever the light strikes them just right.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50291,
-      "name" : "Rose Painting Easel",
-      "description" : "A carved palette made for paints, an essential tool for any artist.",
-      "location" : "Nel'Vari",
-      "rarity" : "Rare",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50292,
-      "name" : "Shiny Leather Sage Stool",
-      "description" : "A stool upholstered in well-shined leather, you should be careful not to slip right off this!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50293,
-      "name" : "Spirea Flower Basket",
-      "description" : "Spirea is actually a type of flowering shrub. In the Northern Region it is recognized as a sign of fortune and prosperity wherever it grows.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50294,
-      "name" : "Stump Stool",
-      "description" : "A fashionable and novel stool, or an old stump? Beauty truly is in the eye of the stump-holder.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50295,
-      "name" : "Teal Crafter's Stool",
-      "description" : "A workshop stool that is perfect for cushioning your rump over a long crafting project.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50296,
-      "name" : "Trellis Planter",
-      "description" : "Thin planks of wood interlocked together to form a stylish 'ladder' that your potted plants can grow upwards upon.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50297,
-      "name" : "Vine Strung Hammock",
-      "description" : "Elves across the world love to take snoozes in the midst of nature. What better bedroom than the forest itself?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50298,
-      "name" : "Vine Wrapped Column ",
-      "description" : "This chiseled stone column may seem quite old but it's actually newly made. It's just giving off the impression of age, for decorative sake.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50299,
-      "name" : "Wooden Standing Mirror",
-      "description" : "Get lost in your own reflection, or anything else's reflection, with this tall standing mirror.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50300,
-      "name" : "Round String Lights",
-      "description" : "Shiny baubles of light, all hung together on a single string. Good for mood lighting, or maybe just for having fun.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Candle"
-      ]
-   },
-   {
-      "id" : 50301,
-      "name" : "Snaccoon Poster",
-      "description" : "A wall poster depicting a Snaccoon, no true Snacc-head could do without one of these.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50302,
-      "name" : "Tall Tree Window",
-      "description" : "Windowpanes set into tree branches. The glass fits into the brances perfectly despite the irregular shapes.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50303,
-      "name" : "Wide Tree Window",
-      "description" : "Windowpanes set into tree branches. The glass fits into the brances perfectly despite the irregular shapes.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50304,
-      "name" : "Wall Ivy",
-      "description" : "Usually seen as a pest plant, this ivy has been purposely grown to act as a wall decoration.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50305,
-      "name" : "Yellow Wall Flags",
-      "description" : "A series of flags with Elven markings printed on them. These markings are meant to bring good luck and fortune wherever they're hung.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50306,
-      "name" : "Tea Altar",
-      "description" : "It is said that in a land far across the East Sea, people preform ornate tea ceremonies using altars just like this.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50307,
-      "name" : "Snaccoon Bed",
-      "description" : "Do you think if you sleep in this bed, someone will bring you a bunch of food?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 50308,
-      "name" : "Snaccoon Chair",
-      "description" : "An ultra soft chair, it almost feels like you're sitting on a real snaccoon.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 50309,
-      "name" : "Snaccoon Couch",
-      "description" : "The perfect place to lay down for a nap after you'd stuffed yourself full of food.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Rotatable"
-      ]
-   },
-   {
-      "id" : 50310,
-      "name" : "Snaccoon Nightstand",
-      "description" : "An adorable snaccoon nightstand. The real question isn't whether or not you need it, it's how many are you going to get?",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50311,
-      "name" : "Snaccoon Table",
-      "description" : "Thankfully this table is far less fuzzy than the real deal.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50312,
-      "name" : "Snaccoon Wardrobe",
-      "description" : "A giant stuffed snaccoon is ready to stand guard over all your clothes (if you don't mind him being asleep on the job).",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 50313,
-      "name" : "Baby Mushroom Light",
-      "description" : "A tiny little baby bioluminescent mushroom. It's been magically cultivated to function as a light.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50314,
-      "name" : "Blue Spool of Thread",
-      "description" : "Not only is thread handy for tailoring, folks of the Northern Region often tie a length of it around a finger as a way to remember important thoughts.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50315,
-      "name" : "Brown Scissors",
-      "description" : "You really shouldn't run with these.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50316,
-      "name" : "Clay Vase",
-      "description" : "Just a simple clay vase shaped by hand. Sometimes there's beauty in simplicity.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50317,
-      "name" : "Dinner Plate",
-      "description" : "Plates are like hats, but for tables.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50318,
-      "name" : "First Aid Kit",
-      "description" : "It isn't a replacement for a real doctor, but can do the trick in a pinch.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50319,
-      "name" : "Folded Leaf Shirt",
-      "description" : "A shirt depicting a single folded leaf, a very hip little design. It's been neatly folded for display purposes.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50320,
-      "name" : "Golden Wind Chimes",
-      "description" : "Gold wind chimes, polished so finely that they give off a blinding shine while swaying in the winds.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50321,
-      "name" : "Gray Elven Vase",
-      "description" : "A beautifully molded clay pot, this one has been glazed grey.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50322,
-      "name" : "Green and Blue Jars",
-      "description" : "Shiny jars blown from colored sands, they're much prettier than plain old uncolored jars.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50323,
-      "name" : "Delicious Drink",
-      "description" : "A sugary drink made from the root bark of a special type of tree, hence the name. To top it off, there's a scoop of ice cream floating in it!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50324,
-      "name" : "Cobalt Elven Vase",
-      "description" : "A beautifully molded clay pot, this one has been glazed cobalt.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50325,
-      "name" : "Green Book",
-      "description" : "An old journal book, it comes with its own buckle to keep its pages shut from prying eyes.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50326,
-      "name" : "Green Glazed Pot",
-      "description" : "The multi-colored glaze of this pot is meant to resemble a raging fire, to invigorate the spirit.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50327,
-      "name" : "Green Quill",
-      "description" : "A green feather, tempered with heat and shaped into a quill for writing.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50328,
-      "name" : "Green Scissors",
-      "description" : "You really shouldn't run with these.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50329,
-      "name" : "Green Spool of Thread",
-      "description" : "Not only is thread handy for tailoring, folks of the Northern Region often tie a length of it around a finger as a way to remember important thoughts.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50330,
-      "name" : "Heart Leaf Plant",
-      "description" : "A very common species of plant across the regions, it is nonetheless highly favored for its cute heart-shaped leaves.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50331,
-      "name" : "Honey Pot",
-      "description" : "A pot made especially for storing sweet, golden honey.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50332,
-      "name" : "Large Paint Brush",
-      "description" : "A hefty paint brush, you could get some serious paint work done with this bad boy.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50333,
-      "name" : "Little Green Vial",
-      "description" : "A tiny vial of green glass, ready to keep a tiny potion or herbal tonic.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50334,
-      "name" : "Lush Leaf Plant",
-      "description" : "A tiny vial of green glass, ready to keep a tiny potion or herbal tonic.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50335,
-      "name" : "Maroon Elven Vase",
-      "description" : "A beautifully molded clay pot, this one has been glazed maroon.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50336,
-      "name" : "Paint Brush Cup",
-      "description" : "A cup for a paint brush, it's coated in a special glaze that prevents wet paint from sticking to it.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50337,
-      "name" : "Paper Scroll",
-      "description" : "Sealed with a band of wax, what could be written inside? Considering it's for decoration, probably nothing. But it still looks really neat!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50338,
-      "name" : "Pink Elven Vase",
-      "description" : "A beautifully molded clay pot, this one has been glazed pink.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50339,
-      "name" : "Pink Lotus Flower",
-      "description" : "The pink lotus flowers of the Elven forests bloom only once every 500 years... unless you use enchantments to make them bloom early, of course.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50340,
-      "name" : "Potted Desert Fern",
-      "description" : "A hardy fern, native to the arid deserts of the far Eastern Region. It looks like it's potted in nothing but dry sand.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50341,
-      "name" : "Potted Sweet Grass Bush ",
-      "description" : "Reeds of sweet grass, straight from the sandy Southern Islands, it's potted in soil that was also taken from the isles.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50342,
-      "name" : "Purple Book",
-      "description" : "A grand fantasy novel, turned open to a random page. This would really give off the impression of an avid reader.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50343,
-      "name" : "Purple Elven Vase",
-      "description" : "A beautifully molded clay pot, this one has been glazed purple.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50344,
-      "name" : "Purple Jar",
-      "description" : "A glass jar tinted with purple pigment, light that passes through it is given a faint purply glow.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50345,
-      "name" : "Red and Blue Bottles",
-      "description" : "Why is it that bottles always look the nicest when there's nothing in them? Decorations are weird.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50346,
-      "name" : "Red Book Stack",
-      "description" : "A stack of old books covering topics on combat and fighting. It's nothing you don't already know, but they'd make an interesting looking decoration.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50347,
-      "name" : "Red Mixing Pot",
-      "description" : "A wide pot that is perfect for mixing all manner of mixes. Now all you need is a mixing spoon.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50348,
-      "name" : "Sagemary Plant",
-      "description" : "A potted sagemary plant. It gives off a pleasent smell, especially when put under a soft morning light.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50349,
-      "name" : "Small Potion Poster",
-      "description" : "A poster advertising \"Crazy Eddy's discount potion emporium\".",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50350,
-      "name" : "Sprouting Plant",
-      "description" : "A plant that has just started to sprout. It's said this particular species takes hundreds of years to come to blossom.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50351,
-      "name" : "Standing Leaf Decor",
-      "description" : "Real leaves formed into an attractive bit of natural home decor.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50352,
-      "name" : "Target Practice Paper",
-      "description" : "Much more affordable than a stuffed target, these practice papers are all the rage among young marksmen.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50353,
-      "name" : "Teal Book",
-      "description" : "An old journal book, it comes with its own buckle to keep its pages shut from prying eyes.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50354,
-      "name" : "Terracotta Pot",
-      "description" : "A sturdy pot of unglazed terracotta clay, it's pretty heavy but it'll look great in your home!",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50355,
-      "name" : "Twin Leaf Plant",
-      "description" : "This species of plant sprout from two separate seeds, the twin seedlings eventually grow and morph into a single plant. Very interesting stuff.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50356,
-      "name" : "Water Jug",
-      "description" : "A jug filled with fresh water. In the Great City, this is considered a very trendy piece of decor.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50357,
-      "name" : "Wooden Paint Palette",
-      "description" : "A carved palette made for paints, an essential tool for any artist.",
-      "location" : "Nel'Vari",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50400,
-      "name" : "Ornament Streamers",
-      "description" : "Deck the halls with these festive winter streamers.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50401,
-      "name" : "Holiday String Lights",
-      "description" : "It's not winter without string lights!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Candle"
-      ]
-   },
-   {
-      "id" : 50402,
-      "name" : "Holiday String Lights Fence",
-      "description" : "This is one festive fence, you'll give it that much.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50403,
-      "name" : "Holiday Bed",
-      "description" : "More sleep is a gift everyone should get.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Bed"
-      ]
-   },
-   {
-      "id" : 50404,
-      "name" : "Holiday Wardrobe",
-      "description" : "This baby can fit so many candy canes in it.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Chest"
-      ]
-   },
-   {
-      "id" : 50405,
-      "name" : "Holiday Throne",
-      "description" : "Dish out gifts, or keep them all to yourself, while sitting atop this winter festival throne.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50406,
-      "name" : "Holiday Couch",
-      "description" : "This comfy couch is the best gift you can give your rump this year.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50407,
-      "name" : "Snowflake Rug",
-      "description" : "You know, they say no two snowflake rugs are alike...",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Rug"
-      ]
-   },
-   {
-      "id" : 50408,
-      "name" : "Holiday Table",
-      "description" : "Festive dinners are best served on festive tables.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Placeable",
-         "Table"
-      ]
-   },
-   {
-      "id" : 50409,
-      "name" : "Holiday End Table",
-      "description" : "Winter may have to end, but this end table never has to!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50410,
-      "name" : "Holiday Tree",
-      "description" : "It's a Western Region tradition to cut down a pine tree and decorate it for winter. This one is a fake tree, though. So sustainable!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50411,
-      "name" : "Blue Holiday Stocking",
-      "description" : "Festive socks. Legends tell that if hung up, a fat red man will sometimes break into your house at night and leave stuff in them!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50412,
-      "name" : "Striped Blue Stocking",
-      "description" : "Festive socks. Legends tell that if hung up, a fat red man will sometimes break into your house at night and leave stuff in them!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50413,
-      "name" : "Striped Red Stocking",
-      "description" : "Festive socks. Legends tell that if hung up, a fat red man will sometimes break into your house at night and leave stuff in them!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50414,
-      "name" : "Striped Yellow Stocking",
-      "description" : "Festive socks. Legends tell that if hung up, a fat red man will sometimes break into your house at night and leave stuff in them!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50415,
-      "name" : "Polka Dot Stocking",
-      "description" : "Festive socks. Legends tell that if hung up, a fat red man will sometimes break into your house at night and leave stuff in them!",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50416,
-      "name" : "Stack of Presents",
-      "description" : "You can NEVER have too many presents. Never.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50417,
-      "name" : "Yule Logs",
-      "description" : "Yule certainly agree that these logs complete your holiday decorations.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50418,
-      "name" : "Hanging Bells",
-      "description" : "Two bells, to ring in joy and cheer.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50419,
-      "name" : "Bow Bell",
-      "description" : "These holidays need more bow bell.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50420,
-      "name" : "Classic Bell",
-      "description" : "Rung by carolers through the land as they sing songs to winter cheer.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50421,
-      "name" : "Thin Bell",
-      "description" : "Sometimes known as an Angel bell, for its chime sounds similar to the wing beats of Angels.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50422,
-      "name" : "Long Bells",
-      "description" : "These little bells sway in the winter winds, like little holiday wind chimes.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50423,
-      "name" : "Cracked Reindeer Ice Sculpture",
-      "description" : "Uh-oh! Looks like the sculptor slipped a bit...",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50424,
-      "name" : "Snow Globe Ice Sculpture",
-      "description" : "More like an ice globe, really.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50425,
-      "name" : "Reindeer Ice Sculpture",
-      "description" : "The graceful movements of a reindeer, perfectly captured in a giant fancy ice cube.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50426,
-      "name" : "Angel Wing Ice Sculpture",
-      "description" : "They're beautiful, but don't try flying with them.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50427,
-      "name" : "Swan Ice Sculpture",
-      "description" : "So realistic it looks like it might just fly away.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50428,
-      "name" : "Dragon Ice Sculpture",
-      "description" : "A very bold, yet elegant, dragon carved of solid ice.",
-      "location" : "SunHaven",
-      "rarity" : "Common",
-      "hasIcon" : true,
-      "tags" : [
-         "Decoration"
-      ]
-   },
-   {
-      "id" : 50429,
-      "name" : "Peacock Ice Sculpture",
-      "description" : "Wow, those tail feathers couldn't have been easy to sculpt!",
       "location" : "SunHaven",
       "rarity" : "Common",
       "hasIcon" : true,
