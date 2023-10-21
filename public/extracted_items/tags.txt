@@ -1,6 +1,7 @@
 Amulet
 Animal
 Aquarium
+ArenaChest
 Armor
 AutoCollector
 Back
@@ -9,10 +10,12 @@ Bed
 BeeHiveBox
 Book
 Bridge
+BuildingPlaceable
 Candle
 Carnival
 Chest
 Consumable
+Coop
 Costume
 Crafting
 Crop
@@ -33,8 +36,10 @@ Food
 Forageable
 ForageTree
 Furniture
+Garden
 Gloves
 GoldenPomegranate
+Greenhouse
 Hat
 Hopper
 House
@@ -47,6 +52,7 @@ Material
 Mining
 Monster
 Mount
+NelvariWorkshop
 Pants
 Permit
 Pet
@@ -74,7 +80,10 @@ TargetDummy
 Tile
 Treasure
 Tree
+Warehouse
 Weapon
 Well
 WishBottle
+WithergateWorkshop
 Wood
+Workshop
